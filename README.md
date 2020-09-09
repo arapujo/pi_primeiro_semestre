@@ -1,8 +1,8 @@
-Projeto Integrador - 1º Semestre - ADS - FATEC - SJC
+Projeto Integrador - 1º Semestre - ADS - FATEC - SJC :computer:
 
 ## Equipe Pantheons
 
-### Membros
+### Membros 
 
 > - Ana Lívia Pascoal da Silva Araújo
 > - Gabriele Gonçalves Vieira
