@@ -1,6 +1,6 @@
 Projeto Integrador - 1º Semestre - ADS - FATEC - SJC :computer:
 
-Tema: Website de venda de cursos
+Tema: Website de venda de cursos<br />
 Equipe: Pantheons - Turma B
 
 ### Membros 
