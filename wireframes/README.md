@@ -4,8 +4,13 @@
 
 ##  Wiframe :pencil:
 
-Um wireframe é um esboço inicial do produto. No projeto do nosso website, definimos as posições dos elementos e as funcionalidas requeridas pelo cliente.
+Um wireframe é um esboço inicial do produto. No projeto do nosso website, definimos as posições dos elementos e as funcionalidades requeridas pelo cliente.
 
 <br>
+
+<p align="center">
+<img  src="(1) Index.png">
+</p>
+
 
 
