@@ -1,10 +1,10 @@
 
 <h1 align="center">Projeto Integrador - ADS - FATEC São José dos Campos</h1>
 
-## Objetivo  :computer:
+## - Objetivo -
 Desenvolver um site de venda de conteúdos didáticos voltados para a área da Tecnologia da Informação
 
-## Membros :busts_in_silhouette:
+## - Membros -
 
 ### Equipe Pantheons
 
