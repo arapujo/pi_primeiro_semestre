@@ -1,7 +1,8 @@
-Projeto Integrador - 1º Semestre - ADS - FATEC - SJC :computer:
 
-Tema: Website de venda de cursos<br />
-Equipe: Pantheons - Turma B
+<h1 align="center">Projeto Integrador - ADS - FATEC São José dos Campos</h1>
+
+## Objetivo
+Desenvolver um site de venda de conteúdos didáticos voltados para a área da Tecnologia da Informação
 
 ### Membros 
 
