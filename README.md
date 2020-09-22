@@ -16,4 +16,4 @@ Desenvolver um site de venda de conteúdos didáticos voltados para a área da T
 
 ## - Plano de Negócios - 
 
-[Plano de Negócios - Projeto Integrador)
+[Plano de Negócios - Projeto Integrador](https://canvanizer.com/canvas/wU3veLy8cmfEu)
