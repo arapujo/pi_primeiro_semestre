@@ -13,3 +13,7 @@ Desenvolver um site de venda de conteúdos didáticos voltados para a área da T
 * Jean Gomes dos Santos
 * Kathlyn Talitiene Ribeiro Carvalho
 * Vitor Luiz Rodrigues de Lima
+
+## - Plano de Negócios - 
+
+[Plano de Negócios - Projeto Integrador](https://canvanizer.com/canvas/wU3veLy8cmfEu)
