@@ -20,7 +20,7 @@ Desenvolver um site de venda de conteúdos didáticos voltados para a área da T
 * Jean Gomes dos Santos (Scrum Master)
 
 * Ana Lívia Pascoal da Silva Araújo (Development Team)
-* Diogo Luiz Troyli Pedrozo de Souza
+* Diogo Luiz Troyli Pedrozo de Souza (Development Team)
 * Gabriele Gonçalves Vieira (Development Team)
 * Kathlyn Talitiene Ribeiro Carvalho (Development Team)
 * Renato Hidalgo Santos 
