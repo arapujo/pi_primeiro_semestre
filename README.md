@@ -3,6 +3,8 @@
 
 ## - Descrição do projeto -
 Desenvolver um site de venda de conteúdos didáticos voltados para a área da Tecnologia da Informação
+<br />
+<br />
 
 ## - Funcionalidades - :computer:
 * Materiais didáticos (vídeo, texto e jogos)
@@ -11,6 +13,7 @@ Desenvolver um site de venda de conteúdos didáticos voltados para a área da T
 * Relatório de vendas
 * Área do administrador
 
+<br />
 
 ## - Equipe - :woman:
 
