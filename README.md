@@ -8,6 +8,7 @@ Desenvolver um site de venda de conteúdos didáticos voltados para a área da T
 
 ## - Funcionalidades - :computer:
 * Materiais didáticos (vídeo, texto e jogos)
+
 * Carrinho de compras
 * Relatório de vendas
 * Área do administrador
@@ -17,6 +18,7 @@ Desenvolver um site de venda de conteúdos didáticos voltados para a área da T
 ## - Equipe - :woman:
 
 * Jean Gomes dos Santos (Scrum Master)
+
 * Ana Lívia Pascoal da Silva Araújo (Development Team)
 * Diogo Luiz Troyli Pedrozo de Souza
 * Gabriele Gonçalves Vieira (Development Team)
