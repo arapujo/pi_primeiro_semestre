@@ -8,7 +8,6 @@ Desenvolver um site de venda de conteúdos didáticos voltados para a área da T
 
 ## - Funcionalidades - :computer:
 * Materiais didáticos (vídeo, texto e jogos)
-
 * Carrinho de compras
 * Relatório de vendas
 * Área do administrador
