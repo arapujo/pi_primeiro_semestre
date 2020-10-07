@@ -1,19 +1,24 @@
 
-<h1 align="center">Projeto Integrador - ADS - FATEC São José dos Campos</h1>
+<h1 align="center">CyberMind</h1>
 
-## - Objetivo -
+## - Descrição do projeto -
 Desenvolver um site de venda de conteúdos didáticos voltados para a área da Tecnologia da Informação
 
-## - Membros -
+## - Funcionalidades - :computer:
+* Materiais didáticos (vídeo, texto e jogos)
 
-### Equipe Pantheons
+* Carrinho de compras
+* Relatório de vendas
+* Área do administrador
 
-* Ana Lívia Pascoal da Silva Araújo
-* Gabriele Gonçalves Vieira
-* Jean Gomes dos Santos
-* Kathlyn Talitiene Ribeiro Carvalho
+
+## - Equipe - :woman:
+
+* Jean Gomes dos Santos (Scrum Master)
+* Ana Lívia Pascoal da Silva Araújo (Development Team)
+* Diogo Luiz Troyli Pedrozo de Souza
+* Gabriele Gonçalves Vieira (Development Team)
+* Kathlyn Talitiene Ribeiro Carvalho (Development Team)
+* Renato Hidalgo Santos 
 * Vitor Luiz Rodrigues de Lima
 
-## - Plano de Negócios - 
-
-[Plano de Negócios - Projeto Integrador](https://canvanizer.com/canvas/wU3veLy8cmfEu)
