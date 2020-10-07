@@ -26,6 +26,8 @@ Desenvolver um site de venda de conteúdos didáticos voltados para a área da T
 * Renato Hidalgo Santos 
 * Vitor Luiz Rodrigues de Lima
 
+<br />
+
 ## - Entregas - :white_check_mark:
 
 - [x] Entrega 1 - 07/09/2020 à 27/09/2020
