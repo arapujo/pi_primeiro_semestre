@@ -23,8 +23,8 @@ Desenvolver um site de venda de conteúdos didáticos voltados para a área da T
 * Diogo Luiz Troyli Pedrozo de Souza (Development Team)
 * Gabriele Gonçalves Vieira (Development Team)
 * Kathlyn Talitiene Ribeiro Carvalho (Development Team)
-* Renato Hidalgo Santos 
-* Vitor Luiz Rodrigues de Lima
+* Renato Hidalgo Santos (Development Team)
+* Vitor Luiz Rodrigues de Lima (Development Team)
 
 <br />
 
