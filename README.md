@@ -58,5 +58,9 @@ Desenvolver um site de venda de conteúdos didáticos voltados para a área da T
 
 ## - Backlog do produto
 
+<br />
 
 
+<p align="center">
+<img  src="assets/img/backlog-cybermind.jpg">
+</p>
