@@ -1,4 +1,4 @@
-[![Generic badge](https://img.shields.io/badge/status-em_andamento-blue.svg)](https://shields.io/) 
+[![Generic badge](https://img.shields.io/badge/status_do_projeto-em_andamento-blue.svg)](https://shields.io/) 
 [![Generic badge](https://img.shields.io/badge/sprint_atual-sprint_1-blue.svg)](https://shields.io/)
 
 
