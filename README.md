@@ -28,6 +28,14 @@ Desenvolver um site de venda de conteúdos didáticos voltados para a área da T
 
 <br />
 
+## - Tecnologias utilizadas - :woman:
+
+* Frontend: HTML5, CSS3 e JavaScript
+
+* Backend: PHP e MySQL
+
+<br />
+
 ## - Entregas - :white_check_mark:
 
 - [x] Entrega 1 - 07/09/2020 à 27/09/2020
