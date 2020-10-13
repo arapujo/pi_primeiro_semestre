@@ -20,11 +20,18 @@ O site desenvolvido têm como objetivo proporcionar a melhor experiência ao usu
 
 <a name="ancora"></a>
 
-- [Hokage](#ancora1)
-- [Kazekage](#ancora2)
-- [Mizukage](#ancora3)
-- [Raikage](#ancora4)
-- [Tsuchikage](#ancora4)
+ [Funcionalidades](#ancora1)
+ 
+ [Equipe](#ancora2)
+ 
+ [Entregas](#ancora3)
+ 
+ [Tecnologias utilizadas](#ancora4)
+ 
+ [Backlog do projeto](#ancora5)
+ 
+ [Cronograma](#ancora6)
+
 
 <a id="ancora1"></a>
 ## - Funcionalidades - :computer:
@@ -36,6 +43,7 @@ O site desenvolvido têm como objetivo proporcionar a melhor experiência ao usu
 
 <br />
 
+<a id="ancora2"></a>
 ## - Equipe - :woman:
 
 * [Jean Gomes dos Santos (Scrum Master)](https://github.com/jeangomes3)
@@ -54,6 +62,7 @@ O site desenvolvido têm como objetivo proporcionar a melhor experiência ao usu
 
 <br />
 
+<a id="ancora3"></a>
 ## - Tecnologias utilizadas - :vibration_mode:
 
 * Frontend: HTML5, CSS3 e JavaScript
@@ -62,6 +71,7 @@ O site desenvolvido têm como objetivo proporcionar a melhor experiência ao usu
 
 <br />
 
+<a id="ancora4"></a>
 ## - Entregas - :white_check_mark:
 
 - [x] Entrega 1 - 07/09/2020 à 27/09/2020
@@ -72,10 +82,12 @@ O site desenvolvido têm como objetivo proporcionar a melhor experiência ao usu
 
 <br />
 
+<a id="ancora5"></a>
 ## - Backlog do projeto
 
 <img  src="SPRINT 1/assets/img/backlog-cybermind.png">
 
+<a id="ancora6"></a>
 ## - Cronograma
 
 <img  src="SPRINT 1/assets/img/cronograma.png">
