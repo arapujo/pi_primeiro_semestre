@@ -56,3 +56,7 @@ Desenvolver um site de venda de conteúdos didáticos voltados para a área da T
 - [ ] Entrega 3 - 19/10/2020 à 08/11/2020
 - [ ] Entrega 3 - 09/11/2020 à 29/11/2020
 
+## - Backlog do produto
+
+
+
