@@ -59,7 +59,7 @@ O site desenvolvido têm como objetivo proporcionar a melhor experiência ao usu
 
 * [Gabriele Gonçalves Vieira (Development Team)](https://github.com/GabrieleGVieira)
 
-* [Kathlyn Talitiene Ribeiro Carvalho (Development Team)](https://github.com/arapujo/pi_primeiro_semestre/edit/master/README.md)
+* [Kathlyn Talitiene Ribeiro Carvalho (Development Team)](https://github.com/arapujo/pi_primeiro_semestre)
 
 * [Renato Hidalgo Santos (Development Team)](https://github.com/renatohidalgo23)
 
