@@ -1,8 +1,8 @@
-<h1>CyberMind</h1>
-
 [![Generic badge](https://img.shields.io/badge/status-em_andamento-blue.svg)](https://shields.io/) 
 [![Generic badge](https://img.shields.io/badge/sprint_atual-sprint_1-blue.svg)](https://shields.io/)
 ![Generic badge](https://img.shields.io/github/forks/arapujo/pi_primeiro_semestre)
+
+<h1>CyberMind</h1>
 
 
 ## - Descrição do projeto - 
