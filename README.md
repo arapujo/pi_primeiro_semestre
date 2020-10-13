@@ -58,7 +58,11 @@ Desenvolver um site de venda de conteúdos didáticos voltados para a área da T
 
 <br />
 
-## - Backlog do produto
+## - Backlog do projeto
+
+<img  src="SPRINT 1/assets/img/backlog-cybermind.png">
+
+## - Cronograma
 
 <img  src="SPRINT 1/assets/img/backlog-cybermind.png">
 
