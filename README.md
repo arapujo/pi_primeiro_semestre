@@ -1,5 +1,9 @@
+<h1>CyberMind</h1>
 
-<h1 align="center">CyberMind</h1>
+[![Generic badge](https://img.shields.io/badge/status-em_andamento-blue.svg)](https://shields.io/) 
+[![Generic badge](https://img.shields.io/badge/sprint_atual-sprint_1-blue.svg)](https://shields.io/)
+![Generic badge](https://img.shields.io/github/forks/arapujo/pi_primeiro_semestre)
+
 
 ## - Descrição do projeto - 
 Desenvolver um site de venda de conteúdos didáticos voltados para a área da Tecnologia da Informação
