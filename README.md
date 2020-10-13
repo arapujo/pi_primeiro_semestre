@@ -37,6 +37,8 @@ Desenvolver um site de venda de conteúdos didáticos voltados para a área da T
 ## - Nossa plataforma - 
 O site desenvolvido têm como objetivo proporcionar a melhor experiência ao usuário, para isso utilizamos técnicas de usuabilidade, assim como responsividade, para que independente do disposito pelo qual o site é acessado, a performance seja sempre a mesma. Além disso, optamos por um design minimalista e moderno, sendo azul e branco as cores predominantes, pois estão relacionadas a educação.
 
+<br />
+
 <a id="ancora2"></a>
 ## - Funcionalidades - :computer:
 * Materiais didáticos (vídeo, texto e jogo)
