@@ -63,6 +63,8 @@ O site desenvolvido têm como objetivo proporcionar a melhor experiência ao usu
 
 * [Renato Hidalgo Santos (Development Team)](https://github.com/renatohidalgo23)
 
+* [Sarah da Boa Viagem Santana (Development Team)](https://github.com/Sarah781)
+
 * [Vitor Luiz Rodrigues de Lima (Development Team)](https://github.com/VilRL)
 
 <br />
