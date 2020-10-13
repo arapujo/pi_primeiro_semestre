@@ -79,9 +79,9 @@ O site desenvolvido têm como objetivo proporcionar a melhor experiência ao usu
 <a id="ancora5"></a>
 ## - Entregas - :white_check_mark:
 
-- [x] Entrega 1 - 07/09/2020 à 27/09/2020
+- [x] Entrega 1 - 07/09/2020 à 27/09/2020 - [Visualizar](https://github.com/arapujo/pi_primeiro_semestre/tree/master/SPRINT%200)
 
-- [ ] Entrega 2 - 28/09/2020 à 17/10/2020
+- [ ] Entrega 2 - 28/09/2020 à 17/10/2020 
 - [ ] Entrega 3 - 19/10/2020 à 08/11/2020
 - [ ] Entrega 3 - 09/11/2020 à 29/11/2020
 
