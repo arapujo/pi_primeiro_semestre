@@ -13,26 +13,31 @@ Desenvolver um site de venda de conteúdos didáticos voltados para a área da T
 <br />
 <br />
 
+
+## - Índice
+<a name="ancora"></a>
+
+ [Sobre a plataforma](#ancora1)
+ 
+ [Funcionalidades](#ancora2)
+ 
+ [Equipe](#ancora3)
+ 
+ [Tecnologias utilizadas](#ancora4)
+ 
+ [Entregas](#ancora5)
+ 
+ [Backlog do projeto](#ancora6)
+ 
+ [Cronograma](#ancora7)
+
+<br />
+
+<a id="ancora1"></a>
 ## - Nossa plataforma - 
 O site desenvolvido têm como objetivo proporcionar a melhor experiência ao usuário, para isso utilizamos técnicas de usuabilidade, assim como responsividade, para que independente do disposito pelo qual o site é acessado, a performance seja sempre a mesma. Além disso, optamos por um design minimalista e moderno, sendo azul e branco as cores predominantes, pois estão relacionadas a educação.
 
-
-<a name="ancora"></a>
-
- [Funcionalidades](#ancora1)
- 
- [Equipe](#ancora2)
- 
- [Tecnologias utilizadas](#ancora3)
- 
- [Entregas](#ancora4)
- 
- [Backlog do projeto](#ancora5)
- 
- [Cronograma](#ancora6)
-
-
-<a id="ancora1"></a>
+<a id="ancora2"></a>
 ## - Funcionalidades - :computer:
 * Materiais didáticos (vídeo, texto e jogo)
 
@@ -42,7 +47,7 @@ O site desenvolvido têm como objetivo proporcionar a melhor experiência ao usu
 
 <br />
 
-<a id="ancora2"></a>
+<a id="ancora3"></a>
 ## - Equipe - :woman:
 
 * [Jean Gomes dos Santos (Scrum Master)](https://github.com/jeangomes3)
@@ -61,7 +66,7 @@ O site desenvolvido têm como objetivo proporcionar a melhor experiência ao usu
 
 <br />
 
-<a id="ancora3"></a>
+<a id="ancora4"></a>
 ## - Tecnologias utilizadas - :vibration_mode:
 
 * Frontend: HTML5, CSS3 e JavaScript
@@ -70,7 +75,7 @@ O site desenvolvido têm como objetivo proporcionar a melhor experiência ao usu
 
 <br />
 
-<a id="ancora4"></a>
+<a id="ancora5"></a>
 ## - Entregas - :white_check_mark:
 
 - [x] Entrega 1 - 07/09/2020 à 27/09/2020
@@ -81,12 +86,12 @@ O site desenvolvido têm como objetivo proporcionar a melhor experiência ao usu
 
 <br />
 
-<a id="ancora5"></a>
+<a id="ancora6"></a>
 ## - Backlog do projeto
 
 <img  src="SPRINT 1/assets/img/backlog-cybermind.png">
 
-<a id="ancora6"></a>
+<a id="ancora7"></a>
 ## - Cronograma
 
 <img  src="SPRINT 1/assets/img/cronograma.png">
