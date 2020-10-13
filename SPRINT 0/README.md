@@ -40,11 +40,7 @@ No projeto do nosso website, definimos as posições dos elementos e as funciona
 ## Visualizar telas 
 Para ver os wireframes, acesse [Telas](https://github.com/arapujo/pi_primeiro_semestre/tree/master/SPRINT%200/Telas). Nela se encontra todas as imagens e um [Arquivo PDF](https://github.com/arapujo/pi_primeiro_semestre/blob/master/SPRINT%200/Telas/wireframes-projeto-integrador-descricao.pdf/), que possui legendas com descrição das telas.
 
-<br>
 
-<p align="center">
-<img  src="Telas/(1) Index.png">
-</p>
 
 
 
