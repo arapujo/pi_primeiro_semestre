@@ -24,18 +24,23 @@ Desenvolver um site de venda de conteúdos didáticos voltados para a área da T
 
 ## - Equipe - :woman:
 
-* Jean Gomes dos Santos (Scrum Master)
+* [Jean Gomes dos Santos (Scrum Master)](https://github.com/jeangomes3)
 
-* Ana Lívia Pascoal da Silva Araújo (Development Team)
-* Diogo Luiz Troyli Pedrozo de Souza (Development Team)
-* Gabriele Gonçalves Vieira (Development Team)
-* Kathlyn Talitiene Ribeiro Carvalho (Development Team)
-* Renato Hidalgo Santos (Development Team)
-* Vitor Luiz Rodrigues de Lima (Development Team)
+* [Ana Lívia Pascoal da Silva Araújo (Development Team)](https://github.com/arapujo/)
+
+* [Diogo Luiz Troyli Pedrozo de Souza (Development Team)](https://github.com/diogotroyli)
+
+* [Gabriele Gonçalves Vieira (Development Team)](https://github.com/GabrieleGVieira)
+
+* [Kathlyn Talitiene Ribeiro Carvalho (Development Team)](https://github.com/arapujo/pi_primeiro_semestre/edit/master/README.md)
+
+* [Renato Hidalgo Santos (Development Team)](https://github.com/renatohidalgo23)
+
+* [Vitor Luiz Rodrigues de Lima (Development Team)](https://github.com/VilRL)
 
 <br />
 
-## - Tecnologias utilizadas - :woman:
+## - Tecnologias utilizadas - :vibration_mode:
 
 * Frontend: HTML5, CSS3 e JavaScript
 
