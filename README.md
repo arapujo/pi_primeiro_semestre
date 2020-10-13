@@ -72,7 +72,7 @@ O site desenvolvido têm como objetivo proporcionar a melhor experiência ao usu
 <a id="ancora4"></a>
 ## - Ferramentas utilizadas - :hammer:
 
-* Frontend: HTML5, CSS3 e JavaScript
+* Frontend: HTML5, CSS3, JavaScript e Bootstrap
 
 * Backend: PHP e MySQL
 
