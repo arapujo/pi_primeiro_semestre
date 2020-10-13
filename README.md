@@ -64,5 +64,5 @@ Desenvolver um site de venda de conteúdos didáticos voltados para a área da T
 
 ## - Cronograma
 
-<img  src="SPRINT 1/assets/img/backlog-cybermind.png">
+<img  src="SPRINT 1/assets/img/cronograma.png">
 
