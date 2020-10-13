@@ -17,8 +17,16 @@ Desenvolver um site de venda de conteúdos didáticos voltados para a área da T
 O site desenvolvido têm como objetivo proporcionar a melhor experiência ao usuário, para isso utilizamos técnicas de usuabilidade, assim como responsividade, para que independente do disposito pelo qual o site é acessado, a performance seja sempre a mesma. Além disso, optamos por um design minimalista e moderno, sendo azul e branco as cores predominantes, pois estão relacionadas a educação.
 
 <br /> 
-<br />
 
+<a name="ancora"></a>
+
+- [Hokage](#ancora1)
+- [Kazekage](#ancora2)
+- [Mizukage](#ancora3)
+- [Raikage](#ancora4)
+- [Tsuchikage](#ancora4)
+
+<a id="ancora1"></a>
 ## - Funcionalidades - :computer:
 * Materiais didáticos (vídeo, texto e jogo)
 
