@@ -13,7 +13,7 @@ Desenvolver um site de venda de conteúdos didáticos voltados para a área da T
 <br />
 
 
-## - Índice
+## - Índice -
 <a name="ancora"></a>
 
  [Sobre a plataforma](#ancora1)
