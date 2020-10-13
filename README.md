@@ -1,9 +1,8 @@
-[![Generic badge](https://img.shields.io/badge/status_do_projeto-em_andamento-blue.svg)](https://shields.io/) 
-[![Generic badge](https://img.shields.io/badge/sprint_atual-sprint_1-blue.svg)](https://shields.io/)
 
+[![Generic badge](https://img.shields.io/badge/STATUS_DO_PROJETO-EM_ANDAMENTO-blue.svg)](https://shields.io/) 
+[![Generic badge](https://img.shields.io/badge/SPRINT_ATUAL-SPRINT_1-blue.svg)](https://shields.io/)
 
-<h1 text align="center">CyberMind</h1>
-
+<h1 text align="center">CyberMind :brain::computer:</h1> 
 <h2 text align="center">Conhecimento na palma da sua mão!</h2>
 
 <br>
@@ -23,7 +22,7 @@ Desenvolver um site de venda de conteúdos didáticos voltados para a área da T
  
  [Equipe](#ancora3)
  
- [Tecnologias utilizadas](#ancora4)
+ [Ferramentas utilizadas](#ancora4)
  
  [Entregas](#ancora5)
  
@@ -40,7 +39,7 @@ O site desenvolvido têm como objetivo proporcionar a melhor experiência ao usu
 <br />
 
 <a id="ancora2"></a>
-## - Funcionalidades - :computer:
+## - Funcionalidades - :computer_mouse:
 * Materiais didáticos (vídeo, texto e jogo)
 
 * Carrinho de compras
@@ -50,7 +49,7 @@ O site desenvolvido têm como objetivo proporcionar a melhor experiência ao usu
 <br />
 
 <a id="ancora3"></a>
-## - Equipe - :woman:
+## - Equipe - :busts_in_silhouette:
 
 * [Jean Gomes dos Santos (Scrum Master)](https://github.com/jeangomes3)
 
@@ -69,7 +68,7 @@ O site desenvolvido têm como objetivo proporcionar a melhor experiência ao usu
 <br />
 
 <a id="ancora4"></a>
-## - Tecnologias utilizadas - :vibration_mode:
+## - Ferramentas utilizadas - :hammer:
 
 * Frontend: HTML5, CSS3 e JavaScript
 
@@ -94,7 +93,10 @@ O site desenvolvido têm como objetivo proporcionar a melhor experiência ao usu
 <img  src="SPRINT 1/assets/img/backlog-cybermind.png">
 
 <a id="ancora7"></a>
-## - Cronograma
+
+<br />
+
+## - Cronograma - :clock1230:
 
 <img  src="SPRINT 1/assets/img/cronograma.png">
 
