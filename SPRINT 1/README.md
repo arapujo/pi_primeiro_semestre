@@ -12,6 +12,7 @@
 <p> Para esta entrega nossa equipe decidiu desenvolver a tela <b>Home</b>, pois é por meio dela que o usuário terá acesso ao catálogo de cursos; telas de <b>Login</b> e <b>Cadastro</b>, pois elas são imprencídiveis para a funcionalidade <b>Carrinho</b> que será entregue na Sprint 2; produzimos os <b>materiais de texto</b> das matérias solicitadas pelo cliente. Foi elaborado também o <b>Plano de Negócios</b>, contendo as informações orçamentárias e a nossa proposta de venda e a <b>logo</b>, que foi desenvolvida no final da Sprint 0.
 
 </br>
+</br>
 
 ## - Índice -
 <a name="ancora"></a>
@@ -60,6 +61,6 @@ Para acessar nosso <b>Plano de Negócios</b>, clique aqui.
 ## - Site -
 Para visualizar o site em funcionamento, [clique aqui](http://cybermind.atwebpages.com/).
 
-<p font-size="16px"> :heavy_exclamation_mark: Durante o desenvolvimento do site, a hospedagem é gratuita.<p>
+<p font-size="16px"> :heavy_exclamation_mark: Durante o desenvolvimento do site, a hospedagem é gratuita. :heavy_exclamation_mark: <p>
  
  
