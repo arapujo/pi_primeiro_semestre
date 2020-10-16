@@ -35,8 +35,8 @@ $mail->Host = "smtp.gmail.com";
 $mail->Port = "587";
 $mail->SMTPSecure = "tls";
 $mail->SMTPAuth = "true";
-$mail->Username = "";
-$mail->Password = "";
+$mail->Username = "cybermindprojetointegrador@gmail.com";
+$mail->Password = "PROJETOintegrador2020***";
 
 //Configuração da Mensagem
 $mail->setFrom($mail->Username,"Cyber Mind"); //Remetende
@@ -49,7 +49,7 @@ Uma nova senha foi solicitada
 <br><br>
 Sua nova senha é $novasenha
 <br><br>
-Atenciosamente CyberMind";
+Atenciosamente, CyberMind";
 
 //Declarando que o conteudo é html para editar o texto e enviar
 $mail->IsHTML(true);
