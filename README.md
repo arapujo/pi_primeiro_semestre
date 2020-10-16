@@ -125,4 +125,4 @@ O site desenvolvido têm como objetivo proporcionar a melhor experiência ao usu
 
 <br />
 
-## - Cards de entrega - :clock1230:
+## - Cards de entrega - :page_facing_up:
