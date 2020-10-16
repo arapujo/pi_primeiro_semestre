@@ -7,8 +7,14 @@
 
 <br>
 
+## - Objetivo do projeto -  
+Desenvolver um site de venda de conteúdos didáticos voltados para a área da Tecnologia da Informação.
+
+<br>
+
+
 ## - Descrição do projeto - 
-Desenvolver um site de venda de conteúdos didáticos voltados para a área da Tecnologia da Informação
+ O website deverá possuir Cadastro e Login, um carrinho para a compra do material, sendo esses Lógica de Programação e Algoritmos, Hardware, Matemática Discreta (Lógica e Grafos), Arquitetura e Organização de Computadores, Inglês e Português (Pontuação e Concordância). Os materiais serão inteiramente produzidos pela nossa equipe. Será desenvolvida também, uma área de Administrador, para adição de conteúdos e acompanhamento de vendas.
 <br />
 <br />
 
@@ -34,7 +40,7 @@ Desenvolver um site de venda de conteúdos didáticos voltados para a área da T
 
 <a id="ancora1"></a>
 ## - Sobre a plataforma - 
-O site desenvolvido têm como objetivo proporcionar a melhor experiência ao usuário, para isso utilizamos técnicas de usuabilidade, assim como responsividade, para que independente do disposito pelo qual o site é acessado, a performance seja sempre a mesma. Além disso, optamos por um design minimalista e moderno, sendo azul e branco as cores predominantes, pois estão relacionadas a educação.
+O site desenvolvido têm como objetivo proporcionar a melhor experiência ao usuário, para isso utilizamos técnicas de usuabilidade, assim como responsividade, para que independente do disposito pelo qual o site é acessado, a performance seja sempre a mesma. Além disso, optamos por um design minimalista e moderno, sendo azul e branco as cores predominantes, pois estão relacionadas a educação. Será necessário também, uma área de Administrador para que possam ser adicionados os conteúdos e 
 
 <br />
 
