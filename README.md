@@ -42,9 +42,11 @@ O site desenvolvido têm como objetivo proporcionar a melhor experiência ao usu
 ## - Funcionalidades - :computer_mouse:
 * Materiais didáticos (vídeo, texto e jogo)
 
+* Login e Esqueci senha
+* Cadastro
 * Carrinho de compras
-* Relatório de vendas
-* Área do administrador
+* Área do administrador: Relatório de vendas
+* Área do administrador: Adicionar Material
 
 <br />
 
