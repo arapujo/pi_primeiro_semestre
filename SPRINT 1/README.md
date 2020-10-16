@@ -59,7 +59,7 @@ Para acessar nosso <b>Plano de Negócios</b>, [clique aqui.](https://github.com/
 
 <a id="ancora4"></a>
 ## - Site -
-Para visualizar o site em funcionamento, [clique aqui](http://cybermind.atwebpages.com/).
+Para visualizar o site CyberMind, [clique aqui](http://cybermind.atwebpages.com/).
 
 Funcionalidades em funcionamento:
 
