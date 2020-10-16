@@ -1,0 +1,81 @@
+/*--- MENU - EXCETO DO HOME --*/
+
+.navbar {
+    background-color:#1e8ebb!important;
+  }
+  
+  .navbar-brand img {
+    height: 4rem;
+  }
+  
+  .navbar-nav li {
+    padding-right: .7rem;
+  }
+  
+  .navbar-dark .navbbar-nav .nav-link {
+    color: white;
+    padding-top: 0.8rem;
+  }
+  
+  .nav-button-login{
+    width: auto;
+    border-radius: 10px;
+    text-align: center;
+    border: 1px solid #fff;
+    background-color: transparent;
+    color:#fff;
+    font-size: 1.4rem;
+    text-transform: uppercase;
+  }
+  
+  .nav-search{
+    background: rgba(82, 78, 78, 0.3);
+    border-radius: 30px;
+    border:none;
+    width: 310px;
+    height: 40px;
+    z-index: 1;
+    text-align: center;
+    background-position: center left 7%;
+    background-size: 13px 13px;
+    background-image: url(../../assets/icon/search-icon.png);
+    background-repeat: no-repeat;
+  }
+
+  /* FOOTER */
+
+  footer {
+  background: rgb(0, 0, 0);
+  padding: 1.5rem 0 1.5rem;
+  margin-top: 1rem;
+}
+
+footer img {
+  height: 4.5rem;
+  margin: 1.5rem 0;
+}
+
+footer a {
+  color: white;
+  font-size: 1.3rem;
+  text-transform: uppercase;
+}
+footer a:hover{
+    text-decoration: none;
+    color:#1e8ebb;
+}
+
+.footer-icon{
+  height: 5rem;
+}
+.footer-icon:hover {
+  color:#fff!important;
+}
+
+hr.socket {
+  width: 100%;
+  border-top: .2rem solid #1e8ebb;
+  margin-top: 3rem; 
+}
+  
+ 
