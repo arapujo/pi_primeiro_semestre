@@ -13,4 +13,4 @@
 
 <br>
 
-<h1 text align="center">Entrega - SPRINT 1</h1> 
+## Entrega - SPRINT 1
