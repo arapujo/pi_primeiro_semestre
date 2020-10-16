@@ -111,7 +111,7 @@ O site desenvolvido têm como objetivo proporcionar a melhor experiência ao usu
 <a id="ancora6"></a>
 ## - Backlog do projeto - :bar_chart:
 
-<img  src="SPRINT 1/assets/img/backlog-cybermind.png">
+<img  src="SPRINT 1/Código/assets/img/backlog-cybermind.png">
 
 <a id="ancora7"></a>
 
