@@ -35,7 +35,7 @@
 
 <a id="ancora2"></a>
 ## - Materiais de texto -
-Para conferir os <b>materiais de textos</b> produzidos, clique aqui. Os arquivos estão em formato PDF e serão adicionados posteriormente ao site.
+Para conferir os <b>materiais de textos</b> produzidos, [clique aqui](https://github.com/arapujo/pi_primeiro_semestre/tree/master/SPRINT%201/Materiais%20Did%C3%A1ticos). Os arquivos estão em formato PDF e serão adicionados posteriormente ao site.
 
 
 - [x] Lógica de Programação e Algoritmos
@@ -53,7 +53,7 @@ Para conferir os <b>materiais de textos</b> produzidos, clique aqui. Os arquivos
 
 <a id="ancora3"></a>
 ## - Plano de negócios -
-Para acessar nosso <b>Plano de Negócios</b>, clique aqui.
+Para acessar nosso <b>Plano de Negócios</b>, [clique aqui.](https://github.com/arapujo/pi_primeiro_semestre/blob/master/SPRINT%201/Materiais%20Did%C3%A1ticos/Plano%20de%20Neg%C3%B3cios.pdf)
  
 <br>
 
