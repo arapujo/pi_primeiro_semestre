@@ -119,7 +119,7 @@ O site desenvolvido têm como objetivo proporcionar a melhor experiência ao usu
 
 ## - Cronograma - :clock1230:
 
-<img  src="SPRINT 1/assets/img/cronograma.png">
+<img  src="SPRINT 1/Código/assets/img/cronograma.png">
 
 <a id="ancora8"></a>
 
