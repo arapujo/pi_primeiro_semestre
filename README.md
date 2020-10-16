@@ -13,7 +13,7 @@ Desenvolver um site de venda de conteúdos didáticos voltados para a área da T
 <br />
 
 
-## - Índice
+## - Índice -
 <a name="ancora"></a>
 
  [Sobre a plataforma](#ancora1)
@@ -63,6 +63,8 @@ O site desenvolvido têm como objetivo proporcionar a melhor experiência ao usu
 
 * [Renato Hidalgo Santos (Development Team)](https://github.com/renatohidalgo23)
 
+* [Sarah da Boa Viagem Santana (Development Team)](https://github.com/Sarah781)
+
 * [Vitor Luiz Rodrigues de Lima (Development Team)](https://github.com/VilRL)
 
 <br />
@@ -70,7 +72,7 @@ O site desenvolvido têm como objetivo proporcionar a melhor experiência ao usu
 <a id="ancora4"></a>
 ## - Ferramentas utilizadas - :hammer:
 
-* Frontend: HTML5, CSS3 e JavaScript
+* Frontend: HTML5, CSS3, JavaScript e Bootstrap
 
 * Backend: PHP e MySQL
 
@@ -88,7 +90,7 @@ O site desenvolvido têm como objetivo proporcionar a melhor experiência ao usu
 <br />
 
 <a id="ancora6"></a>
-## - Backlog do projeto :bar_chart:
+## - Backlog do projeto - :bar_chart:
 
 <img  src="SPRINT 1/assets/img/backlog-cybermind.png">
 
