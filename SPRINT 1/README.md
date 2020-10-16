@@ -62,7 +62,6 @@ Para acessar nosso <b>Plano de Negócios</b>, [clique aqui.](https://github.com/
 Para visualizar o site em funcionamento, [clique aqui](http://cybermind.atwebpages.com/).
 
 Funcionalidades em funcionamento:
-- [x] Lógica de Programação e Algoritmos
 
 - [x] Home
 
