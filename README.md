@@ -43,6 +43,9 @@ Desenvolver um site de venda de conteúdos didáticos voltados para a área da T
  [Backlog do projeto](#ancora6)
  
  [Cronograma](#ancora7)
+ 
+  [Cards de entrega](#ancora8)
+
 
 <br />
 
@@ -118,3 +121,8 @@ O site desenvolvido têm como objetivo proporcionar a melhor experiência ao usu
 
 <img  src="SPRINT 1/assets/img/cronograma.png">
 
+<a id="ancora8"></a>
+
+<br />
+
+## - Cards de entrega - :clock1230:
