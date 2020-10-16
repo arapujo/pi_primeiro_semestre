@@ -61,6 +61,17 @@ Para acessar nosso <b>Plano de Negócios</b>, [clique aqui.](https://github.com/
 ## - Site -
 Para visualizar o site em funcionamento, [clique aqui](http://cybermind.atwebpages.com/).
 
+Funcionalidades em funcionamento:
+- [x] Lógica de Programação e Algoritmos
+
+- [x] Home
+
+- [x] Cadastro
+
+- [x] Login
+
+
+
 <p font-size="16px"> :heavy_exclamation_mark: Durante o desenvolvimento do site, a hospedagem é gratuita. :heavy_exclamation_mark: <p>
  
  
