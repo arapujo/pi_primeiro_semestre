@@ -38,7 +38,7 @@ Para conferir os <b>materiais de textos</b> produzidos, clique aqui. Os arquivos
 
 <a id="ancora3"></a>
 ## - Plano de negócios -
-Para acessar nosso <b>Plano de Negócios/<b>, clique aqui.
+Para acessar nosso <b>Plano de Negócios</b>, clique aqui.
  
 <br>
 
