@@ -51,7 +51,7 @@ Desenvolver um site de venda de conteúdos didáticos voltados para a área da T
 
 <a id="ancora1"></a>
 ## - Sobre a plataforma - 
-O site desenvolvido têm como objetivo proporcionar a melhor experiência ao usuário, para isso utilizamos técnicas de usuabilidade, assim como responsividade, para que independente do disposito pelo qual o site é acessado, a performance seja sempre a mesma. Além disso, optamos por um design minimalista e moderno, sendo azul e branco as cores predominantes, pois estão relacionadas a educação. Será necessário também, uma área de Administrador para que possam ser adicionados os conteúdos e 
+O site desenvolvido têm como objetivo proporcionar a melhor experiência ao usuário, para isso utilizamos técnicas de usuabilidade, assim como responsividade, para que independente do disposito pelo qual o site é acessado, a performance seja sempre a mesma. Além disso, optamos por um design minimalista e moderno, sendo azul e branco as cores predominantes, pois estão relacionadas a educação.  
 
 <br />
 
@@ -102,7 +102,7 @@ O site desenvolvido têm como objetivo proporcionar a melhor experiência ao usu
 
 - [x] Entrega 1 - 07/09/2020 à 27/09/2020 - Para visualizar a entrega, [clique aqui](https://github.com/arapujo/pi_primeiro_semestre/tree/master/SPRINT%200).
 
-- [ ] Entrega 2 - 28/09/2020 à 17/10/2020 
+- [ ] Entrega 2 - 28/09/2020 à 17/10/2020 - Para visulizar a entrega, [clique aqui](https://github.com/arapujo/pi_primeiro_semestre/tree/master/SPRINT%201)
 - [ ] Entrega 3 - 19/10/2020 à 08/11/2020
 - [ ] Entrega 3 - 09/11/2020 à 29/11/2020
 
@@ -111,7 +111,7 @@ O site desenvolvido têm como objetivo proporcionar a melhor experiência ao usu
 <a id="ancora6"></a>
 ## - Backlog do projeto - :bar_chart:
 
-<img  src="SPRINT 1/assets/img/backlog-cybermind.png">
+<img  src="SPRINT 1/Código/assets/img/backlog-cybermind.png">
 
 <a id="ancora7"></a>
 
@@ -119,10 +119,10 @@ O site desenvolvido têm como objetivo proporcionar a melhor experiência ao usu
 
 ## - Cronograma - :clock1230:
 
-<img  src="SPRINT 1/assets/img/cronograma.png">
+<img  src="SPRINT 1/Código/assets/img/cronograma.png">
 
 <a id="ancora8"></a>
 
 <br />
 
-## - Cards de entrega - :clock1230:
+## - Cards de entrega - :page_facing_up:
