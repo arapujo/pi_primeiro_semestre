@@ -11,6 +11,8 @@
 
 <p> Para esta entrega nossa equipe decidiu desenvolver a tela <b>Home</b>, pois é por meio dela que o usuário terá acesso ao catálogo de cursos; telas de <b>Login</b> e <b>Cadastro</b>, pois elas são imprencídiveis para a funcionalidade <b>Carrinho</b> que será entregue na Sprint 2; produzimos os <b>materiais de texto</b> das matérias solicitadas pelo cliente. Foi elaborado também o <b>Plano de Negócios</b>, contendo as informações orçamentárias e a nossa proposta de venda e a <b>logo</b>, que foi desenvolvida no final da Sprint 0.
 
+</br>
+
 ## - Índice -
 <a name="ancora"></a>
 
@@ -22,7 +24,7 @@
  
  [Site](#ancora4)
  
- 
+ </br>
 
 <a id="ancora1"></a>
 ## Card SPRINT 1 
@@ -34,6 +36,18 @@
 ## - Materiais de texto -
 Para conferir os <b>materiais de textos</b> produzidos, clique aqui. Os arquivos estão em formato PDF e serão adicionados posteriormente ao site.
 
+
+- [x] Lógica de Programação e Algoritmos
+
+- [x] Hardware
+
+- [x] Matemática (Lógica e Grafos)
+
+- [x] Arquitetura e Organização de Computadores
+
+- [x] Português (Concordância e Pontuação)
+
+- [x] Inglês
 <br>
 
 <a id="ancora3"></a>
