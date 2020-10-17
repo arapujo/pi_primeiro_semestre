@@ -16,13 +16,13 @@
 <br>
 
 ## - Objetivo do projeto -  
-Desenvolver um site de venda de conteúdos didáticos voltados para a área da Tecnologia da Informação.
+Desenvolver um site de e-commerce no qual os alunos possam acessar conteúdos didáticos de qualidade, fomentando a cultura e agregando valores ao cliente de acordo com as regras de negócios.
 
 <br>
 
 
 ## - Descrição do projeto - 
- O website deverá possuir Cadastro e Login, um carrinho para a compra do material, sendo esses Lógica de Programação e Algoritmos, Hardware, Matemática Discreta (Lógica e Grafos), Arquitetura e Organização de Computadores, Inglês e Português (Pontuação e Concordância). Os materiais serão inteiramente produzidos pela nossa equipe. Será desenvolvida também, uma área de Administrador, para adição de conteúdos e acompanhamento de vendas.
+O projeto têm como objetivo o desenvolvimento dos alunos de Análise e Desenvolvimento de Sistemas da Fatec de São José dos Campos - Profº Jessen Vidal na criação de um site de venda de conteúdos didáticos voltado para a área da tecnologia. O trabalho visa a interação dos alunos com o cliente, no qual os mesmos possuem acesso as regras do projeto que são definidas pelo cliente, para assim atender suas demandas e necessidades.
 <br />
 <br />
 
@@ -32,7 +32,7 @@ Desenvolver um site de venda de conteúdos didáticos voltados para a área da T
 
  [Sobre a plataforma](#ancora1)
  
- [Funcionalidades](#ancora2)
+ [Requisitos](#ancora2)
  
  [Equipe](#ancora3)
  
@@ -51,15 +51,35 @@ Desenvolver um site de venda de conteúdos didáticos voltados para a área da T
 
 <a id="ancora1"></a>
 ## - Sobre a plataforma - 
-O site desenvolvido têm como objetivo proporcionar a melhor experiência ao usuário, para isso utilizamos técnicas de usuabilidade, assim como responsividade, para que independente do disposito pelo qual o site é acessado, a performance seja sempre a mesma. Além disso, optamos por um design minimalista e moderno, sendo azul e branco as cores predominantes, pois estão relacionadas a educação.  
+O site desenvolvido têm como meta proporcionar a melhor experiência ao usuário, para que o aprendizado seja efetivo. Para isso, foram utilizadas técnicas de usuabilidade, assim como responsividade, para que independente do disposito pelo qual o site é acessado, a performance seja sempre a mesma. Além disso, optamos por um design minimalista e moderno, sendo azul e branco as cores predominantes, já que estão relacionadas a educação.  
 
 <br />
 
 <a id="ancora2"></a>
-## - Funcionalidades - :computer_mouse:
-* Materiais didáticos (vídeo, texto e jogo)
+## - Requisitos - :computer_mouse:  
+
+O cliente solicitou que o site deverá possuir os seguintes requisitos:
+
+<b>Materiais didáticos (texto, vídeo e jogo)</b> :
+
+* Português (Concordância e Pontuação)
+
+* Matemática (Lógica e Grafos)
+
+* Inglês
+
+* Hardware
+
+* Arquitetura e Organização de Computadores
+
+* Algoritmo e Lógica de Programação
+
+<br>
+
+<b>Funcionalidades</b>
 
 * Login e Esqueci senha
+
 * Cadastro
 * Carrinho de compras
 * Área do administrador: Relatório de vendas
@@ -102,7 +122,7 @@ O site desenvolvido têm como objetivo proporcionar a melhor experiência ao usu
 
 - [x] Entrega 1 - 07/09/2020 à 27/09/2020 - Para visualizar a entrega, [clique aqui](https://github.com/arapujo/pi_primeiro_semestre/tree/master/SPRINT%200).
 
-- [ ] Entrega 2 - 28/09/2020 à 17/10/2020 - Para visulizar a entrega, [clique aqui](https://github.com/arapujo/pi_primeiro_semestre/tree/master/SPRINT%201)
+- [x] Entrega 2 - 28/09/2020 à 17/10/2020 - Para visulizar a entrega, [clique aqui](https://github.com/arapujo/pi_primeiro_semestre/tree/master/SPRINT%201)
 - [ ] Entrega 3 - 19/10/2020 à 08/11/2020
 - [ ] Entrega 3 - 09/11/2020 à 29/11/2020
 
@@ -123,6 +143,5 @@ O site desenvolvido têm como objetivo proporcionar a melhor experiência ao usu
 
 <a id="ancora8"></a>
 
-<br />
 
-## - Cards de entrega - :page_facing_up:
+
