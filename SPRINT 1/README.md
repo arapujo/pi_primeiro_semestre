@@ -39,6 +39,20 @@ O conteúdo entregue nessa print, foram definidos de acordo com as 6 primeiras f
 ## Card SPRINT 1 
 <img src="Código/assets/img/card-sprint1.png">
 
+No nosso cronograma (28/09/2020 à 17/10/2020) foi estabelecido a produção de:
+
+* Tela Home
+
+* Tela Login
+
+* Tela Cadastro
+
+* Materiais de Texto
+
+* Plano de negócios
+
+* Hospedagem
+
 <br>
 
 <a id="ancora2"></a>
