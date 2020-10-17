@@ -32,7 +32,7 @@ O projeto têm como objetivo o desenvolvimento dos alunos de Análise e Desenvol
 
  [Sobre a plataforma](#ancora1)
  
- [Funcionalidades](#ancora2)
+ [Requisitos](#ancora2)
  
  [Equipe](#ancora3)
  
@@ -56,7 +56,7 @@ O site desenvolvido têm como meta proporcionar a melhor experiência ao usuári
 <br />
 
 <a id="ancora2"></a>
-## - Funcionalidades - :computer_mouse:  
+## - Requisitos - :computer_mouse:  
 
 O cliente solicitou que o site deverá possuir os seguintes requisitos:
 
