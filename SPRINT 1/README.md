@@ -9,6 +9,10 @@
 
 ## Entrega Sprint 1
 
+O conteúdo entregue nessa print, foram definidos de acordo com as 6 primeiras funcionalidades de alta prioridade do nosso backlog.
+
+<img src="Código/assets/img/sprint1-backlog.png">
+
 <br>
 
 ## Objetivo
