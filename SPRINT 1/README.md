@@ -68,7 +68,7 @@ Para acessar nosso <b>Plano de Negócios completo</b>, [clique aqui.](https://gi
 
 <a id="ancora4"></a>
 ## - Site -
-Para visualizar o site CyberMind em funciomaneto, [clique aqui](http://cybermind.atwebpages.com/).
+Para visualizar o site CyberMind em funcionamento, [clique aqui](http://cybermind.atwebpages.com/).
 
 Funcionalidades em funcionamento:
 
