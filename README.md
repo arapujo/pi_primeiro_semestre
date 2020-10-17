@@ -44,8 +44,7 @@ O projeto têm como objetivo o desenvolvimento dos alunos de Análise e Desenvol
  
  [Cronograma](#ancora7)
  
-  [Cards de entrega](#ancora8)
-
+ [Site CyberMind](#ancora8)
 
 <br />
 
@@ -143,5 +142,14 @@ O cliente solicitou que o site deverá possuir os seguintes requisitos:
 
 <a id="ancora8"></a>
 
+<br>
+
+<a id="ancora1"></a>
+
+## - Site Cybermind - :clock1230:
+
+Para ver o site em funciomanento até o momento, [clique aqui](http://cybermind.atwebpages.com/).
+
+<img src="SPRINT 1/Código/assets/img/site-cybermind.jpg">
 
 
