@@ -62,23 +62,24 @@ Para conferir os <b>materiais de textos</b> produzidos, [clique aqui](https://gi
 <a id="ancora3"></a>
 ## - Plano de negócios -
 Para acessar nosso <b>Plano de Negócios completo</b>, [clique aqui.](https://github.com/arapujo/pi_primeiro_semestre/blob/master/SPRINT%201/Materiais%20Did%C3%A1ticos/Plano%20de%20Neg%C3%B3cios.pdf)
+<img src="Código/assets/img/pdn-imagem.png">
  
 <br>
 
 <a id="ancora4"></a>
 ## - Site -
-Para visualizar o site CyberMind, [clique aqui](http://cybermind.atwebpages.com/).
+Para visualizar o site CyberMind em funciomaneto, [clique aqui](http://cybermind.atwebpages.com/).
 
 Funcionalidades em funcionamento:
 
 - [x] Home
-
+ 
 - [x] Cadastro
 
 - [x] Login
 
-
-
-<p font-size="16px"> :heavy_exclamation_mark: Durante o desenvolvimento do site, a hospedagem é gratuita. :heavy_exclamation_mark: <p>
+<p> :heavy_exclamation_mark: Durante o desenvolvimento do site, a hospedagem é gratuita. :heavy_exclamation_mark: <p>
+ 
+ <img src="Código/assets/img/site-cybermind.jpg">
  
  
