@@ -146,7 +146,7 @@ O cliente solicitou que o site deverá possuir os seguintes requisitos:
 
 <a id="ancora1"></a>
 
-## - Site Cybermind - :clock1230:
+## - Site Cybermind - :framed_picture:
 
 Para ver o site em funciomanento até o momento, [clique aqui](http://cybermind.atwebpages.com/).
 
