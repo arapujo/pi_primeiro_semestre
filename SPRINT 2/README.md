@@ -1,4 +1,4 @@
-[![Generic badge](https://img.shields.io/badge/SPRINT_1-CONCLUÍDA-blue.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/SPRINT_2-EM_ANDAMENO-blue.svg)](https://shields.io/)
 
  <br>
  
@@ -7,17 +7,16 @@
 
 <br>
 
-## Entrega Sprint 1
+## Entrega Sprint 2
 
-O conteúdo entregue nessa print, foram definidos de acordo com as 6 primeiras funcionalidades de alta prioridade do nosso backlog.
+* Adicionar o que foi entregue
 
-<img src="Código/assets/img/sprint1-backlog.png">
 
 <br>
 
 ## Objetivo
 
-<p> Para esta entrega nossa equipe decidiu desenvolver a tela <b>Home</b>, pois é por meio dela que o usuário terá acesso ao catálogo de cursos; telas de <b>Login</b> e <b>Cadastro</b>, pois elas são imprencídiveis para a funcionalidade <b>Carrinho</b> que será entregue na Sprint 2; produzimos os <b>materiais de texto</b> das matérias solicitadas pelo cliente. Foi elaborado também o <b>Plano de Negócios</b>, contendo as informações orçamentárias e a nossa proposta de venda e a <b>logo</b>, que foi desenvolvida no final da Sprint 0.
+* Adicionar objetivo da string 2
 
 </br>
 </br>
@@ -25,18 +24,18 @@ O conteúdo entregue nessa print, foram definidos de acordo com as 6 primeiras f
 ## - Índice -
 <a name="ancora"></a>
 
- [Card da Sprint 1](#ancora1)
+ [Adicionar](#ancora1)
  
- [Materiais de texto](#ancora2)
+ [Adicionar](#ancora2)
  
- [Plano de negócios](#ancora3)
+ [Adicionar](#ancora3)
  
- [Site Cybermind](#ancora4)
+ [Adicionar](#ancora4)
  
  </br>
 
 <a id="ancora1"></a>
-## Card SPRINT 1 
+## Card SPRINT 2 
 <img src="Código/assets/img/card-sprint1.png">
 
 No nosso cronograma (28/09/2020 à 17/10/2020) foi estabelecido a produção de:
