@@ -123,7 +123,7 @@ O cliente solicitou que o site deverá possuir os seguintes requisitos:
 
 - [x] Entrega 2 - 28/09/2020 à 17/10/2020 - Para visualizar a entrega, [clique aqui](https://github.com/arapujo/pi_primeiro_semestre/tree/master/SPRINT%201).
 - [ ] Entrega 3 - 19/10/2020 à 08/11/2020 - Em desenvolvimento...
-- [ ] Entrega 3 - 09/11/2020 à 29/11/2020
+- [ ] Entrega 4 - 09/11/2020 à 29/11/2020
 
 <br />
 
