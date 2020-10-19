@@ -22,7 +22,7 @@ Desenvolver um site de e-commerce no qual os alunos possam acessar conteúdos di
 
 
 ## - Descrição do projeto - 
-O projeto têm como objetivo o desenvolvimento dos alunos de Análise e Desenvolvimento de Sistemas da Fatec de São José dos Campos - Profº Jessen Vidal na criação de um site de venda de conteúdos didáticos voltado para a área da tecnologia. O trabalho visa a interação dos alunos com o cliente, no qual os mesmos possuem acesso as regras do projeto que são definidas pelo cliente, para assim atender suas demandas e necessidades.
+O projeto têm como objetivo o desenvolvimento dos alunos de Análise e Desenvolvimento de Sistemas da Fatec de São José dos Campos - Profº Jessen Vidal, na criação de um site de venda de conteúdos didáticos voltado para a área da tecnologia. O trabalho visa a interação dos alunos com o cliente, no qual os mesmos possuem acesso as regras do projeto que são definidas pelo cliente, para assim atender suas demandas e necessidades.
 <br />
 <br />
 
