@@ -5,7 +5,7 @@
 <h2 text align="center">Fatec Profº Jessen Vidal - São José dos Campos - 1º Semestre ADS</h2>
 
 <p align="center">
-  <img  src="SPRINT 1/Código/assets/img/fatec-logo.png" width="140px" height="70px">
+  <img  src="CODIGO/assets/img/fatec-logo.png" width="140px" height="70px">
  </p>
  
  <br>
