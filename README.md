@@ -130,7 +130,7 @@ O cliente solicitou que o site deverá possuir os seguintes requisitos:
 <a id="ancora6"></a>
 ## - Backlog do projeto - :bar_chart:
 
-<img  src="SPRINT 1/Código/assets/img/backlog-cybermind.png">
+<img  src="CODIGO/assets/img/backlog-cybermind.png">
 
 <a id="ancora7"></a>
 
@@ -138,7 +138,7 @@ O cliente solicitou que o site deverá possuir os seguintes requisitos:
 
 ## - Cronograma - :clock1230:
 
-<img  src="SPRINT 1/Código/assets/img/cronograma.png">
+<img  src="CODIGO/assets/img/cronograma.png">
 
 <a id="ancora8"></a>
 
@@ -150,6 +150,6 @@ O cliente solicitou que o site deverá possuir os seguintes requisitos:
 
 Para ver o site em funciomanento até o momento, [clique aqui](http://cybermind.atwebpages.com/).
 
-<img src="SPRINT 1/Código/assets/img/site-cybermind.jpg">
+<img src="CODIGO/assets/img/site-cybermind.jpg">
 
 
