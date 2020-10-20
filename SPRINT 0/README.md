@@ -1,3 +1,4 @@
+[![Generic badge](https://img.shields.io/badge/SPRINT_2-EM_ANDAMENTO-blue.svg)](https://shields.io/)
 
 <h1 text align="center">CyberMind :brain::computer:</h1> 
 <h2 text align="center">Conhecimento na palma da sua mão!</h2>
@@ -40,6 +41,7 @@ No projeto do nosso website, definimos as posições dos elementos e as funciona
 
 ## Visualizar telas 
 Para ver os wireframes, acesse [Telas](https://github.com/arapujo/pi_primeiro_semestre/tree/master/SPRINT%200/Telas). Nela se encontra todas as imagens e um [Arquivo PDF](https://github.com/arapujo/pi_primeiro_semestre/blob/master/SPRINT%200/Telas/wireframes-projeto-integrador-descricao.pdf/), que possui legendas com descrição das telas.
+
 
 
 
