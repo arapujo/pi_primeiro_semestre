@@ -75,7 +75,7 @@ O cliente solicitou que o site deverá possuir os seguintes requisitos:
 
 <br>
 
-<b>Funcionalidades</b>
+<b>Funcionalidades:</b>
 
 * Login e Esqueci senha
 
