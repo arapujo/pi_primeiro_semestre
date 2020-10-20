@@ -75,8 +75,8 @@ Para conferir os <b>materiais de textos</b> produzidos, [clique aqui](https://gi
 
 <a id="ancora3"></a>
 ## - Plano de negócios -
-Para acessar nosso <b>Plano de Negócios completo</b>, [clique aqui.](https://github.com/arapujo/pi_primeiro_semestre/blob/master/SPRINT%201/Materiais%20Did%C3%A1ticos/Plano%20de%20Neg%C3%B3cios.pdf)
-<img src="Código/assets/img/pdn-imagem.png">
+Para acessar nosso <b>Plano de Negócios</b> completo, [clique aqui.](https://github.com/arapujo/pi_primeiro_semestre/blob/master/SPRINT%201/Materiais%20Did%C3%A1ticos/Plano%20de%20Neg%C3%B3cios.pdf)
+<img src="../CODIGO/assets/img/pdn-imagem.png">
  
 <br>
 
