@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.bs-example{
+    margin: 20px;
+ 
+}
+
+.menu{
+    background-color: aqua !important;
+}
