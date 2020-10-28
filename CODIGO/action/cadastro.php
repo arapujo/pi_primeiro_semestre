@@ -1,5 +1,7 @@
 <?php
 
+session_start();
+
 include("conexão.php");
 
 //Pegandos as informaçõs do cadastro
@@ -17,14 +19,14 @@ $row = mysqli_fetch_assoc($result);
 
 //validação se as duas senhas digitadas são iguais
 if($senha != $senha_verifica){
-	header('Location: ../pages/login/cadastro.html');
+	header('Location: ../pages/login/cadastro-falha-senha.php');
 	exit;
 }
 
 //Mensagem de erro caso ja exista um email registrado
 if($row['total'] == 1){
 	$_SESSION['usuario_existe'] = true;
-	header('Location: ../pages/login/cadastro.html');
+	header('Location: ../pages/login/cadastro-falha-email.php');
 	exit;
 }
 
@@ -34,10 +36,13 @@ $sql = "INSERT INTO usuario (usuario, senha, nome, sobrenome, email, data_cadast
 //rodando o comando e retornando mensagem de cadastro realizado
 if($conexao->query($sql) === true){
 	$_SESSION['status_cadastro'] = true;
+	$_SESSION['usuario'] = $usuario
+	header('Location: ../pages/login/cadastro-sucesso.php');
 }
 
 //encerrando a conexão com o banco e redirecionado de volta pra pagina de cadastro
+
 $conexao->close();
-header('Location: ../pages/login/cadastro.html');
+
 exit;
 ?>

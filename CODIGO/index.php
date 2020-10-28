@@ -23,10 +23,10 @@
 		<div class="collapse navbar-collapse" id="navbarResponsive">
 			<ul class="navbar-nav ml-auto">
 				<li class="nav-item">
-					<a class="nav-link" href="pages/login/index.html"><button class="nav-button-login" type="button">Login</button></a>
+					<a class="nav-link" href="pages/login/index.php"><button class="nav-button-login" type="button">Login</button></a>
 				</li>
 				<li class="nav-item">
-					<a class="nav-link" href="pages/carrinho/index.html"><img src="assets/icon/shopping-cart-icon.png" width="40px" height="40px"></a>
+					<a class="nav-link" href="pages/carrinho/index.php"><img src="assets/icon/shopping-cart-icon.png" width="40px" height="40px"></a>
 				</li>
 			</ul>
 		</div>
@@ -43,7 +43,7 @@
 	<div class="caption text-center">
 		<h1>Conheça nossa plataforma</h1>
 		<h3>As tecnologias estão mudando todos os dias e o mercado está cada vez mais competitivo, na CyberMind você aprende o que precisa para se destacar.</h3>
-		<a class="btn btn-outline-light btn-lg" href="pages/login/cadastro.html">Cadastre-se</a>
+		<a class="btn btn-outline-light btn-lg" href="pages/login/cadastro.php">Cadastre-se</a>
 	</div>
 	<!-- Fim Landing Page Section -->
 </div>
@@ -166,8 +166,8 @@
                     <div class="card-desc">
 						<h3>Lógica de Programação e Algoritmos</h3>
 						<br>
-                        <p>Aprenda o que é variáveis, funcões, instruções e muito mais. Você se tornará apto para escrever os seus próprios programas.</p>
-                            <a href="pages/curso/index.html" class="btn-card">Ver</a>   
+                        <p>Aprenda o que são variáveis, funcões, instruções e muito mais. Você se tornará apto para escrever os seus próprios programas.</p>
+                            <a href="pages/curso/logica.php" class="btn-card">Ver</a>   
                     </div>
                 </div>
             </div>
@@ -181,7 +181,7 @@
 						<br>
                         <p>Aprenda a fazer manutenções, reparos e diagnósticos, como manusear de forma correta os componentes, protocolos de seguranças, como funciona redes de computadores e boas práticas.
                         </p>
-                            <a href="pages/curso/hardware.html" class="btn-card">Ver</a>   
+                            <a href="pages/curso/hardware.php" class="btn-card">Ver</a>   
                     </div>
                 </div>
             </div>
@@ -194,7 +194,7 @@
 						<h3>Arquitetura e Organização de computadores</h3>
 						<br>
                         <p>Aprenda a estrutura e organização do hardware, como funciona um computador, memórias e registradores e sistemas numéricos. </p>
-                            <a href="pages/curso/arquitetura.html" class="btn-card">Ver</a>   
+                            <a href="pages/curso/arquitetura.php" class="btn-card">Ver</a>   
                     </div>
                 </div>
 			</div>
@@ -207,7 +207,7 @@
 						<h3>Inglês</h3>
 						<br>
                         <p>Aprenda os tempos verbais, vocabulário, como se aprensentar e conversação.</p>
-                            <a href="pages/curso/index.html" class="btn-card">Ver</a>   
+                            <a href="pages/curso/ingles.php" class="btn-card">Ver</a>   
                     </div>
                 </div>
 			</div>
@@ -220,7 +220,7 @@
 						<h3>Matemática discreta</h3>
 						<br>
                         <p>Aprenda lógica matématica, como montar tabela da verdade e o que são grafos.</p>
-                            <a href="pages/curso/matematica.html" class="btn-card">Ver</a>   
+                            <a href="pages/curso/matematica.php" class="btn-card">Ver</a>   
                     </div>
                 </div>
 			</div>
@@ -233,7 +233,7 @@
 						<h3>Português</h3>
 						<br>
                         <p>Aprenda concordância nominal e verbal, o que são substantivos e adjetivos e pontuação.</p>
-                            <a href="pages/curso/index.html" class="btn-card">Ver</a>   
+                            <a href="pages/curso/portugues.php" class="btn-card">Ver</a>   
                     </div>
                 </div>
 			</div>

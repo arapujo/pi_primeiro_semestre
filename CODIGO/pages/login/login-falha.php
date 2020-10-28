@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<title>Login</title>
+	<title>Login Falha</title>
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
     <link rel="stylesheet" href="../../styles/css/login.css">
     <link rel="stylesheet" href="../../styles/css/style.css">
@@ -13,20 +13,11 @@
 	
 <div class="login-form">
 	<a href="../../index.html"><img class="img" src="../../assets/img/logo.png"></a>
-    <form action="../../action/login.php" method="post">
-        <h2 class="text-center">Login</h2>   
-        <div class="form-group has-error">
-        	<input type="email" class="form-control" name="user_email" placeholder="Email" required="required">
+    <form>
+        <h2 class="text-center">Email ou senha errado!</h2>   
+            <a href="index.php">Voltar</a>
         </div>
-		<div class="form-group">
-            <input type="password" class="form-control" name="password" placeholder="Senha" required="required">
-        </div>        
-        <div class="form-group">
-            <button type="submit" class="btn btn-primary btn-lg btn-block">Entrar</button>
-        </div>
-        <p><a href="esqueci-senha.html">Esqueceu a senha?</a></p>
     </form>
-    <p class="text-center small"><a>Não possui uma conta?<a href="cadastro.html">Cadastre-se</a></p>
 </div>
 
 </body>

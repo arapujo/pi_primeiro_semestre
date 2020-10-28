@@ -11,13 +11,15 @@ $verifica = "SELECT usuario_id, usuario FROM usuario WHERE email = '{$email}' AN
 $result = mysqli_query($conexao,$verifica);
 $row = mysqli_num_rows($result);
 
+$_session["user"] = $email;
 //se o email e a senha estiverem correta retorna o valor de 1 e loga na conta
 if ($row == 1){
-	echo "Login Realizado com sucesso";
+	header('Location: ../pages/aluno/index.php');
+	
 }
 //se o usuario não existe, ou alguma das informações estiver errada retorna erro
 else{
-	echo "Algo deu errado";
+	header('Location: ../pages/login/login-falha.php');
 }
 
 ?>
