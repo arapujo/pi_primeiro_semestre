@@ -93,6 +93,8 @@ O cliente solicitou que o site deverá possuir os seguintes requisitos:
 
 * [Ana Lívia Pascoal da Silva Araújo (Development Team)](https://github.com/arapujo/)
 
+* [André Luís da Silva e Silva (Development Team)](https://github.com/AndreSilva358)
+
 * [Diogo Luiz Troyli Pedrozo de Souza (Development Team)](https://github.com/diogotroyli)
 
 * [Gabriele Gonçalves Vieira (Development Team)](https://github.com/GabrieleGVieira)
@@ -101,11 +103,11 @@ O cliente solicitou que o site deverá possuir os seguintes requisitos:
 
 * [Sarah da Boa Viagem Santana (Development Team)](https://github.com/Sarah781)
 
+* [Stephani Soares Junqueira (Development Team)](https://github.com/stessada)
+
 * [Vitor Luiz Rodrigues de Lima (Development Team)](https://github.com/VilRL)
 
-* [André Luís da Silva e Silva (Development Team)](https://github.com/AndreSilva358)
 
-* [Stephani Soares Junqueira (Development Team)](https://github.com/stessada)
 <br />
 
 <a id="ancora4"></a>
