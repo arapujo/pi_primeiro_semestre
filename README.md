@@ -105,6 +105,9 @@ O cliente solicitou que o site deverá possuir os seguintes requisitos:
 
 * [Vitor Luiz Rodrigues de Lima (Development Team)](https://github.com/VilRL)
 
+* [André Luís da Silva e Silva (Development Team)](https://github.com/AndreSilva358)
+
+* [Stephani Soares Junqueira (Development Team)](https://github.com/stessada)
 <br />
 
 <a id="ancora4"></a>
