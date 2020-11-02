@@ -60,8 +60,7 @@
               <embed src="path_of_your_pdf/your_pdf_file.pdf" type="application/pdf"   height="700px" width="500">
 </object>
 
-			  <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-			  <a href="../carrinho/index.html"><button class="btn-comprar-mobile" type="button">Comprar</a></button>
+<iframe src="https://fatecspgov-my.sharepoint.com/personal/ana_araujo35_fatec_sp_gov_br/_layouts/15/Doc.aspx?sourcedoc={f9af4c3a-64aa-4a3d-b842-9fc10ca5330a}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="962px" height="565px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 			</div>
 
 			

@@ -11,7 +11,6 @@ $verifica = "SELECT usuario_id, usuario FROM usuario WHERE email = '{$email}' AN
 $result = mysqli_query($conexao,$verifica);
 $row = mysqli_num_rows($result);
 
-$_session["user"] = $email;
 //se o email e a senha estiverem correta retorna o valor de 1 e loga na conta
 if ($row == 1){
 	header('Location: ../pages/aluno/index.php');

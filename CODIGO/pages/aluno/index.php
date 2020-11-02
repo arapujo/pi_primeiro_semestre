@@ -56,7 +56,7 @@
  
   <div class="card-body">
     <h5 class="card-title">Boas Vindas ao CyberMind!</h5>
-    <a href="aluno-material" class="btn btn-primary">Meu material</a>
+    <a href="aluno-material.php" class="btn btn-primary">Meu material</a>
   </div>
 </div>
 

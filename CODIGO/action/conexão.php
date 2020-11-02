@@ -12,6 +12,6 @@
 	define('SENHA', 'PROJETO12345');
 	define('DB', '3617349_cybermind');*/
 
-	$conexao = mysqli_connect(HOST, USUARIO, SENHA, DB) or die('Ñão foi possivel conectar');
+	$conexao = mysqli_connect(HOST, USUARIO, SENHA, DB) or die('Não foi possivel conectar');
 
 ?>

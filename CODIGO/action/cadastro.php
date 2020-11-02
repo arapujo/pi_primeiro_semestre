@@ -1,7 +1,5 @@
 <?php
 
-session_start();
-
 include("conexão.php");
 
 //Pegandos as informaçõs do cadastro
@@ -36,12 +34,10 @@ $sql = "INSERT INTO usuario (usuario, senha, nome, sobrenome, email, data_cadast
 //rodando o comando e retornando mensagem de cadastro realizado
 if($conexao->query($sql) === true){
 	$_SESSION['status_cadastro'] = true;
-	$_SESSION['usuario'] = $usuario
 	header('Location: ../pages/login/cadastro-sucesso.php');
 }
 
 //encerrando a conexão com o banco e redirecionado de volta pra pagina de cadastro
-
 $conexao->close();
 
 exit;
