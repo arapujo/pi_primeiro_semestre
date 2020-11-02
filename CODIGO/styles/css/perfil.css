@@ -1,0 +1,227 @@
+/*zerar todas as configurações*/
+
+html, body, div, span, h1, h2, h3,p, a, img, li,footer, header, nav, section {
+    margin: 0;
+    padding: 0;
+    border: 0;
+  }  
+
+  /*fonte da letra*/
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;900&display=swap');
+
+/*configuração geral do corpo*/
+
+body {
+  overflow-x: hidden;
+  font-family: 'Lato', sans-serif;
+  color: #505962;
+  line-height: 1;
+  
+}
+
+.offset:before {
+  display: block;
+  content: "";
+  height: 4rem;
+  margin-top: -4rem;
+}
+/*zerar configuração dos links*/
+
+a {
+    text-decoration: none;
+}
+
+/* Menu de navegação */
+  
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.bs-menu{
+  margin: 0px;
+
+}
+
+.menu-bar{
+  background-color:#1e8ebb !important;
+ 
+}
+
+.nav-link {
+  color: #fff !important ;
+}
+
+.logo-site{
+  width: 200px;
+}
+
+.icon-carrinho {
+  width: 32px;
+  height: 32px;
+}
+
+/*Fundo*/
+
+div.fundo  {  
+  border: 1px solid black;
+  margin: 100px 165px;
+  background: white;
+ }
+
+section {
+  
+  text-align: center;
+ }  
+
+h2 {
+    color: #000;
+    font-size: 26px;
+    font-weight: 300;
+    text-align: center;
+    text-transform: uppercase;
+    position: relative;
+    margin: 30px 0 80px;
+  }
+  
+h2 b {
+  color: #ffc000;
+ }
+  
+hr.socketForm {
+
+  content: "";
+  width: 70%;
+  margin: 0 auto;
+  height: 2px;
+  background: rgba(0, 0, 0, 0.2);
+  left: 0;
+  right: 0;
+  bottom: -7px;
+
+  }
+  
+h4{
+ font-size: 10px;
+  }
+  
+h4:hover {
+  color: royalblue; 
+  }
+
+h4{
+  font-size: 10px;
+}
+
+h4:hover {
+  color: royalblue; 
+}
+
+h10:hover{
+  color: royalblue; 
+
+}
+
+label{
+  font-size: 20px;
+  padding-top: 10px;
+}
+
+ /*Formulário de dados*/
+
+.foto {
+
+   text-align: center;
+
+  }  
+
+
+.foto img {
+
+   width: 150px;
+   height: 150px;
+   background: #dfe6e9;
+   border: 1px solid #333;
+
+   }
+
+section img {
+
+   width: 30px;
+   height: 30px;
+   display: inline-block;
+
+ }
+
+input {
+
+   width: 70%;
+   height: 30px;
+   border-radius: 10px;
+
+ }
+
+/*botões*/ 
+
+button{
+    
+    border-radius: 50px;
+    border: none;
+    width: 50%;
+    height: 40px;
+    z-index: 1;
+    text-align: center;
+    color: white;
+    background-position: center left 7%;
+    background-size: 13px 13px;
+    background-color: #1e8ebb!important;
+    background-repeat: no-repeat;
+    
+  }  
+
+/* FOOTER */
+
+footer {
+  background: rgb(9, 52, 99);
+  padding: 1.5rem 0 1.5rem;
+  margin-top: 3rem;
+}
+
+footer img {
+  height: 4.5rem;
+  margin: 1.5rem 0;
+}
+
+footer a {
+  color: white;
+  font-size: 1.3rem;
+  text-transform: uppercase;
+}
+footer a:hover{
+    text-decoration: none;
+    color:#1e8ebb;
+}
+
+.footer-icon{
+  height: 5rem;
+}
+.footer-icon:hover {
+  color:#fff!important;
+}
+
+hr.socket {
+  width: 100%;
+  border-top: .2rem solid #1e8ebb;
+  margin-top: 3rem; 
+}
+  
+ /*media query*/
+
+@media (max-width: 700px){
+ div.fundo  {  
+  border: none;
+  padding: 0px;
+  margin: 10px;
+  }
+    }
