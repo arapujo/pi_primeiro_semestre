@@ -3,8 +3,8 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<title>CyberMind - Material</title>
-<link rel="stylesheet" href="../../styles/css/aluno-lista-material.css">
+<title>CyberMind - Histórico de compras</title>
+<link rel="stylesheet" href="../../styles/css/historico.css">
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
@@ -38,9 +38,9 @@
                         <img src="../../assets/icon/user.png">
                         Nome do usuário</a>
                     <div class="dropdown-menu dropdown-menu-right">
-                        <a href="aluno-lista-mateiral.php" class="dropdown-item">Ver materiais</a>
+                        <a href="aluno-lista-material.php" class="dropdown-item">Ver materiais</a>
                         <a href="perfil.php" class="dropdown-item">Ver perfil</a>
-                        <a href="#" class="dropdown-item">Histórico de compras</a>
+                        <a href="historico.php" class="dropdown-item">Histórico de compras</a>
                         <div class="dropdown-divider"></div>
                         <a href="#"class="dropdown-item">Sair</a>
                     </div>
@@ -50,20 +50,47 @@
     </nav>
 </div>
 
-<div class="container-material">
-    <div class="box-material">
-        <div class="lista-material">
+<div class="container-historico">
+    <div class="box-historico">
+        <div class="lista-historico">
         <div class="descricao">
-            <div class="titulo"><p>Meus materiais:</p><img src="../../assets/icon/book-icon.png" width="55px" height="55px"></div>
+            <div class="titulo"><p>Histórico de compras:</p><img src="../../assets/icon/cash.png" width="50px" height="50px"></div>
         </div>
-         <!-- CASO O USUÁRIO NÃO TENHA MATERIAL COMPRADO, MOSTRAR ISSO COM PHP --> <!--<p class="titulo-material">Você não possui nenhum material :( </p>-->
-            <p class="titulo-material">Nome do material - <a href="aluno-material.php">Link</a></p>
-            <p class="titulo-material">Nome do material - <a href="">Link</a></p>
-            <p class="titulo-material">Nome do material - <a href="">Link</a></p>
-            <p class="titulo-material">Nome do material - <a href="aluno-material.php">Link</a></p>
+         <!-- CASO O USUÁRIO NÃO TENHA MATERIAL COMPRADO, MOSTRAR ISSO COM PHP --> <!--<p class="titulo">Você não possui nenhuma compra :( </p>-->
+            <table class="table">
+                <thead>
+                <tr>
+                    <th>Data</th> 
+                    <th>Produto</th>
+                    <th>Preço</th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr>
+                    <td>Data produto</td> <!-- Puxar a variável data do banco com PHP -->
+                    <td>Nome produto</td> <!-- Puxar a variável nome do banco com PHP -->
+                    <td>Preço produto</td> <!-- Puxar a variável preço do banco com PHP -->
+                </tr>
+                <tr>
+                    <td>Data produto</td>
+                    <td>Nome produto</td>
+                    <td>Preço produto</td>
+                </tr>
+                <tr>
+                    <td>Data produto</td>
+                    <td>Nome produto</td>
+                    <td>Preço produto</td>
+                </tr>
+                <tr>
+                    <td>Data produto</td>
+                    <td>Nome produto</td>
+                    <td>Preço produto</td>
+                </tr>
+                </tbody>
+            </table>
+            </div>
         </div>
     </div>
-</div>
 
   
   <!-- Footer -->

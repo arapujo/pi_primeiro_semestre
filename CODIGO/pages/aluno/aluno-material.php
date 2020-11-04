@@ -38,9 +38,9 @@
                         <img src="../../assets/icon/user.png">
                         Nome do usuário</a>
                     <div class="dropdown-menu dropdown-menu-right">
-                        <a href="../aluno/aluno-lista-material.php" class="dropdown-item">Ver materiais</a>
-                        <a href="#" class="dropdown-item">Ver perfil</a>
-                        <a href="#" class="dropdown-item">Histórico de compras</a>
+                        <a href="aluno-lista-material.php" class="dropdown-item">Ver materiais</a>
+                        <a href="perfil.php" class="dropdown-item">Ver perfil</a>
+                        <a href="historico.php" class="dropdown-item">Histórico de compras</a>
                         <div class="dropdown-divider"></div>
                         <a href="#"class="dropdown-item">Sair</a>
                     </div>
