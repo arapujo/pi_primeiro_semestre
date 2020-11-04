@@ -19,18 +19,17 @@
 
         $extensao_material = strtolower(substr($_FILES['material']['name'], -4)); //pega a extensao do arquivo
         $nome_material = md5(time()) . $extensao_material; //define o nome do arquivo
-        $diretorio_material = "../material/"; //define o diretorio para onde enviaremos o arquivo
+        $diretorio_material = "../material/"; //define o diretorio para onde o arquivo vai ser enviado
     
         move_uploaded_file($_FILES['material']['tmp_name'], $diretorio_material.$nome_material); //efetua o upload
     
       }
    
-   
-    $result_usuario = "INSERT INTO material(nome, preco, descricao_simples, descricao, nome_imagem, nome_material) VALUES ('$nome', '$valor', '$descricao_simples', '$descricao', '$novo_nome', '$diretorio_material.$nome_material')";
+    $result_usuario = "INSERT INTO material(nome, preco, descricao_simples, descricao, nome_imagem, nome_material) VALUES ('$nome', '$valor', '$descricao_simples', '$descricao', '$novo_nome', '$nome_material')";
     $resultado_usuario = mysqli_query($conexao, $result_usuario);
     
     if(mysqli_affected_rows($conexao) != 0){
-        echo ('Material adicionado');
+      header('Location: ../pages/admin/cadastro-sucesso.php');;
          }else{
             echo ('Erro');
          }

@@ -40,8 +40,8 @@
                             <img src="../../assets/icon/user.png">
                             Nome do usuário</a>
                         <div class="dropdown-menu dropdown-menu-right">
-                            <a href="../aluno/aluno-lista-material.php" class="dropdown-item">Ver materiais</a>
-                            <a href="#" class="dropdown-item">Ver perfil</a>
+                            <a href="aluno-lista-material.php" class="dropdown-item">Ver materiais</a>
+                            <a href="perfil.php" class="dropdown-item">Ver perfil</a>
                             <a href="#" class="dropdown-item">Histórico de compras</a>
                             <div class="dropdown-divider"></div>
                             <a href="#"class="dropdown-item">Sair</a>
@@ -57,153 +57,149 @@
       
       <div class='fundo'>
     
-         <a href=''><img src='../../assets/icon/left-icon.png'></a><!--Botão de voltar-->
+         <a href='index.php'><img src='../../assets/icon/left-icon.png' width="37px" heigth="37px"></a><!--Botão de voltar-->
 
          <h2>Meu Perfil </h2>
          <hr class="socketForm"> <br>
          <div class='container'>
 
-          <div class='foto'>
-           <img src='' id='foto'><br><br> <!---foto do usuário/ usar PHP--->
-
-             <div class='footer'>
-               <input type='file' style="vertical-align:middle" id='bImg'><br><br> <!--botão para incluir foto/usar PHP--> 
-            </div>
-
-          </div>
-
-         </div>
-
+         <br><br>
 
         <!--Dados pessoais-->
          <section id='dPessoais'>
 
-             <h2 class="dPessoal">Dados Pessoais <img src="../../assets/icon/user-icon.png"></h2>
+             <h2 class="dPessoal">Dados Pessoais <img src="../../assets/icon/user-icon.png" width="30px" heigth="30px"></h2>
              <hr class="socketForm">
 
                 <label for="nome">
-                   Nome completo
+                   Nome:
                 </label> <br>
 
-                   <input required="required" type="text" placeholder=""  name='nome' id="nome" > <br><br>
+                   <input required="required" type="text" name='nome' id="nome"  maxlength="20"> <br><br>
+
+                  <label for="sobrenome">
+                   Sobrenome:
+                </label> <br>
+
+                   <input required="required" type="text" name='sobrenome' id="sobrenome"  maxlength="35"> <br><br>
 
                 <label for='email'>
                     E-mail:
                 </label> <br>
 
-                   <input required="required" type="text" placeholder=""  name='email' id="email" > <br><br>
+                   <input required="required" type="email" placeholder=""  name='email' id="email" maxlength="45"> <br><br>
 
                 <label for='email2'>
                    E-mail secundário:
                  </label> <br>
 
-                   <input type="text" placeholder=""  name='email2' id="email2" > <br><br>
+                   <input type="email"  name='email2' id="email2" maxlength="45"> <br><br>
 
                 <label for='dNascimento'>
                     Data de Nascimento:
                 </label> <br>
 
-                   <input required="required" type="text" placeholder=""  name='dNascimento' id="dNascimento"> <br><br>
+                   <input required="required" type="text" placeholder=""  name='dNascimento' id="dNascimento" maxlength="10"> <br><br>
 
                 <label for='CPF'>
                     CPF:
                 </label> <br>
 
-                   <input required="required" type="text" placeholder=""  name='CPF' id="CPF" > <br> <br>
+                   <input required="required" type="text" placeholder=""  name='CPF' id="CPF" maxlength="11"> <br> <br>
 
                 <label for='Tel'>
                    Telefone:
                 </label> <br>
 
-                   <input required="required" type="text" placeholder=""  name='Tel' id="Tel" > <br> <br>
+                   <input required="required" type="text" placeholder=""  name='Tel' id="Tel" maxlength="14"> <br> <br>
 
                 <label for='Cel'>
                     Celular:
                 </label> <br>
 
-                   <input required="required" type="text" placeholder=""  name='Cel' id="Cel" > <br> <br>
+                   <input required="required" type="text" placeholder=""  name='Cel' id="Cel"  maxlength="14"> <br> <br>
          </section>
 
         
         <!--Endereço-->
          <section id='endereco'>
           
-          <h2>Endereço <img src="../../assets/icon/home-icon.png"></h2>
+          <h2>Endereço <img src="../../assets/icon/home-icon.png" width="30px" heigth="30px"></h2>
           <hr class="socketForm">
 
              <label for="CEP">
                CEP:
              </label> <br>
 
-               <input required="required" type="text" placeholder=""  name='CEP' id="cep" value='' onblur="pesquisacep(this.value);"> <br><br> <!--vai pesquisar o endereço de acordo com o CEP-->
+               <input required="required" type="text"  name='CEP' id="cep" value='' onblur="pesquisacep(this.value);"> <br><br> <!--vai pesquisar o endereço de acordo com o CEP-->
 
             <label for='rua'>
                Logradouro:
             </label><br>
 
-               <input required="required" type="text" placeholder=""  name='rua' id="rua" value='' ><br><br>
+               <input required="required" type="text" name='rua' id="rua" value='' maxlength="20" ><br><br>
 
             <label for='num'>
                Número:
             </label><br>
 
-               <input type="text" placeholder=""  name='num' id="num" ><br><br>
+               <input type="text" placeholder=""  name='num' id="num"  maxlength="4"><br><br>
 
             <label for='compl'>
                Complemento:
             </label><br>
 
-               <input type="text" placeholder=""  name='compl' id="compl"><br><br>
+               <input type="text" placeholder=""  name='compl' id="compl"  maxlength="20"><br><br>
 
             <label for='bairro'>
                Bairro:
             </label><br>
 
-               <input required="required" type="text" placeholder=""  name='bairro' id="bairro" value=''><br><br>
+               <input required="required" type="text" name='bairro' id="bairro"  maxlength="40"><br><br>
 
             <label for='cidade'>
                Cidade:
             </label><br> <br>
 
-               <input required="required" type="text" placeholder=""  name='cidade' id="cidade" value=''><br><br>
+               <input required="required" type="text" name='cidade' id="cidade"  maxlength="35"><br><br>
 
             <label for='estado'>
                Estado:
             </label><br>
 
-               <input required="required" type="text" placeholder=""  name='estado' id="uf" value='' ><br><br>
+               <input required="required" type="text" name='estado' id="uf"  maxlength="35" ><br><br>
        
             <label for='estado'>
                País:
-            </label><br><br>
+            </label><br>
 
-               <input required="required" type="text" placeholder=""  name='estado' id="pais"value='' ><br><br>
+               <input required="required" type="text" name='estado' id="pais" maxlength="35" ><br><br>
         
          </section>
           
           <!--Info Adicionais-->
          <section id='adicionais'>
             
-          <h2>Informações Adicionais <img src="../../assets/icon/document-icon.png"></h2>
+          <h2>Informações Adicionais <img src="../../assets/icon/document-icon.png" width="30px" heigth="30px"></h2>
           <hr class="socketForm">
              
              <label for="form">
                 Formação:
              </label> <br>
 
-               <input  type="" placeholder=""  name='form' id="form" ><br><br>
+               <input type="text" name='form' id="form" maxlength="30" ><br><br>
 
              <label for='tForm'>
                 Tipo de formação:
              </label><br>
 
-                <input  type="text" placeholder=""  name='tForm' id="tForm" ><br><br>
+                <input  type="text" name='tForm' id="tForm" maxlength="20" ><br><br>
 
             <label for='iEnsino'>
                 Instituição de ensino:
             </label><br>
 
-               <input type="text" placeholder=""  name='iEnsino' id="iEnsino" ><br><br>
+               <input type="text" name='iEnsino' id="iEnsino"  maxlength="30" ><br><br>
 
          </section>
         
@@ -211,27 +207,26 @@
 
           <!---Alterar Senha-->
          <section id='senha'>
-           <h2>Alterar Senha <img src="../../assets/icon/lock-icon.png"></h2>
+           <h2>Alterar Senha <img src="../../assets/icon/lock-icon.png" width="30px" heigth="30px"></h2>
            <hr class="socketForm">
             
             <label for="atual">
                Senha atual:
             </label> <br>
           
-               <input  type="" placeholder=""  name='atual' id="atual"><br><br>
+               <input  type="password" name='atual' id="senha_atual"  maxlength="8" ><br><br>
 
             <label for='nova'>
                Nova senha:
             </label><br>
 
-               <input  type="text" placeholder=""  name='nova' id="nova" ><br><br>
-
+               <input type="password" name='nova' id="nova_senha" maxlength="8" ><br><br>
 
             <label for='confirmar'>
                Confirmar senha:
             </label><br>
 
-               <input type="text" placeholder=""  name='confirmar' id="confirmar" ><br><br><br>
+               <input type="password" name='confirmar' id="confirmar_senha" maxlength="8"><br><br><br>
 
            <h10><a>Apagar conta</h10></a><br><br>
 

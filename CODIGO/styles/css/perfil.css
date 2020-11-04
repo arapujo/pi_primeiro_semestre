@@ -65,22 +65,27 @@ a {
 /*Fundo*/
 
 div.fundo  {  
-  border: 1px solid black;
-  margin: 100px 165px;
+  border:solid 7px #41403E;
+  transition:all .5s ease;
+  box-shadow: 20px 38px 34px -26px hsla(0,0%,0%,.2);
+  border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
+  margin: 90px 160px;
   background: white;
  }
 
 section {
-  
   text-align: center;
  }  
 
+ section h2 {
+  font-size: 1.7rem;
+  font-weight: 600;
+ }
+
 h2 {
-    color: #000;
-    font-size: 26px;
+    font-size: 2.5rem;
     font-weight: 300;
     text-align: center;
-    text-transform: uppercase;
     position: relative;
     margin: 30px 0 80px;
   }
@@ -90,12 +95,11 @@ h2 b {
  }
   
 hr.socketForm {
-
   content: "";
-  width: 70%;
+  width: 50%;
   margin: 0 auto;
-  height: 2px;
-  background: rgba(0, 0, 0, 0.2);
+  height: 1px;
+  background: #1e8ebb;
   left: 0;
   right: 0;
   bottom: -7px;
@@ -118,11 +122,6 @@ h4:hover {
   color: royalblue; 
 }
 
-h10:hover{
-  color: royalblue; 
-
-}
-
 label{
   font-size: 20px;
   padding-top: 10px;
@@ -130,43 +129,18 @@ label{
 
  /*Formulário de dados*/
 
-.foto {
-
-   text-align: center;
-
-  }  
-
-
-.foto img {
-
-   width: 150px;
-   height: 150px;
-   background: #dfe6e9;
-   border: 1px solid #333;
-
-   }
-
-section img {
-
-   width: 30px;
-   height: 30px;
-   display: inline-block;
-
- }
 
 input {
-
    width: 70%;
    height: 30px;
-   border-radius: 10px;
-
+   border: 1px solid #41403E;;
+   border-radius: 5px;
  }
 
 /*botões*/ 
 
 button{
-    
-    border-radius: 50px;
+    border-radius: 40px;
     border: none;
     width: 50%;
     height: 40px;
@@ -177,7 +151,6 @@ button{
     background-size: 13px 13px;
     background-color: #1e8ebb!important;
     background-repeat: no-repeat;
-    
   }  
 
 /* FOOTER */

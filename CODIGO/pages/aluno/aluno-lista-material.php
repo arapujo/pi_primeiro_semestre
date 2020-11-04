@@ -38,8 +38,8 @@
                         <img src="../../assets/icon/user.png">
                         Nome do usuário</a>
                     <div class="dropdown-menu dropdown-menu-right">
-                        <a href="#" class="dropdown-item">Ver materiais</a>
-                        <a href="#" class="dropdown-item">Ver perfil</a>
+                        <a href="aluno-lista-mateiral.php" class="dropdown-item">Ver materiais</a>
+                        <a href="perfil.php" class="dropdown-item">Ver perfil</a>
                         <a href="#" class="dropdown-item">Histórico de compras</a>
                         <div class="dropdown-divider"></div>
                         <a href="#"class="dropdown-item">Sair</a>
@@ -50,15 +50,21 @@
     </nav>
 </div>
 
-
-<div class="box-material">
-    <div class="lista-material">
-    <p class="titulo">Seus materiais:</p>
-        <p class="titulo-material">Nome do material - <a href="aluno-material.php">Link</a></p>
-        <p class="titulo-material">Nome do material - <a href="">Link</a></p>
-        <p class="titulo-material">Nome do material - <a href="">Link</a></p>
+<div class="container-material">
+    <div class="box-material">
+        <div class="lista-material">
+        <div class="descricao">
+            <div class="titulo"><p>Meus materiais:</p><img src="../../assets/icon/book-icon.png" width="55px" height="55px"></div>
+        </div>
+         <!-- CASO O USUÁRIO NÃO TENHA MATERIAL COMPRADO, MOSTRAR ISSO COM PHP --> <!--<p class="titulo-material">Você não possui nenhum material :( </p>-->
+            <p class="titulo-material">Nome do material - <a href="aluno-material.php">Link</a></p>
+            <p class="titulo-material">Nome do material - <a href="">Link</a></p>
+            <p class="titulo-material">Nome do material - <a href="">Link</a></p>
+            <p class="titulo-material">Nome do material - <a href="aluno-material.php">Link</a></p>
+        </div>
     </div>
 </div>
+
   
   <!-- Footer -->
 <footer>
