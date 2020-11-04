@@ -151,7 +151,7 @@ O cliente solicitou que o site deverá possuir os seguintes requisitos:
 
 ## - Site Cybermind - :framed_picture:
 
-Para ver o site em funciomanento até o momento, [clique aqui](http://cybermind.atwebpages.com/).
+Confira a página Home do Cybermind:
 
 <img src="CODIGO/assets/img/site-cybermind.jpg">
 
