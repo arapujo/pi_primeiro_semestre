@@ -9,7 +9,7 @@
 
 ## Entrega Sprint 2
 
-O conteúdo entregue nessa print, foram definidos de acordo com a funcionalidades 7 até a 15 do nosso backlog, sendo desenvolvidas 9 features no total.
+O conteúdo entregue nessa sprint, foram definidos de acordo com a funcionalidades 7 até a 15 do nosso backlog, sendo desenvolvidas 9 features no total.
 
 <img src="../CODIGO/assets/img/sprint2-backlog.png">
 
