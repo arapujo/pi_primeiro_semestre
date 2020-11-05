@@ -36,17 +36,13 @@ Os conteúdos entregue nessa sprint, foram definidos de acordo com as funcionali
 
 No nosso cronograma (19/10/2020 à 08/11/2020) foi estabelecido a produção de:
 
-* Tela Home
+* Carrinho (confirmação e pagamento)
 
-* Tela Login
+* Área Administrador 
 
-* Tela Cadastro
+* Área Aluno 
 
-* Materiais de Texto
-
-* Plano de negócios
-
-* Hospedagem
+* Formatação materiais de texto
 
 <br>
 
