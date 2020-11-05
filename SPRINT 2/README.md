@@ -26,7 +26,6 @@ Os conteúdos entregue nessa sprint, foram definidos de acordo com as funcionali
  
  [Código](#ancora3)
  
- [Site Cybermind](#ancora4)
  
  </br>
 
