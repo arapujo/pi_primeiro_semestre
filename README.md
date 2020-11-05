@@ -84,7 +84,7 @@ O cliente solicitou que o site deverá possuir os seguintes requisitos:
 
 - [x] Área do administrador: Relatório de vendas - Para visualizar, [clique aqui]().
 
-- [ ] Área do administrador: Adicionar material - Para visualizar, [clique aqui]().
+- [x] Área do administrador: Adicionar material - Para visualizar, [clique aqui]().
 
 <br />
 
