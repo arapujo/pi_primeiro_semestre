@@ -60,14 +60,14 @@ Devido a complexidade do carrinho, ele foi divido em duas sprints. Na Sprint 2 -
 ### Material
 
 
-- [x] <b>Página - Resumo do material - </b> - :white_check_mark: Completa :white_check_mark:
+- [x] <b>Página - Resumo do material - </b> :white_check_mark: Completa :white_check_mark:
 
- &nbsp; - [x] Português
- &nbsp; - [x] Matemática discreta
- &nbsp; - [x] Algoritmo e lógica de programação
- &nbsp; - [x] Hardware
- &nbsp; - [x] Arquitetura e organização de computadores
- &nbsp; - [x] Inglês
+  - [x] Português
+  - [x] Matemática discreta
+  - [x] Algoritmo e lógica de programação
+  - [x] Hardware
+  - [x] Arquitetura e organização de computadores
+  - [x] Inglês
 
 
 
