@@ -22,9 +22,9 @@ Os conteúdos entregue nessa sprint, foram definidos de acordo com as funcionali
 
  [Card da Sprint 2](#ancora1)
  
- [Materiais de texto](#ancora2)
+ [Funcionalidades desenvolvidas](#ancora2)
  
- [Plano de negócios](#ancora3)
+ [Código](#ancora3)
  
  [Site Cybermind](#ancora4)
  
@@ -50,8 +50,7 @@ No nosso cronograma (19/10/2020 à 08/11/2020) foi estabelecido a produção de:
 
 <br>
 
-<br>
-
+<a id="ancora2"></a>
 ## Funcionalidades desenvolvidas
 <br>
 
@@ -120,45 +119,11 @@ Devido a complexidade do carrinho, ele foi divido em duas sprints. Na Sprint 2 -
 <p> 
 
 
-<a id="ancora2"></a>
-## - Materiais de texto -
-Para conferir os <b>materiais de textos</b> produzidos, [clique aqui](https://github.com/arapujo/pi_primeiro_semestre/tree/master/SPRINT%201/Materiais%20Did%C3%A1ticos). Os arquivos estão em formato PDF e serão adicionados posteriormente ao site.
-
-
-- [x] Lógica de Programação e Algoritmos
-
-- [x] Hardware
-
-- [x] Matemática (Lógica e Grafos)
-
-- [x] Arquitetura e Organização de Computadores
-
-- [x] Português (Concordância e Pontuação)
-
-- [x] Inglês
-<br>
-
 <a id="ancora3"></a>
-## - Plano de negócios -
+## - Código -
 Para acessar nosso <b>Plano de Negócios</b> completo, [clique aqui.](https://github.com/arapujo/pi_primeiro_semestre/blob/master/SPRINT%201/Materiais%20Did%C3%A1ticos/Plano%20de%20Neg%C3%B3cios.pdf)
 <img src="../CODIGO/assets/img/pdn-imagem.png">
  
-<br>
 
-<a id="ancora4"></a>
-## - Site -
-Site não está hospedado. Disponível somente em localhost.
-
-Funcionalidades em funcionamento:
-
-- [x] Home
- 
-- [x] Cadastro
-
-- [x] Login
-
-<p> :heavy_exclamation_mark: Durante o desenvolvimento do site, a hospedagem é gratuita. :heavy_exclamation_mark: <p>
- 
- <img src="../CODIGO/assets/img/site-cybermind.jpg">
  
  
