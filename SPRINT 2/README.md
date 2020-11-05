@@ -27,7 +27,8 @@ Devido a complexidade do carrinho, ele foi divido em duas sprints. Na sprint 2 -
 
 <br>
 
-- [x] Área Administador - Relatório de vendas(Layout) - Esta funcionalidade depende das informações do Carrinho. Na sprint 2 - foi desenvolvido o layout e na Sprint 3 - será implementado o banco de dados.
+- [x] Área Administador - Relatório de vendas(Layout) <br>
+:heavy_exclamation_mark: Esta funcionalidade depende das informações do Carrinho. Na sprint 2 - foi desenvolvido o layout e na Sprint 3 - será implementado o banco de dados.:heavy_exclamation_mark: 
 
 <p> 
 
