@@ -30,6 +30,20 @@ Devido a complexidade do carrinho, ele foi divido em duas sprints. Na sprint 2 -
 - [x] Área Administador - Relatório de vendas(Layout) <br>
 :heavy_exclamation_mark: Esta funcionalidade depende das informações do Carrinho. Na sprint 2 - foi desenvolvido o layout e na Sprint 3 - será implementado o banco de dados.:heavy_exclamation_mark: 
 
+<br>
+
+- [x] Área Aluno - Ver materiais <br>
+:heavy_exclamation_mark: Esta funcionalidade depende das informações do Carrinho. Na sprint 2 - foi desenvolvido o layout e na Sprint 3 - será implementado o banco de dados.:heavy_exclamation_mark: 
+
+<br>
+
+- [x] Área Aluno - Histórico de compras <br>
+:heavy_exclamation_mark: Esta funcionalidade depende das informações do Carrinho. Na sprint 2 - foi desenvolvido o layout e na Sprint 3 - será implementado o banco de dados.:heavy_exclamation_mark: 
+
+- [x] Área Aluno - Ver perfil <br>
+
+
+
 <p> 
 
 </br>
