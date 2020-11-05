@@ -15,7 +15,19 @@ O conteúdo entregue nessa sprint, foram definidos de acordo com as funcionalida
 
 <br>
 
-## Objetivo
+## Funcionalidades desenvolvidas
+
+- [x] Carrinho(Layout) <br>
+:heavy_exclamation_mark: 
+Devido a complexidade do carrinho, ele foi divido em duas sprints. Na sprint 2 - foram desenvolvidas o layout e parte da programação e na Sprint 3 - ele será integrado ao banco de dados e estará em pleno funcionamento. :heavy_exclamation_mark:
+
+<br>
+
+- [x] Área Administador - Adicionar material
+
+<br>
+
+- [x] Área Administador - Relatório de vendas(Layout) - Esta funcionalidade depende das informações do Carrinho. Na sprint 2 - foi desenvolvido o layout e na Sprint 3 - será implementado o banco de dados.
 
 <p> 
 
@@ -36,7 +48,7 @@ O conteúdo entregue nessa sprint, foram definidos de acordo com as funcionalida
  </br>
 
 <a id="ancora1"></a>
-## Card SPRINT 1 
+## Card SPRINT 2 
 <img src="../CODIGO/assets/img/card-sprint2.png">
 
 No nosso cronograma (19/10/2020 à 08/11/2020) foi estabelecido a produção de:
