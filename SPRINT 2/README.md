@@ -17,7 +17,7 @@ O conteúdo entregue nessa sprint, foram definidos de acordo com as funcionalida
 
 ## Funcionalidades desenvolvidas
 
-- [x] Carrinho(Confirmação de compra e pagamento) - (Layout) <br>
+- [x] <b>Carrinho(Confirmação de compra e pagamento) - (Layout)</b> <br>
 :grey_exclamation:
 Devido a complexidade do carrinho, ele foi divido em duas sprints. Na Sprint 2 - foram desenvolvidas o layout e parte da programação e na Sprint 3 - ele será integrado ao banco de dados e estará em pleno funcionamento. :grey_exclamation:
 
