@@ -13,6 +13,43 @@ Os conteúdos entregue nessa sprint, foram definidos de acordo com as funcionali
 
 <img src="../CODIGO/assets/img/sprint2-backlog.png">
 
+
+</br>
+</br>
+
+## - Índice -
+<a name="ancora"></a>
+
+ [Card da Sprint 2](#ancora1)
+ 
+ [Materiais de texto](#ancora2)
+ 
+ [Plano de negócios](#ancora3)
+ 
+ [Site Cybermind](#ancora4)
+ 
+ </br>
+
+<a id="ancora1"></a>
+## Card SPRINT 2 
+<img src="../CODIGO/assets/img/card-sprint2.png">
+
+No nosso cronograma (19/10/2020 à 08/11/2020) foi estabelecido a produção de:
+
+* Tela Home
+
+* Tela Login
+
+* Tela Cadastro
+
+* Materiais de Texto
+
+* Plano de negócios
+
+* Hospedagem
+
+<br>
+
 <br>
 
 ## Funcionalidades desenvolvidas
@@ -82,41 +119,6 @@ Devido a complexidade do carrinho, ele foi divido em duas sprints. Na Sprint 2 -
 
 <p> 
 
-</br>
-</br>
-
-## - Índice -
-<a name="ancora"></a>
-
- [Card da Sprint 2](#ancora1)
- 
- [Materiais de texto](#ancora2)
- 
- [Plano de negócios](#ancora3)
- 
- [Site Cybermind](#ancora4)
- 
- </br>
-
-<a id="ancora1"></a>
-## Card SPRINT 2 
-<img src="../CODIGO/assets/img/card-sprint2.png">
-
-No nosso cronograma (19/10/2020 à 08/11/2020) foi estabelecido a produção de:
-
-* Tela Home
-
-* Tela Login
-
-* Tela Cadastro
-
-* Materiais de Texto
-
-* Plano de negócios
-
-* Hospedagem
-
-<br>
 
 <a id="ancora2"></a>
 ## - Materiais de texto -
