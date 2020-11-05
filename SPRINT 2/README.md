@@ -69,8 +69,16 @@ Devido a complexidade do carrinho, ele foi divido em duas sprints. Na Sprint 2 -
   - [x] Arquitetura e organização de computadores
   - [x] Inglês
 
+<br>
 
-
+- [x] <b>Formatação material de texto - </b> :white_check_mark: Completa :white_check_mark:
+ 
+   - [x] Português
+   - [x] Matemática discreta
+   - [x] Algoritmo e lógica de programação
+   - [x] Hardware
+   - [x] Arquitetura e organização de computadores
+   - [x] Inglês
 
 <p> 
 
