@@ -119,9 +119,7 @@ Devido a complexidade do carrinho, ele foi divido em duas sprints. Na Sprint 2 -
 <a id="ancora3"></a>
 
 ## - Código -
-Para acessar nosso <b>Plano de Negócios</b> completo, [clique aqui.](https://github.com/arapujo/pi_primeiro_semestre/blob/master/SPRINT%201/Materiais%20Did%C3%A1ticos/Plano%20de%20Neg%C3%B3cios.pdf)
-<img src="../CODIGO/assets/img/pdn-imagem.png">
- 
+
 
  
  
