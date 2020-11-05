@@ -9,7 +9,7 @@
 
 ## Entrega Sprint 2
 
-O conteúdo entregue nessa sprint, foram definidos de acordo com a funcionalidades 7 até a 15 do nosso backlog, sendo desenvolvidas 9 features no total.
+O conteúdo entregue nessa sprint, foram definidos de acordo com as funcionalidades 7 até a 15 do nosso backlog, sendo desenvolvidas 9 features no total.
 
 <img src="../CODIGO/assets/img/sprint2-backlog.png">
 
@@ -17,7 +17,7 @@ O conteúdo entregue nessa sprint, foram definidos de acordo com a funcionalidad
 
 ## Objetivo
 
-<p> Para esta entrega nossa equipe decidiu desenvolver a tela <b>Home</b>, pois é por meio dela que o usuário terá acesso ao catálogo de cursos; telas de <b>Login</b> e <b>Cadastro</b>, pois elas são imprencídiveis para a funcionalidade <b>Carrinho</b> que será entregue na Sprint 2; produzimos os <b>materiais de texto</b> das matérias solicitadas pelo cliente. Foi elaborado também o <b>Plano de Negócios</b>, contendo as informações orçamentárias e a nossa proposta de venda e a <b>logo</b>, que foi desenvolvida no final da Sprint 0.
+<p> 
 
 </br>
 </br>
