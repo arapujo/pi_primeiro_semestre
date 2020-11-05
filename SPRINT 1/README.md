@@ -82,7 +82,7 @@ Para acessar nosso <b>Plano de Negócios</b> completo, [clique aqui.](https://gi
 
 <a id="ancora4"></a>
 ## - Site -
-Para visualizar o site CyberMind em funcionamento, [clique aqui](http://cybermind.atwebpages.com/).
+Site não está hospedado. Disponível somente em localhost.
 
 Funcionalidades em funcionamento:
 
