@@ -23,7 +23,7 @@ Devido a complexidade do carrinho, ele foi divido em duas sprints. Na sprint 2 -
 
 <br>
 
-- [x] Área Administador - Adicionar material
+- [x] Área Administador - Adicionar material - :white_check_mark: Completa :white_check_mark:
 
 <br>
 
@@ -40,7 +40,7 @@ Devido a complexidade do carrinho, ele foi divido em duas sprints. Na sprint 2 -
 - [x] Área Aluno - Histórico de compras <br>
 :heavy_exclamation_mark: Esta funcionalidade depende das informações do Carrinho. Na sprint 2 - foi desenvolvido o layout e na Sprint 3 - será implementado o banco de dados.:heavy_exclamation_mark: 
 
-- [x] Área Aluno - Ver perfil <br>
+- [x] Área Aluno - Ver perfil <br> - :white_check_mark: Completa :white_check_mark:
 
 
 
