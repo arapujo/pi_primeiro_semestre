@@ -76,13 +76,15 @@ O cliente solicitou que o site deverá possuir os seguintes requisitos:
 <br>
 
 <b>Funcionalidades:</b>
+- [x] Cadastro - Para visualizar, [clique aqui]().
 
-* Login e Esqueci senha
+- [x] Login - Para visualizar, [clique aqui]().
 
-* Cadastro
-* Carrinho de compras
-* Área do administrador: Relatório de vendas
-* Área do administrador: Adicionar Material
+- [ ] Carrinho de compras - Para visualizar, [clique aqui]().
+
+- [x] Área do administrador: Relatório de vendas - Para visualizar, [clique aqui]().
+
+- [x] Área do administrador: Adicionar material - Para visualizar, [clique aqui]().
 
 <br />
 
