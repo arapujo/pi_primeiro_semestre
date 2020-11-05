@@ -17,6 +17,9 @@ Os conteúdos entregue nessa sprint, foram definidos de acordo com as funcionali
 
 ## Funcionalidades desenvolvidas
 
+### Área Administrador
+<br>
+
 - [x] <b>Carrinho(confirmação de compra e pagamento) - (Layout)</b> <br>
 :grey_exclamation:
 Devido a complexidade do carrinho, ele foi divido em duas sprints. Na Sprint 2 - foram desenvolvidas o layout e parte da programação e na Sprint 3 - ele será integrado ao banco de dados e estará em pleno funcionamento. :grey_exclamation:
@@ -31,6 +34,8 @@ Devido a complexidade do carrinho, ele foi divido em duas sprints. Na Sprint 2 -
 :grey_exclamation: Esta funcionalidade depende das informações do Carrinho. Na sprint 2 - foi desenvolvido o layout e na Sprint 3 - será implementado o banco de dados.:grey_exclamation: 
 
 <br>
+
+### Área Aluno
 
 - [x] <b>Área Aluno - Ver materiais</b> <br>
 :grey_exclamation: Esta funcionalidade depende das informações do Carrinho. Na sprint 2 - foi desenvolvido o layout e na Sprint 3 - será implementado o banco de dados.:grey_exclamation:
