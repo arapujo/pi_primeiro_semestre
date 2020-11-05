@@ -152,13 +152,12 @@ button{
     background-color: #1e8ebb!important;
     background-repeat: no-repeat;
   }  
-
 /* FOOTER */
 
 footer {
-  background: rgb(9, 52, 99);
+  background: rgb(0, 0, 0);
   padding: 1.5rem 0 1.5rem;
-  margin-top: 3rem;
+  margin-top: 7rem;
 }
 
 footer img {

@@ -27,7 +27,7 @@
                         <img src="../../assets/icon/user.png">
                         Administrador</a>
                     <div class="dropdown-menu dropdown-menu-right">
-                        <a href="../aluno/aluno-lista-material.php" class="dropdown-item">Relatório de vendas</a>
+                        <a href="historico.php" class="dropdown-item">Relatório de vendas</a>
                         <a href="#" class="dropdown-item">Cadastrar materiais</a>
                         <div class="dropdown-divider"></div>
                         <a href="../../index.php"class="dropdown-item">Sair</a>
@@ -37,26 +37,26 @@
         </div>
     </nav>
 </div>
-<div class="container"> <div class=" text-center mt-5 ">
+
+<br>
+<div class="container-material"> <div class=" text-center mt-5 ">
         <h1>Cadastrar material</h1>
     </div>
     <div class="row ">
         <div class="col-lg-7 mx-auto">
             <div class="card mt-2 mx-auto p-4 bg-light">
-                <div class="card-body bg-light">
-                    <div class="container">
-                        <form method="POST" id="cadastro-material" action="../../action/cadastrar-material.php" enctype="multipart/form-data" >
-                            <div class="controls">
-                                <div class="row">
-                                    <div class="col-md-6">
-                                        <div class="form-group"> <label for="form_name">Nome do material:</label> <input id="form_image" type="text" name="nome_material" class="form-control" placeholder="Ex:Lógica de programação" maxlength="40" required="required"></div>
-                                    </div>
+                <form method="POST" id="cadastro-material" action="../../action/cadastrar-material.php" enctype="multipart/form-data" >
+                    <div class="controls">
+                        <div class="row">
+                                <div class="col-md-6">
+                                    <div class="form-group"> <label for="form_name">Nome do material:</label> <input id="form_image" type="text" name="nome_material" class="form-control" placeholder="Ex:Lógica de programação" maxlength="40" required="required"></div>
+                                </div>
                                     <div class="col-md-6">
                                         <div class="form-group"> <label for="form_name">Preco:</label> <input id="form_image" type="text" name="valor" class="form-control" placeholder="Ex:24,99" maxlength="6" required="required"></div>
                                     </div>
                                 </div>
                                 <div class="row">
-                                <div class="col-md-6">
+                                    <div class="col-md-6">
                                     <div class="form-group"> <label for="form_name">Imagem:</label> <input id="form_image" type="file" name="imagem_material" class="form-control" accept="image/*" required="required"></div>
                                 </div>
                                 <div class="col-md-6">
@@ -81,7 +81,6 @@
                                 </div>
                             </div>
                         </form>
-                    </div>
                 </div>
             </div> <!-- /.8 -->
         </div> <!-- /.row-->
