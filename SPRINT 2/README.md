@@ -18,8 +18,8 @@ O conteúdo entregue nessa sprint, foram definidos de acordo com as funcionalida
 ## Funcionalidades desenvolvidas
 
 - [x] Carrinho(Confirmação de compra e pagamento) - (Layout) <br>
-:heavy_exclamation_mark: 
-Devido a complexidade do carrinho, ele foi divido em duas sprints. Na Sprint 2 - foram desenvolvidas o layout e parte da programação e na Sprint 3 - ele será integrado ao banco de dados e estará em pleno funcionamento. :heavy_exclamation_mark:
+:grey_exclamation:
+Devido a complexidade do carrinho, ele foi divido em duas sprints. Na Sprint 2 - foram desenvolvidas o layout e parte da programação e na Sprint 3 - ele será integrado ao banco de dados e estará em pleno funcionamento. :grey_exclamation:
 
 <br>
 
@@ -28,17 +28,17 @@ Devido a complexidade do carrinho, ele foi divido em duas sprints. Na Sprint 2 -
 <br>
 
 - [x] Área Administador - Relatório de vendas(Layout) <br>
-:heavy_exclamation_mark: Esta funcionalidade depende das informações do Carrinho. Na sprint 2 - foi desenvolvido o layout e na Sprint 3 - será implementado o banco de dados.:heavy_exclamation_mark: 
+:grey_exclamation: Esta funcionalidade depende das informações do Carrinho. Na sprint 2 - foi desenvolvido o layout e na Sprint 3 - será implementado o banco de dados.:grey_exclamation: 
 
 <br>
 
 - [x] Área Aluno - Ver materiais <br>
-:heavy_exclamation_mark: Esta funcionalidade depende das informações do Carrinho. Na sprint 2 - foi desenvolvido o layout e na Sprint 3 - será implementado o banco de dados.:heavy_exclamation_mark: 
+:grey_exclamation: Esta funcionalidade depende das informações do Carrinho. Na sprint 2 - foi desenvolvido o layout e na Sprint 3 - será implementado o banco de dados.:grey_exclamation:
 
 <br>
 
 - [x] Área Aluno - Histórico de compras 
-:heavy_exclamation_mark: Esta funcionalidade depende das informações do Carrinho. Na sprint 2 - foi desenvolvido o layout e na Sprint 3 - será implementado o banco de dados.:heavy_exclamation_mark: 
+:grey_exclamation: Esta funcionalidade depende das informações do Carrinho. Na sprint 2 - foi desenvolvido o layout e na Sprint 3 - será implementado o banco de dados.:grey_exclamation: 
 
 <br>
 
