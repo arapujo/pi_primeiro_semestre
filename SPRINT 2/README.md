@@ -49,7 +49,7 @@ No nosso cronograma (19/10/2020 à 08/11/2020) foi estabelecido a produção de:
 ## Funcionalidades desenvolvidas
 <br>
 
-### Área Administrador
+### Área Administrador :man_in_tuxedo:
 
 
 - [x] <b>Carrinho(confirmação de compra e pagamento) - (Layout)</b> <br>
@@ -67,7 +67,7 @@ Devido a complexidade do carrinho, ele foi divido em duas sprints. Na Sprint 2 -
 
 <br>
 
-### Área Aluno
+### Área Aluno  :man_student:
 
 - [x] <b>Área Aluno - Ver materiais</b> <br>
 :grey_exclamation: Esta funcionalidade depende das informações do Carrinho. Na sprint 2 - foi desenvolvido o layout e na Sprint 3 - será implementado o banco de dados.:grey_exclamation:
