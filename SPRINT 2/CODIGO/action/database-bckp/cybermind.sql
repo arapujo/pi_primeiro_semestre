@@ -53,12 +53,28 @@ INSERT INTO `material` (`id`, `nome`, `preco`, `descricao_simples`, `descricao`,
 
 CREATE TABLE `usuario` (
   `usuario_id` int(5) NOT NULL,
-  `usuario` varchar(45) NOT NULL,
+  `usuario` varchar(8) NOT NULL,
   `senha` varchar(32) NOT NULL,
-  `nome` varchar(15) NOT NULL,
+  `nome` varchar(20) NOT NULL,
   `sobrenome` varchar(35) NOT NULL,
-  `email` varchar(45) NOT NULL,
+  `email` varchar(35) NOT NULL,
   `data_cadastro` datetime NOT NULL
+  `email_secundario` varchar(35),
+   `data_nascimento` varchar(10),
+  `cpf` varchar(11),
+  `telefone` varchar(14),
+  `celular` varchar(14),
+ `cep` varchar(8),
+`logradouro` varchar(20),
+`numero` varchar(4),
+`bairro` varchar(40),
+`cidade` varchar(35),
+`complemento` varchar(20),
+`estado` varchar(35),
+`pais` varchar(35),
+`formacao` varchar(30),
+`tipo_formacao` varchar(35),
+`instituicao` varchar(30),
 ) ENGINE=MyISAM DEFAULT CHARSET=latin1;
 
 --

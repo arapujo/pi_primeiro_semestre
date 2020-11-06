@@ -1,12 +1,12 @@
 <?php
-
-include("conexão.php");
-
+	session_start(); 
+    include('conexão.php');
+   
 //Pegandos as informaçõs do cadastro
 $nome = preg_replace('#[^a-z0-9]#i', '', $_POST['user_name']);
 $sobrenome = preg_replace('#[^a-z0-9]#i', '', $_POST['last_name_user']);
 $usuario = preg_replace('#[^a-z0-9]#i', '', $_POST['user_nickname']);
-$email = preg_replace('#[^a-z0-9]#i', '', $_POST['user_email']);
+$email = $_POST['user_email'];
 $senha = preg_replace('#[^a-z0-9]#i', '', md5($_POST['password']));
 $senha_verifica = preg_replace('#[^a-z0-9]#i', '', md5($_POST['password-checkout']));
 
@@ -34,6 +34,11 @@ $sql = "INSERT INTO usuario (usuario, senha, nome, sobrenome, email, data_cadast
 //rodando o comando e retornando mensagem de cadastro realizado
 if($conexao->query($sql) === true){
 	$_SESSION['status_cadastro'] = true;
+	$_SESSION['usuario'] = $usuario;
+	$_SESSION['nome'] = $nome;
+	$_SESSION['sobrenome'] = $sobrenome;
+	$_SESSION['email'] = $email;
+	$_SESSION['senha'] = $senha;
 	header('Location: ../pages/login/cadastro-sucesso.php');
 }
 

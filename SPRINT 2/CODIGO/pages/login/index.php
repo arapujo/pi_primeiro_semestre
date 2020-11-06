@@ -1,3 +1,7 @@
+<?php
+    include('../../action/conexão.php');
+    session_start();
+?>
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -24,7 +28,6 @@
         <div class="form-group">
             <button type="submit" class="btn btn-primary btn-lg btn-block">Entrar</button>
         </div>
-        <p><a href="esqueci-senha.html">Esqueceu a senha?</a></p>
     </form>
     <p class="text-center small"><a>Não possui uma conta?<a href="cadastro.php">Cadastre-se</a></p>
 </div>

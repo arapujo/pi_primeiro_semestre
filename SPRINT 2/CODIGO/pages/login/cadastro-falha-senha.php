@@ -1,3 +1,6 @@
+<?php
+    include('../../action/conexão.php');
+?>
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
