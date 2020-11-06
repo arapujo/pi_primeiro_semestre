@@ -46,7 +46,7 @@ No nosso cronograma (19/10/2020 à 08/11/2020) foi estabelecido a produção de:
 <br>
 
 <a id="ancora2"></a>
-## Funcionalidades desenvolvidas
+## - Funcionalidades desenvolvidas -
 <br>
 
 ### Área Administrador :man_in_tuxedo:
@@ -88,7 +88,7 @@ Devido a complexidade do carrinho, ele foi divido em duas sprints. Na Sprint 2 -
 
 <br>
 
-### Material
+### Material :closed_book:
 
 
 - [x] <b>Página - Resumo do material - </b> :white_check_mark: Completa :white_check_mark:
@@ -117,7 +117,7 @@ Devido a complexidade do carrinho, ele foi divido em duas sprints. Na Sprint 2 -
 
 <a id="ancora3"></a>
 
-## - Código -
+## - Código - :computer:
 
 
  - [x] Home - Para visualizar, [clique aqui](https://github.com/arapujo/pi_primeiro_semestre/tree/master/SPRINT%202/CODIGO).
