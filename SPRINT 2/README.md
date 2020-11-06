@@ -75,17 +75,19 @@ Devido a complexidade do carrinho, ele foi divido em duas sprints. Na Sprint 2 -
 
 ### Área Aluno  :man_student:
 
-- [x] <b>Área Aluno - Ver materiais</b> <br>
+- [x] <b>Área Aluno - lista de materiais comprado</b> <br>
 :grey_exclamation: Esta funcionalidade depende das informações do Carrinho. Na sprint 2 - foi desenvolvido o layout e na Sprint 3 - será implementado o banco de dados.:grey_exclamation:
-
+<img src="CODIGO/assets/img/lista-material.gif">
 <br>
 
 - [x] <b>Área Aluno - Histórico de compras</b>
-:grey_exclamation: Esta funcionalidade depende das informações do Carrinho. Na sprint 2 - foi desenvolvido o layout e na Sprint 3 - será implementado o banco de dados.:grey_exclamation: 
+:grey_exclamation: Esta funcionalidade depende das informações do Carrinho. Na sprint 2 - foi desenvolvido o layout e na Sprint 3 - será implementado o banco de dados.:grey_exclamation:
+<img src="CODIGO/assets/img/histórico.gif">
 
 <br>
 
 - [x] <b>Área Aluno - Ver perfil</b> - :white_check_mark: Completa :white_check_mark:
+<img src="CODIGO/assets/img/perfil.gif">
 
 <br>
 
