@@ -3,4 +3,4 @@
 <br>
 
 ### Tela index.php
-<img src="../../assets/img/aluno-pós-login" width="90%">
+<img src="../../assets/img/aluno-pós-login.gif" width="90%">
