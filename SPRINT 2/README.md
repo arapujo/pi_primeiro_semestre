@@ -49,7 +49,7 @@ No nosso cronograma (19/10/2020 à 08/11/2020) foi estabelecido a produção de:
 ## - Funcionalidades desenvolvidas -
 <br>
 
-### Carrinho :man_in_tuxedo:
+### Carrinho :car:
 
 
 - [x] <b>Carrinho(confirmação de compra e pagamento) - (Layout)</b> <br>
@@ -111,8 +111,9 @@ Devido a complexidade do carrinho, ele foi divido em duas sprints. Na Sprint 2 -
 
 <br>
 
-- [x] <b>Formatação material de texto - </b> :white_check_mark: Completa :white_check_mark:
- 
+- [x] <b>Formatação material de texto - </b> :white_check_mark: Completa :white_check_mark: -
+Para visualizar, [clique aqui](https://github.com/arapujo/pi_primeiro_semestre/tree/master/SPRINT%202/MATERIAL)
+
    - [x] Português
    - [x] Matemática discreta
    - [x] Algoritmo e lógica de programação
