@@ -1,22 +1,4 @@
-<?php 
-	session_start();
-	if(!isset($_SESSION['itens']))
-	{
-		$_SESSION['itens'] = array();
 
-	}
-	/*adiciona ao carrinho*/
-	if(isset($_GET['add']) && $_GET['add'] == "carrinho")
-	{
-		$idProduto = $_GET['id'];
-		if (!isset($_SESSION['itens'][$idProduto]))
-		{
-			$_SESSION['itens'][$idProduto] = 1;
-		}else{
-			$_SESSION['itens'][$idProduto] += 1;
-		}
-	}
- ?>
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -36,7 +18,7 @@
 <div id="home">
 	<!--- Navegação --->
 	<nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
-		<a class="navbar-brand" href="../../index.html"><img src="../../assets/img/logo.png"></a>
+		<a class="navbar-brand" href="../../index.php"><img src="../../assets/img/logo.png"></a>
 		
 		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive">
 			<span class="navbar-toggler-icon"></span>
@@ -72,37 +54,21 @@
 						</tr>
 					</thead>
 					<tbody>
-						<tr>
-							<td data-th="Product">
-								<?php
-								/*exibir o carrinho*/								
-								if(count($_SESSION['itens']) == 0)
-								{
-									echo 'carrinho vazio<br><a href="../curso/catalogo.php">Adicionar Itens</a>';
-								}else{
-									$conexao = new PDO('mysql:host=localhost;dbname=cybermind',"root","");
-									foreach($_SESSION['itens'] as $idProduto => $quantidade)
-									{
-									$select = $conexao->prepare("SELECT * FROM produto WHERE id_produto=?");
-									$select->bindParam(1,$idProduto);
-									$select->execute();
-									$produto = $select->fetchAll();
-									echo 'Nome: |'.$produto[0]["nome_produto"].'&nbsp; Quantidade: '.$quantidade.'<br/>';
-									}									
-								}
-								?>			
-							</td>
-						</tr>
+						
+							<?php
+								include("../../action/carrinho.php");
+							 ?>
+							 
 					</tbody>
 					<tfoot>
 						<tr class="visible-xs">
-							<td class="text-center"><strong>Total 1.99</strong></td>
+							<td class="text-center"><strong><?php echo 'R$'.number_format($total,2,",",".");?></strong></td>
 						</tr>
 						<tr>
 							<td><a href="../curso/catalogo.php" class="btn btn-warning botao-continua-compra"><i class="fa fa-angle-left"></i> Continuar comprando</a></td>
 							<td colspan="2" class="hidden-xs"></td>
-							<td class="hidden-xs text-center"><strong>Total R$20,00</strong></td>
-							<td><a href="identificacao.html" class="btn btn-success btn-block botao-finaliza-compra">Finalizar compra <i class="fa fa-angle-right"></i></a></td>
+							<td class="hidden-xs text-center"><strong>Total <?php echo 'R$'.number_format($total,2,",",".");?> </strong></td>
+							<td><a href="identificacao.php" class="btn btn-success btn-block botao-finaliza-compra">Finalizar compra <i class="fa fa-angle-right"></i></a></td>
 						</tr>
 					</tfoot>
 				</table>
