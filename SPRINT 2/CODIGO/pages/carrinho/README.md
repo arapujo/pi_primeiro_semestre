@@ -3,5 +3,5 @@
 <br>
 
 ### Carrinho 
-<img src="../../assets/img/carrinho-gif.gif" width="90%">
+<img src="../../assets/img/gif-carrinho.gif" width="90%">
 
