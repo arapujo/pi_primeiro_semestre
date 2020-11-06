@@ -1,3 +1,22 @@
+<?php 
+	session_start();
+	if(!isset($_SESSION['itens']))
+	{
+		$_SESSION['itens'] = array();
+
+	}
+	/*adiciona ao carrinho*/
+	if(isset($_GET['add']) && $_GET['add'] == "carrinho")
+	{
+		$idProduto = $_GET['id'];
+		if (!isset($_SESSION['itens'][$idProduto]))
+		{
+			$_SESSION['itens'][$idProduto] = 1;
+		}else{
+			$_SESSION['itens'][$idProduto] += 1;
+		}
+	}
+ ?>
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -55,22 +74,23 @@
 					<tbody>
 						<tr>
 							<td data-th="Product">
-								<div class="row">
-									<div class="col-sm-2 hidden-xs"><img src="../../assets/img/logica.jpg" width="100px" height="100px" alt="..." class="img-responsive"/></div>
-									<div class="col-sm-10">
-										<h4 class="nomargin titulo-produto">Lógica de programação</h4>
-										<p class="descricao-produto"> Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet.</p>
-									</div>
-								</div>
-							</td>
-							<td data-th="Preço">R$1.99</td>
-							<td data-th="Quantidade">
-								<p>1</p>
-							</td>
-							<td data-th="Subtotal" class="text-center">1.99</td>
-							<td class="actions" data-th="">
-								
-								<button class="btn btn-danger btn-sm"><i>Remover</i></button>								
+								<?php
+								/*exibir o carrinho*/								
+								if(count($_SESSION['itens']) == 0)
+								{
+									echo 'carrinho vazio<br><a href="../curso/catalogo.php">Adicionar Itens</a>';
+								}else{
+									$conexao = new PDO('mysql:host=localhost;dbname=cybermind',"root","");
+									foreach($_SESSION['itens'] as $idProduto => $quantidade)
+									{
+									$select = $conexao->prepare("SELECT * FROM produto WHERE id_produto=?");
+									$select->bindParam(1,$idProduto);
+									$select->execute();
+									$produto = $select->fetchAll();
+									echo 'Nome: |'.$produto[0]["nome_produto"].'&nbsp; Quantidade: '.$quantidade.'<br/>';
+									}									
+								}
+								?>			
 							</td>
 						</tr>
 					</tbody>
@@ -79,7 +99,7 @@
 							<td class="text-center"><strong>Total 1.99</strong></td>
 						</tr>
 						<tr>
-							<td><a href="../../index.html" class="btn btn-warning botao-continua-compra"><i class="fa fa-angle-left"></i> Continuar comprando</a></td>
+							<td><a href="../curso/catalogo.php" class="btn btn-warning botao-continua-compra"><i class="fa fa-angle-left"></i> Continuar comprando</a></td>
 							<td colspan="2" class="hidden-xs"></td>
 							<td class="hidden-xs text-center"><strong>Total R$20,00</strong></td>
 							<td><a href="identificacao.html" class="btn btn-success btn-block botao-finaliza-compra">Finalizar compra <i class="fa fa-angle-right"></i></a></td>

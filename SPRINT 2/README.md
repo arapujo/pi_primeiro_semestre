@@ -11,7 +11,7 @@
 
 Os conteúdos entregue nessa sprint, foram definidos de acordo com as funcionalidades 7 até a 15 do nosso backlog, sendo desenvolvidas 9 features no total.
 
-<img src="../CODIGO/assets/img/sprint2-backlog.png">
+<img src="CODIGO/assets/img/sprint2-backlog.png">
 
 
 </br>
@@ -31,7 +31,7 @@ Os conteúdos entregue nessa sprint, foram definidos de acordo com as funcionali
 
 <a id="ancora1"></a>
 ## Card SPRINT 2 
-<img src="../CODIGO/assets/img/card-sprint2.png">
+<img src="CODIGO/assets/img/card-sprint2.png">
 
 No nosso cronograma (19/10/2020 à 08/11/2020) foi estabelecido a produção de:
 
@@ -46,10 +46,10 @@ No nosso cronograma (19/10/2020 à 08/11/2020) foi estabelecido a produção de:
 <br>
 
 <a id="ancora2"></a>
-## Funcionalidades desenvolvidas
+## - Funcionalidades desenvolvidas -
 <br>
 
-### Área Administrador
+### Área Administrador :man_in_tuxedo:
 
 
 - [x] <b>Carrinho(confirmação de compra e pagamento) - (Layout)</b> <br>
@@ -67,7 +67,7 @@ Devido a complexidade do carrinho, ele foi divido em duas sprints. Na Sprint 2 -
 
 <br>
 
-### Área Aluno
+### Área Aluno  :man_student:
 
 - [x] <b>Área Aluno - Ver materiais</b> <br>
 :grey_exclamation: Esta funcionalidade depende das informações do Carrinho. Na sprint 2 - foi desenvolvido o layout e na Sprint 3 - será implementado o banco de dados.:grey_exclamation:
@@ -88,7 +88,7 @@ Devido a complexidade do carrinho, ele foi divido em duas sprints. Na Sprint 2 -
 
 <br>
 
-### Material
+### Material :closed_book:
 
 
 - [x] <b>Página - Resumo do material - </b> :white_check_mark: Completa :white_check_mark:
@@ -117,8 +117,16 @@ Devido a complexidade do carrinho, ele foi divido em duas sprints. Na Sprint 2 -
 
 <a id="ancora3"></a>
 
-## - Código -
+## - Código - :computer:
 
+
+ - [x] Home - Para visualizar, [clique aqui](https://github.com/arapujo/pi_primeiro_semestre/tree/master/SPRINT%202/CODIGO).
+ 
+ - [x] Área aluno - Para visualizar, [clique aqui](https://github.com/arapujo/pi_primeiro_semestre/tree/master/SPRINT%202/CODIGO/pages/aluno).
+ - [x] Área Administrador - Para visualizar, [clique aqui](https://github.com/arapujo/pi_primeiro_semestre/tree/master/SPRINT%202/CODIGO/pages/admin).
+ - [x] Carrinho - Para visualizar, [clique aqui](https://github.com/arapujo/pi_primeiro_semestre/tree/master/SPRINT%202/CODIGO/pages/carrinho).
+ - [x] Área material - Para visualizar, [clique aqui](https://github.com/arapujo/pi_primeiro_semestre/tree/master/SPRINT%202/CODIGO).
+  
 
  
  

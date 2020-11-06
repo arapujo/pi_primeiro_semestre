@@ -5,7 +5,7 @@
 <h2 text align="center">Fatec Profº Jessen Vidal - São José dos Campos - 1º Semestre ADS</h2>
 
 <p align="center">
-  <img  src="CODIGO/assets/img/fatec-logo.png" width="140px" height="70px">
+  <img  src="SPRINT 2/CODIGO/assets/img/fatec-logo.png" width="140px" height="70px">
  </p>
  
  <br>
@@ -76,15 +76,15 @@ O cliente solicitou que o site deverá possuir os seguintes requisitos:
 <br>
 
 <b>Funcionalidades:</b>
-- [x] Cadastro - Para visualizar, [clique aqui]().
+- [x] Cadastro - Para visualizar, [clique aqui](https://github.com/arapujo/pi_primeiro_semestre/tree/master/SPRINT%202/CODIGO/pages/login).
 
-- [x] Login - Para visualizar, [clique aqui]().
+- [x] Login - Para visualizar, [clique aqui](https://github.com/arapujo/pi_primeiro_semestre/tree/master/SPRINT%202/CODIGO/pages/login).
 
 - [ ] Carrinho de compras - Para visualizar, [clique aqui]().
 
-- [x] Área do administrador: Relatório de vendas - Para visualizar, [clique aqui]().
+- [x] Área do administrador: Relatório de vendas - Para visualizar, [clique aqui](https://github.com/arapujo/pi_primeiro_semestre/tree/master/SPRINT%202/CODIGO/pages/admin).
 
-- [x] Área do administrador: Adicionar material - Para visualizar, [clique aqui]().
+- [x] Área do administrador: Adicionar material - Para visualizar, [clique aqui](https://github.com/arapujo/pi_primeiro_semestre/tree/master/SPRINT%202/CODIGO/pages/admin).
 
 <br />
 
@@ -119,6 +119,8 @@ O cliente solicitou que o site deverá possuir os seguintes requisitos:
 
 * Backend: PHP e MySQL
 
+* Edição e gravação de vídeos: CamStudio
+
 <br />
 
 <a id="ancora5"></a>
@@ -127,7 +129,7 @@ O cliente solicitou que o site deverá possuir os seguintes requisitos:
 - [x] Entrega 1 - 07/09/2020 à 27/09/2020 - Para visualizar a entrega, [clique aqui](https://github.com/arapujo/pi_primeiro_semestre/tree/master/SPRINT%200).
 
 - [x] Entrega 2 - 28/09/2020 à 17/10/2020 - Para visualizar a entrega, [clique aqui](https://github.com/arapujo/pi_primeiro_semestre/tree/master/SPRINT%201).
-- [ ] Entrega 3 - 19/10/2020 à 08/11/2020 - Em desenvolvimento...
+- [X] Entrega 3 - 19/10/2020 à 08/11/2020 - Para visualizar a entrega, [clique aqui](https://github.com/arapujo/pi_primeiro_semestre/tree/master/SPRINT%202).
 - [ ] Entrega 4 - 09/11/2020 à 29/11/2020
 
 <br />
@@ -135,7 +137,7 @@ O cliente solicitou que o site deverá possuir os seguintes requisitos:
 <a id="ancora6"></a>
 ## - Backlog do projeto - :bar_chart:
 
-<img  src="CODIGO/assets/img/backlog-cybermind.png">
+<img  src="SPRINT 2/CODIGO/assets/img/backlog-cybermind.png">
 
 <a id="ancora7"></a>
 
@@ -143,7 +145,7 @@ O cliente solicitou que o site deverá possuir os seguintes requisitos:
 
 ## - Cronograma - :clock1230:
 
-<img  src="CODIGO/assets/img/cronograma.png">
+<img  src="SPRINT 2/CODIGO/assets/img/cronograma.png">
 
 <a id="ancora8"></a>
 
@@ -155,6 +157,6 @@ O cliente solicitou que o site deverá possuir os seguintes requisitos:
 
 Confira a página Home do Cybermind:
 
-<img src="CODIGO/assets/img/site-cybermind.jpg">
+<img src="SPRINT 2/CODIGO/assets/img/site-cybermind.jpg">
 
 
