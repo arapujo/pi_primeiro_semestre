@@ -111,8 +111,9 @@ Devido a complexidade do carrinho, ele foi divido em duas sprints. Na Sprint 2 -
 
 <br>
 
-- [x] <b>Formatação material de texto - </b> :white_check_mark: Completa :white_check_mark:
- 
+- [x] <b>Formatação material de texto - </b> :white_check_mark: Completa :white_check_mark: -
+Para visualizar, [clique aqui](https://github.com/arapujo/pi_primeiro_semestre/tree/master/SPRINT%202/MATERIAL)
+
    - [x] Português
    - [x] Matemática discreta
    - [x] Algoritmo e lógica de programação
