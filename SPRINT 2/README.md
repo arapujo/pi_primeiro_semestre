@@ -49,7 +49,7 @@ No nosso cronograma (19/10/2020 à 08/11/2020) foi estabelecido a produção de:
 ## - Funcionalidades desenvolvidas -
 <br>
 
-### Carrinho :man_in_tuxedo:
+### Carrinho :car:
 
 
 - [x] <b>Carrinho(confirmação de compra e pagamento) - (Layout)</b> <br>
