@@ -84,7 +84,7 @@ O cliente solicitou que o site deverá possuir os seguintes requisitos:
 
 - [x] Área do administrador: Relatório de vendas - Para visualizar, [clique aqui](https://github.com/arapujo/pi_primeiro_semestre/tree/master/SPRINT%202/CODIGO/pages/admin).
 
-- [x] Área do administrador: Adicionar material - Para visualizar, [clique aqui]https://github.com/arapujo/pi_primeiro_semestre/tree/master/SPRINT%202/CODIGO/pages/admin).
+- [x] Área do administrador: Adicionar material - Para visualizar, [clique aqui](https://github.com/arapujo/pi_primeiro_semestre/tree/master/SPRINT%202/CODIGO/pages/admin).
 
 <br />
 
