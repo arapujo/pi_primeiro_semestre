@@ -8,4 +8,4 @@
 <br>
 
 ### Cadastro - Verificação de email
-<img src="../../assets/img/cadastro-email-gif.gif">
+<img src="../../assets/img/cadastro-email.gif.gif">
