@@ -8,11 +8,14 @@
 <br>
 
 ### Cadastro - Verificação de email
-<img src="../../assets/img/cadastro-email-gif.gif" width="90%">
+<img src="../../assets/img/cadastro-email.gif" width="90%">
 
 <br>
 
 ### Cadastro - Verificação de senha
 <img src="../../assets/img/cadastro-senha-gif.gif" width="90%">
+
+### Login
+<img src="../../assets/img/login-gif.gif" width="90%">
 
 
