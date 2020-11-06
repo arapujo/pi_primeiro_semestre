@@ -3,17 +3,17 @@
 
 <br>
 
-### <b>Hardware:</b>
+### <b>-Hardware-</b>
 
 <br>
 
-### <b>Inglês:</b>
+### <b>-Inglês-</b>
 
 <br>
 
-### <b>Arquitetura e Organização de Computadores:</b>
+### <b>-Arquitetura e Organização de Computadores-</b>
 
 
 <br>
 
-### <b>Matemática:</b>
+### <b>-Matemática-</b>
