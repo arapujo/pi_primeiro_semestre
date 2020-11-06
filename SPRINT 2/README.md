@@ -55,7 +55,7 @@ No nosso cronograma (19/10/2020 à 08/11/2020) foi estabelecido a produção de:
 - [x] <b>Carrinho(confirmação de compra e pagamento) - (Layout)</b> <br>
 :grey_exclamation:
 Devido a complexidade do carrinho, ele foi divido em duas sprints. Na Sprint 2 - foram desenvolvidas o layout e parte da programação e na Sprint 3 - ele será integrado ao banco de dados e estará em pleno funcionamento. :grey_exclamation:
-<img src="CODIGO/assets/img/carrinho-gif.gif">
+<img src="CODIGO/assets/img/gif-carrinho.gif">
 <br>
 
 <br>
