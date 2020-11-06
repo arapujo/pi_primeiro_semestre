@@ -93,6 +93,7 @@ Devido a complexidade do carrinho, ele foi divido em duas sprints. Na Sprint 2 -
 
 - [x] <b>Área Aluno - Ver material</b><br>
 :grey_exclamation: Esta funcionalidade depende das informações do Carrinho. Na sprint 2 - foi desenvolvido o layout e na Sprint 3 - será implementado o banco de dados.:grey_exclamation:
+<img src="CODIGO/assets/img/material.gif">
 
 <br>
 
