@@ -1,3 +1,6 @@
+<?php
+ session_start(); 
+?>
 <!DOCTYPE html>
 <html lang="pt-br">
   <head>
@@ -24,12 +27,12 @@
             <div id="navbarCollapse" class="collapse navbar-collapse">
                 <ul class="nav navbar-nav">
                     <li class="nav-item">
-                        <a href="#" class="nav-link"><img class="icon-carrinho" src="../../assets/icon/shopping-cart-icon.png"></a>
+                        <a href="../carrinho/index.php" class="nav-link"><img class="icon-carrinho" src="../../assets/icon/shopping-cart-icon.png"></a>
                     </li>
                     <li class="nav-item dropdown">
-                        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Materiais</a>
+                        <a href="aluno-lista-material.php" class="nav-link dropdown-toggle" data-toggle="dropdown">Materiais</a>
                         <div class="dropdown-menu">
-                            <a href="#curso" class="dropdown-item">Catálogo</a>
+                            <a href="index.php#curso" class="dropdown-item">Catálogo</a>
                             <a href="#" class="dropdown-item">Fórum de dúvidas</a>
                         </div>
                     </li>
@@ -37,14 +40,14 @@
                 <ul class="nav navbar-nav ml-auto">
                     <li class="nav-item dropdown">
                         <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">
-                            <img src="../../assets/icon/user.png">
-                            Nome do usuário</a>
+                            <img src="../../assets/icon/user.png"> <?php echo $_SESSION['usuario'] ?>
+                        </a>
                         <div class="dropdown-menu dropdown-menu-right">
                             <a href="aluno-lista-material.php" class="dropdown-item">Ver materiais</a>
                             <a href="perfil.php" class="dropdown-item">Ver perfil</a>
                             <a href="historico.php" class="dropdown-item">Histórico de compras</a>
                             <div class="dropdown-divider"></div>
-                            <a href="#"class="dropdown-item">Sair</a>
+                            <a href="../../index.php"class="dropdown-item">Sair</a>
                         </div>
                     </li>
                 </ul>
@@ -68,6 +71,7 @@
         <!--Dados pessoais-->
          <section id='dPessoais'>
 
+         <form action="../../action/cadastro-adicional.php" method="post">
              <h2 class="dPessoal">Dados Pessoais <img src="../../assets/icon/user-icon.png" width="30px" heigth="30px"></h2>
              <hr class="socketForm">
 
@@ -75,19 +79,13 @@
                    Nome:
                 </label> <br>
 
-                   <input required="required" type="text" name='nome' id="nome"  maxlength="20"> <br><br>
+                   <input required="required" type="text" name='nome' placeholder="<?php echo $_SESSION['nome'] ?>" id="nome"  maxlength="20"> <br><br>
 
                   <label for="sobrenome">
                    Sobrenome:
                 </label> <br>
 
-                   <input required="required" type="text" name='sobrenome' id="sobrenome"  maxlength="35"> <br><br>
-
-                <label for='email'>
-                    E-mail:
-                </label> <br>
-
-                   <input required="required" type="email" placeholder=""  name='email' id="email" maxlength="45"> <br><br>
+                   <input required="required" type="text" name='sobrenome' placeholder="<?php echo $_SESSION['sobrenome'] ?>" id="sobrenome"  maxlength="35"> <br><br>
 
                 <label for='email2'>
                    E-mail secundário:
@@ -131,7 +129,7 @@
                CEP:
              </label> <br>
 
-               <input required="required" type="text"  name='CEP' id="cep" value='' onblur="pesquisacep(this.value);"> <br><br> <!--vai pesquisar o endereço de acordo com o CEP-->
+               <input required="required" type="text"  name='CEP' id="cep" value='' maxlength="8" onblur="pesquisacep(this.value);"> <br><br> <!--vai pesquisar o endereço de acordo com o CEP-->
 
             <label for='rua'>
                Logradouro:
@@ -173,7 +171,7 @@
                País:
             </label><br>
 
-               <input required="required" type="text" name='estado' id="pais" maxlength="35" ><br><br>
+               <input required="required" type="text" name='pais' id="pais" maxlength="35" ><br><br>
         
          </section>
           
@@ -231,7 +229,7 @@
            <h10><a>Apagar conta</h10></a><br><br>
 
            <button id="salvar" style="vertical-align:middle"><span> Salvar Alterações </span></button></a><br><br>
-        
+            </form>
         </section>
 
       </div>

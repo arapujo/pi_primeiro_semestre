@@ -1,3 +1,6 @@
+<?php
+ session_start(); 
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -15,19 +18,19 @@
 <body>
 <div class="bs-menu">
     <nav class="navbar navbar-expand-md navbar-light  menu-bar">
-        <a href="#" class="navbar-brand"><img class="logo-site" src="../../assets/img/logo.png"></a>
+        <a href="index.php" class="navbar-brand"><img class="logo-site" src="../../assets/img/logo.png"></a>
         <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
             <span class="navbar-toggler-icon"></span>
         </button>
         <div id="navbarCollapse" class="collapse navbar-collapse">
             <ul class="nav navbar-nav">
                 <li class="nav-item">
-                    <a href="#" class="nav-link"><img class="icon-carrinho" src="../../assets/icon/shopping-cart-icon.png"></a>
+                <a href="../carrinho/index.php" class="nav-link"><img class="icon-carrinho" src="../../assets/icon/shopping-cart-icon.png"></a>
                 </li>
                 <li class="nav-item dropdown">
-                    <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Materiais</a>
+                    <a href="aluno-lista-material.php" class="nav-link dropdown-toggle" data-toggle="dropdown">Materiais</a>
                     <div class="dropdown-menu">
-                        <a href="#curso" class="dropdown-item">Catálogo</a>
+                        <a href="index.php#curso" class="dropdown-item">Catálogo</a>
                         <a href="#" class="dropdown-item">Fórum de dúvidas</a>
                     </div>
                 </li>
@@ -35,14 +38,14 @@
             <ul class="nav navbar-nav ml-auto">
                 <li class="nav-item dropdown">
                     <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">
-                        <img src="../../assets/icon/user.png">
-                        Nome do usuário</a>
+                        <img src="../../assets/icon/user.png"> <?php echo $_SESSION['usuario'] ?>
+                    </a>
                     <div class="dropdown-menu dropdown-menu-right">
-                        <a href="aluno-lista-mateiral.php" class="dropdown-item">Ver materiais</a>
+                        <a href="aluno-lista-material.php" class="dropdown-item">Ver materiais</a>
                         <a href="perfil.php" class="dropdown-item">Ver perfil</a>
                         <a href="#" class="dropdown-item">Histórico de compras</a>
                         <div class="dropdown-divider"></div>
-                        <a href="#"class="dropdown-item">Sair</a>
+                        <a href="../../index.php" class="dropdown-item">Sair</a>
                     </div>
                 </li>
             </ul>
@@ -57,7 +60,7 @@
             <div class="titulo"><p>Meus materiais:</p><img src="../../assets/icon/book-icon.png" width="55px" height="55px"></div>
         </div>
          <!-- CASO O USUÁRIO NÃO TENHA MATERIAL COMPRADO, MOSTRAR ISSO COM PHP --> <!--<p class="titulo-material">Você não possui nenhum material :( </p>-->
-            <p class="titulo-material">Nome do material - <a href="aluno-material.php">Link</a></p>
+            <p class="titulo-material">Nome do material - <a href="material-matematica.php">Link</a></p>
             <p class="titulo-material">Nome do material - <a href="">Link</a></p>
             <p class="titulo-material">Nome do material - <a href="">Link</a></p>
             <p class="titulo-material">Nome do material - <a href="aluno-material.php">Link</a></p>

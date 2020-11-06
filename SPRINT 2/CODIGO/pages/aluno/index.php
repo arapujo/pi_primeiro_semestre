@@ -1,9 +1,13 @@
+<?php
+    include('../../action/conexão.php');
+ session_start(); 
+?>
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<title>Cybermind - Ver perfil</title>
+<title>Cybermind</title>
 <link rel="stylesheet" href="../../styles/css/aluno.css">
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -19,12 +23,12 @@
         <div id="navbarCollapse" class="collapse navbar-collapse">
             <ul class="nav navbar-nav">
                 <li class="nav-item">
-                    <a href="#" class="nav-link"><img class="icon-carrinho" src="../../assets/icon/shopping-cart-icon.png"></a>
+                    <a href="../carrinho/index.php" class="nav-link"><img class="icon-carrinho" src="../../assets/icon/shopping-cart-icon.png"></a>
                 </li>
                 <li class="nav-item dropdown">
-                    <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Materiais</a>
+                    <a href="aluno-lista-material.php" class="nav-link dropdown-toggle" data-toggle="dropdown">Materiais</a>
                     <div class="dropdown-menu">
-                        <a href="#curso" class="dropdown-item">Catálogo</a>
+                        <a href="index.php#curso" class="dropdown-item">Catálogo</a>
                         <a href="#" class="dropdown-item">Fórum de dúvidas</a>
                     </div>
                 </li>
@@ -32,14 +36,14 @@
             <ul class="nav navbar-nav ml-auto">
                 <li class="nav-item dropdown">
                     <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">
-                        <img src="../../assets/icon/user.png">
-                        Nome do usuário</a>
+                   <img src="../../assets/icon/user.png"> <?php echo $_SESSION['usuario'] ?>
+                    </a>
                     <div class="dropdown-menu dropdown-menu-right">
                         <a href="../aluno/aluno-lista-material.php" class="dropdown-item">Ver materiais</a>
                         <a href="perfil.php" class="dropdown-item">Ver perfil</a>
-                        <a href="#" class="dropdown-item">Histórico de compras</a>
+                        <a href="historico.php" class="dropdown-item">Histórico de compras</a>
                         <div class="dropdown-divider"></div>
-                        <a href="#"class="dropdown-item">Sair</a>
+                        <a href="../../action/sair.php"class="dropdown-item">Sair</a>
                     </div>
                 </li>
             </ul>
@@ -52,8 +56,9 @@
 <div class="card text-center">
  
   <div class="card-body">
-    <h5 class="card-title">Boas Vindas ao CyberMind!</h5>
-    <a href="aluno-material.php" class="btn btn-primary">Meu material</a>
+    <h5 class="card-title"></h5>
+    <p>Olá, <?php echo $_SESSION['nome'] ?>! Boas Vindas ao CyberMind!</p>
+    <a href="aluno-lista-material.php" class="btn btn-primary">Meu material</a>
   </div>
 </div>
 
@@ -76,7 +81,7 @@
                     <div class="card-desc">
 						<h3>Quiz Hardware</h3>
 						<br>
-                        <p>Teste os seus conhecimentos em hardware.</p>
+                        <p>Teste os seus conhecimentos em hardware</p>
                             <a href="../curso/logica.php" class="btn-card">Ver</a>   
                     </div>
                 </div>
