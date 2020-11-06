@@ -15,7 +15,13 @@
 ### Cadastro - Verificação de senha
 <img src="../../assets/img/cadastro-senha-gif.gif" width="90%">
 
+<br>
+
 ### Login
 <img src="../../assets/img/login-gif.gif" width="90%">
 
+<br>
+
+### Login - Falha
+<img src="../../assets/img/login-falha.gif" width="90%">
 
