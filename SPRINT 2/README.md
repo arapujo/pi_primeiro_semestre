@@ -121,11 +121,11 @@ Devido a complexidade do carrinho, ele foi divido em duas sprints. Na Sprint 2 -
 
 <br>
 
- - [x] Home
- - [x] Área aluno
- - [x] Área Administrador
- - [x] Carrinho
- - [x] Área material
+ - [x] Home - Para visualizar, [clique aqui]().
+ - [x] Área aluno - Para visualizar, [clique aqui]().
+ - [x] Área Administrador - Para visualizar, [clique aqui]().
+ - [x] Carrinho - Para visualizar, [clique aqui]().
+ - [x] Área material - Para visualizar, [clique aqui]().
   
 
  
