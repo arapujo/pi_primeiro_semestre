@@ -71,67 +71,277 @@
     <!-- The slideshow -->
     <div class="carousel-inner" data-interval="800000">
       <div class="carousel-item active">
-        <img src="../../material/matematica/Slide1.jpg" alt="Los Angeles" width="1100" height="500">
+        <img src="../../material/hardware/Slide1.jpg" alt="Los Angeles" width="1100" height="500">
       </div>
       <div class="carousel-item">
-        <img src="../../material/matematica/Slide2.jpg" alt="Los Angeles" width="1100" height="500">
+        <img src="../../material/hardware/Slide2.jpg" alt="Los Angeles" width="1100" height="500">
       </div>
       <div class="carousel-item">
-        <img src="../../material/matematica/Slide3.jpg" alt="Los Angeles" width="1100" height="500">
+        <img src="../../material/hardware/Slide3.jpg" alt="Los Angeles" width="1100" height="500">
       </div>
       <div class="carousel-item">
-        <img src="../../material/matematica/Slide4.jpg" alt="Los Angeles" width="1100" height="500">
+        <img src="../../material/hardware/Slide4.jpg" alt="Los Angeles" width="1100" height="500">
       </div>
       <div class="carousel-item">
-        <img src="../../material/matematica/Slide5.jpg" alt="Los Angeles" width="1100" height="500">
+        <img src="../../material/hardware/Slide5.jpg" alt="Los Angeles" width="1100" height="500">
       </div>
       <div class="carousel-item">
-        <img src="../../material/matematica/Slide6.jpg" alt="Los Angeles" width="1100" height="500">
+        <img src="../../material/hardware/Slide6.jpg" alt="Los Angeles" width="1100" height="500">
       </div>
       <div class="carousel-item">
-        <img src="../../material/matematica/Slide7.jpg" alt="Los Angeles" width="1100" height="500">
+        <img src="../../material/hardware/Slide7.jpg" alt="Los Angeles" width="1100" height="500">
       </div>
       <div class="carousel-item">
-        <img src="../../material/matematica/Slide8.jpg" alt="Los Angeles" width="1100" height="500">
+        <img src="../../material/hardware/Slide8.jpg" alt="Los Angeles" width="1100" height="500">
       </div>
       <div class="carousel-item">
-        <img src="../../material/matematica/Slide9.jpg" alt="Los Angeles" width="1100" height="500">
+        <img src="../../material/hardware/Slide9.jpg" alt="Los Angeles" width="1100" height="500">
       </div>
       <div class="carousel-item">
-        <img src="../../material/matematica/Slide10.jpg" alt="Los Angeles" width="1100" height="500">
+        <img src="../../material/hardware/Slide10.jpg" alt="Los Angeles" width="1100" height="500">
       </div>
       <div class="carousel-item">
-        <img src="../../material/matematica/Slide11.jpg" alt="Los Angeles" width="1100" height="500">
+        <img src="../../material/hardware/Slide11.jpg" alt="Los Angeles" width="1100" height="500">
       </div>
       <div class="carousel-item">
-        <img src="../../material/matematica/Slide12.jpg" alt="Los Angeles" width="1100" height="500">
+        <img src="../../material/hardware/Slide12.jpg" alt="Los Angeles" width="1100" height="500">
       </div>
       <div class="carousel-item">
-        <img src="../../material/matematica/Slide13.jpg" alt="Los Angeles" width="1100" height="500">
+        <img src="../../material/hardware/Slide13.jpg" alt="Los Angeles" width="1100" height="500">
       </div>
       <div class="carousel-item">
-        <img src="../../material/matematica/Slide14.jpg" alt="Los Angeles" width="1100" height="500">
+        <img src="../../material/hardware/Slide14.jpg" alt="Los Angeles" width="1100" height="500">
       </div>
       <div class="carousel-item">
-        <img src="../../material/matematica/Slide15.jpg" alt="Los Angeles" width="1100" height="500">
+        <img src="../../material/hardware/Slide15.jpg" alt="Los Angeles" width="1100" height="500">
       </div>
       <div class="carousel-item">
-        <img src="../../material/matematica/Slide16.jpg" alt="Los Angeles" width="1100" height="500">
+        <img src="../../material/hardware/Slide16.jpg" alt="Los Angeles" width="1100" height="500">
       </div>
       <div class="carousel-item">
-        <img src="../../material/matematica/Slide17.jpg" alt="Los Angeles" width="1100" height="500">
+        <img src="../../material/hardware/Slide17.jpg" alt="Los Angeles" width="1100" height="500">
       </div>
       <div class="carousel-item">
-        <img src="../../material/matematica/Slide18.jpg" alt="Los Angeles" width="1100" height="500">
+        <img src="../../material/hardware/Slide18.jpg" alt="Los Angeles" width="1100" height="500">
       </div>
       <div class="carousel-item">
-        <img src="../../material/matematica/Slide19.jpg" alt="Los Angeles" width="1100" height="500">
+        <img src="../../material/hardware/Slide19.jpg" alt="Los Angeles" width="1100" height="500">
       </div>
       <div class="carousel-item">
-        <img src="../../material/matematica/Slide20.jpg" alt="Los Angeles" width="1100" height="500">
+        <img src="../../material/hardware/Slide20.jpg" alt="Los Angeles" width="1100" height="500">
       </div>
       <div class="carousel-item">
-        <img src="../../material/matematica/Slide21.jpg" alt="Los Angeles" width="1100" height="500">
+        <img src="../../material/hardware/Slide12.jpg" alt="Los Angeles" width="1100" height="500">
+      </div>
+      <div class="carousel-item">
+        <img src="../../material/hardware/Slide22.jpg" alt="Los Angeles" width="1100" height="500">
+      </div>
+      <div class="carousel-item">
+        <img src="../../material/hardware/Slide23.jpg" alt="Los Angeles" width="1100" height="500">
+      </div>
+      <div class="carousel-item">
+        <img src="../../material/hardware/Slide24.jpg" alt="Los Angeles" width="1100" height="500">
+      </div>
+      <div class="carousel-item">
+        <img src="../../material/hardware/Slide25.jpg" alt="Los Angeles" width="1100" height="500">
+      </div>
+      <div class="carousel-item">
+        <img src="../../material/hardware/Slide26.jpg" alt="Los Angeles" width="1100" height="500">
+      </div>
+      <div class="carousel-item">
+        <img src="../../material/hardware/Slide27.jpg" alt="Los Angeles" width="1100" height="500">
+      </div>
+      <div class="carousel-item">
+        <img src="../../material/hardware/Slide28.jpg" alt="Los Angeles" width="1100" height="500">
+      </div>
+      <div class="carousel-item">
+        <img src="../../material/hardware/Slide29.jpg" alt="Los Angeles" width="1100" height="500">
+      </div>
+      <div class="carousel-item">
+        <img src="../../material/hardware/Slide30.jpg" alt="Los Angeles" width="1100" height="500">
+      </div>
+      <div class="carousel-item">
+        <img src="../../material/hardware/Slide31.jpg" alt="Los Angeles" width="1100" height="500">
+      </div>
+      <div class="carousel-item">
+        <img src="../../material/hardware/Slide32.jpg" alt="Los Angeles" width="1100" height="500">
+      </div>
+      <div class="carousel-item">
+        <img src="../../material/hardware/Slide33.jpg" alt="Los Angeles" width="1100" height="500">
+      </div>
+      <div class="carousel-item">
+        <img src="../../material/hardware/Slide34.jpg" alt="Los Angeles" width="1100" height="500">
+      </div>
+      <div class="carousel-item">
+        <img src="../../material/hardware/Slide35.jpg" alt="Los Angeles" width="1100" height="500">
+      </div>
+      <div class="carousel-item">
+        <img src="../../material/hardware/Slide36.jpg" alt="Los Angeles" width="1100" height="500">
+      </div>
+      <div class="carousel-item">
+        <img src="../../material/hardware/Slide37.jpg" alt="Los Angeles" width="1100" height="500">
+      </div>
+      <div class="carousel-item">
+        <img src="../../material/hardware/Slide38.jpg" alt="Los Angeles" width="1100" height="500">
+      </div>
+      <div class="carousel-item">
+        <img src="../../material/hardware/Slide39.jpg" alt="Los Angeles" width="1100" height="500">
+      </div>
+      <div class="carousel-item">
+        <img src="../../material/hardware/Slide40.jpg" alt="Los Angeles" width="1100" height="500">
+      </div>
+      <div class="carousel-item">
+        <img src="../../material/hardware/Slide41.jpg" alt="Los Angeles" width="1100" height="500">
+      </div>
+      <div class="carousel-item">
+        <img src="../../material/hardware/Slide42.jpg" alt="Los Angeles" width="1100" height="500">
+      </div>
+      <div class="carousel-item">
+        <img src="../../material/hardware/Slide43.jpg" alt="Los Angeles" width="1100" height="500">
+      </div>
+      <div class="carousel-item">
+        <img src="../../material/hardware/Slide44.jpg" alt="Los Angeles" width="1100" height="500">
+      </div>
+      <div class="carousel-item">
+        <img src="../../material/hardware/Slide45.jpg" alt="Los Angeles" width="1100" height="500">
+      </div>
+      <div class="carousel-item">
+        <img src="../../material/hardware/Slide46.jpg" alt="Los Angeles" width="1100" height="500">
+      </div>
+      <div class="carousel-item">
+        <img src="../../material/hardware/Slide47.jpg" alt="Los Angeles" width="1100" height="500">
+      </div>
+      <div class="carousel-item">
+        <img src="../../material/hardware/Slide48.jpg" alt="Los Angeles" width="1100" height="500">
+      </div>
+      <div class="carousel-item">
+        <img src="../../material/hardware/Slide49.jpg" alt="Los Angeles" width="1100" height="500">
+      </div>
+      <div class="carousel-item">
+        <img src="../../material/hardware/Slide50.jpg" alt="Los Angeles" width="1100" height="500">
+      </div>
+      <div class="carousel-item">
+        <img src="../../material/hardware/Slide51.jpg" alt="Los Angeles" width="1100" height="500">
+      </div>
+      <div class="carousel-item">
+        <img src="../../material/hardware/Slide52.jpg" alt="Los Angeles" width="1100" height="500">
+      </div>
+      <div class="carousel-item">
+        <img src="../../material/hardware/Slide53.jpg" alt="Los Angeles" width="1100" height="500">
+      </div>
+      <div class="carousel-item">
+        <img src="../../material/hardware/Slide54.jpg" alt="Los Angeles" width="1100" height="500">
+      </div>
+      <div class="carousel-item">
+        <img src="../../material/hardware/Slide55.jpg" alt="Los Angeles" width="1100" height="500">
+      </div>
+      <div class="carousel-item">
+        <img src="../../material/hardware/Slide56.jpg" alt="Los Angeles" width="1100" height="500">
+      </div>
+      <div class="carousel-item">
+        <img src="../../material/hardware/Slide57.jpg" alt="Los Angeles" width="1100" height="500">
+      </div>
+      <div class="carousel-item">
+        <img src="../../material/hardware/Slide58.jpg" alt="Los Angeles" width="1100" height="500">
+      </div>
+      <div class="carousel-item">
+        <img src="../../material/hardware/Slide59.jpg" alt="Los Angeles" width="1100" height="500">
+      </div>
+      <div class="carousel-item">
+        <img src="../../material/hardware/Slide60.jpg" alt="Los Angeles" width="1100" height="500">
+      </div>
+      <div class="carousel-item">
+        <img src="../../material/hardware/Slide61.jpg" alt="Los Angeles" width="1100" height="500">
+      </div>
+      <div class="carousel-item">
+        <img src="../../material/hardware/Slide62.jpg" alt="Los Angeles" width="1100" height="500">
+      </div>
+      <div class="carousel-item">
+        <img src="../../material/hardware/Slide63.jpg" alt="Los Angeles" width="1100" height="500">
+      </div>
+      <div class="carousel-item">
+        <img src="../../material/hardware/Slide64.jpg" alt="Los Angeles" width="1100" height="500">
+      </div>
+      <div class="carousel-item">
+        <img src="../../material/hardware/Slide65.jpg" alt="Los Angeles" width="1100" height="500">
+      </div>
+      <div class="carousel-item">
+        <img src="../../material/hardware/Slide66.jpg" alt="Los Angeles" width="1100" height="500">
+      </div>
+      <div class="carousel-item">
+        <img src="../../material/hardware/Slide67.jpg" alt="Los Angeles" width="1100" height="500">
+      </div>
+      <div class="carousel-item">
+        <img src="../../material/hardware/Slide68.jpg" alt="Los Angeles" width="1100" height="500">
+      </div>
+      <div class="carousel-item">
+        <img src="../../material/hardware/Slide69.jpg" alt="Los Angeles" width="1100" height="500">
+      </div>
+      <div class="carousel-item">
+        <img src="../../material/hardware/Slide70.jpg" alt="Los Angeles" width="1100" height="500">
+      </div>
+      <div class="carousel-item">
+        <img src="../../material/hardware/Slide71.jpg" alt="Los Angeles" width="1100" height="500">
+      </div>
+      <div class="carousel-item">
+        <img src="../../material/hardware/Slide72.jpg" alt="Los Angeles" width="1100" height="500">
+      </div>
+      <div class="carousel-item">
+        <img src="../../material/hardware/Slide73.jpg" alt="Los Angeles" width="1100" height="500">
+      </div>
+      <div class="carousel-item">
+        <img src="../../material/hardware/Slide74.jpg" alt="Los Angeles" width="1100" height="500">
+      </div>
+      <div class="carousel-item">
+        <img src="../../material/hardware/Slide75.jpg" alt="Los Angeles" width="1100" height="500">
+      </div>
+      <div class="carousel-item">
+        <img src="../../material/hardware/Slide76.jpg" alt="Los Angeles" width="1100" height="500">
+      </div>
+      <div class="carousel-item">
+        <img src="../../material/hardware/Slide77.jpg" alt="Los Angeles" width="1100" height="500">
+      </div>
+      <div class="carousel-item">
+        <img src="../../material/hardware/Slide78.jpg" alt="Los Angeles" width="1100" height="500">
+      </div>
+      <div class="carousel-item">
+        <img src="../../material/hardware/Slide79.jpg" alt="Los Angeles" width="1100" height="500">
+      </div>
+      <div class="carousel-item">
+        <img src="../../material/hardware/Slide80.jpg" alt="Los Angeles" width="1100" height="500">
+      </div>
+      <div class="carousel-item">
+        <img src="../../material/hardware/Slide81.jpg" alt="Los Angeles" width="1100" height="500">
+      </div>
+      <div class="carousel-item">
+        <img src="../../material/hardware/Slide82.jpg" alt="Los Angeles" width="1100" height="500">
+      </div>
+      <div class="carousel-item">
+        <img src="../../material/hardware/Slide83.jpg" alt="Los Angeles" width="1100" height="500">
+      </div>
+      <div class="carousel-item">
+        <img src="../../material/hardware/Slide84.jpg" alt="Los Angeles" width="1100" height="500">
+      </div>
+      <div class="carousel-item">
+        <img src="../../material/hardware/Slide85.jpg" alt="Los Angeles" width="1100" height="500">
+      </div>
+      <div class="carousel-item">
+        <img src="../../material/hardware/Slide86.jpg" alt="Los Angeles" width="1100" height="500">
+      </div>
+      <div class="carousel-item">
+        <img src="../../material/hardware/Slide87.jpg" alt="Los Angeles" width="1100" height="500">
+      </div>
+      <div class="carousel-item">
+        <img src="../../material/hardware/Slide88.jpg" alt="Los Angeles" width="1100" height="500">
+      </div>
+      <div class="carousel-item">
+        <img src="../../material/hardware/Slide89.jpg" alt="Los Angeles" width="1100" height="500">
+      </div>
+      <div class="carousel-item">
+        <img src="../../material/hardware/Slide90.jpg" alt="Los Angeles" width="1100" height="500">
+      </div>
+      <div class="carousel-item">
+        <img src="../../material/hardware/Slide91.jpg" alt="Los Angeles" width="1100" height="500">
       </div>
     </div>
 
@@ -143,8 +353,6 @@
       <span class="carousel-control-next-icon"></span>
     </a>
     </div>
-
-    <p class>Fazer download<p>
             </div>
         </div>
     </div>

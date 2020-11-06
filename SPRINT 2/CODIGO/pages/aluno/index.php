@@ -43,7 +43,7 @@
                         <a href="perfil.php" class="dropdown-item">Ver perfil</a>
                         <a href="historico.php" class="dropdown-item">Histórico de compras</a>
                         <div class="dropdown-divider"></div>
-                        <a href="../../action/sair.php"class="dropdown-item">Sair</a>
+                        <a href="../../index.php"class="dropdown-item">Sair</a>
                     </div>
                 </li>
             </ul>
