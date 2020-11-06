@@ -49,37 +49,45 @@ No nosso cronograma (19/10/2020 à 08/11/2020) foi estabelecido a produção de:
 ## - Funcionalidades desenvolvidas -
 <br>
 
-### Área Administrador :man_in_tuxedo:
+### Carrinho :man_in_tuxedo:
 
 
 - [x] <b>Carrinho(confirmação de compra e pagamento) - (Layout)</b> <br>
 :grey_exclamation:
 Devido a complexidade do carrinho, ele foi divido em duas sprints. Na Sprint 2 - foram desenvolvidas o layout e parte da programação e na Sprint 3 - ele será integrado ao banco de dados e estará em pleno funcionamento. :grey_exclamation:
+<img src="CODIGO/assets/img/carrinho-gif.gif">
+<br>
 
 <br>
 
+### Área Administrador :man_in_tuxedo:
+
 - [x] <b>Área Administrador - Adicionar material</b> - :white_check_mark: Completa :white_check_mark:
+<img src="CODIGO/assets/img/admin-material.gif">
 
 <br>
 
 - [x] <b>Área Administador - Relatório de vendas(Layout)</b> <br>
 :grey_exclamation: Esta funcionalidade depende das informações do Carrinho. Na sprint 2 - foi desenvolvido o layout e na Sprint 3 - será implementado o banco de dados.:grey_exclamation: 
+<img src="CODIGO/assets/img/admin-historico.gif">
 
 <br>
 
 ### Área Aluno  :man_student:
 
-- [x] <b>Área Aluno - Ver materiais</b> <br>
+- [x] <b>Área Aluno - lista de materiais comprado</b> <br>
 :grey_exclamation: Esta funcionalidade depende das informações do Carrinho. Na sprint 2 - foi desenvolvido o layout e na Sprint 3 - será implementado o banco de dados.:grey_exclamation:
-
+<img src="CODIGO/assets/img/lista-material.gif">
 <br>
 
 - [x] <b>Área Aluno - Histórico de compras</b>
-:grey_exclamation: Esta funcionalidade depende das informações do Carrinho. Na sprint 2 - foi desenvolvido o layout e na Sprint 3 - será implementado o banco de dados.:grey_exclamation: 
+:grey_exclamation: Esta funcionalidade depende das informações do Carrinho. Na sprint 2 - foi desenvolvido o layout e na Sprint 3 - será implementado o banco de dados.:grey_exclamation:
+<img src="CODIGO/assets/img/histórico.gif">
 
 <br>
 
 - [x] <b>Área Aluno - Ver perfil</b> - :white_check_mark: Completa :white_check_mark:
+<img src="CODIGO/assets/img/perfil.gif">
 
 <br>
 
