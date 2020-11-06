@@ -119,7 +119,6 @@ Devido a complexidade do carrinho, ele foi divido em duas sprints. Na Sprint 2 -
 
 ## - Código -
 
-<br>
 
  - [x] Home - Para visualizar, [clique aqui](https://github.com/arapujo/pi_primeiro_semestre/tree/master/SPRINT%202/CODIGO).
  
