@@ -4,3 +4,8 @@
 
 ### Cadastro
 <img src="../../assets/img/cadastro-gif.gif">
+
+<br>
+
+### Cadastro - Verificação de email
+<img src="../../assets/img/cadastro-email-gif.gif">
