@@ -119,6 +119,14 @@ Devido a complexidade do carrinho, ele foi divido em duas sprints. Na Sprint 2 -
 
 ## - Código -
 
+<br>
+
+ - [x] Home
+ - [x] Área aluno
+ - [x] Área Administrador
+ - [x] Carrinho
+ - [x] Área material
+  
 
  
  
