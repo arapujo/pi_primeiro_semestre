@@ -119,6 +119,8 @@ O cliente solicitou que o site deverá possuir os seguintes requisitos:
 
 * Backend: PHP e MySQL
 
+* Edição e gravação de vídeos: CamStudio
+
 <br />
 
 <a id="ancora5"></a>
