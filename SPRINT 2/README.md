@@ -121,11 +121,12 @@ Devido a complexidade do carrinho, ele foi divido em duas sprints. Na Sprint 2 -
 
 <br>
 
- - [x] Home - Para visualizar, [clique aqui]().
- - [x] Área aluno - Para visualizar, [clique aqui]().
- - [x] Área Administrador - Para visualizar, [clique aqui]().
- - [x] Carrinho - Para visualizar, [clique aqui]().
- - [x] Área material - Para visualizar, [clique aqui]().
+ - [x] Home - Para visualizar, [clique aqui](https://github.com/arapujo/pi_primeiro_semestre/tree/master/SPRINT%202/CODIGO).
+ 
+ - [x] Área aluno - Para visualizar, [clique aqui](https://github.com/arapujo/pi_primeiro_semestre/tree/master/SPRINT%202/CODIGO/pages/aluno).
+ - [x] Área Administrador - Para visualizar, [clique aqui](https://github.com/arapujo/pi_primeiro_semestre/tree/master/SPRINT%202/CODIGO/pages/admin).
+ - [x] Carrinho - Para visualizar, [clique aqui](https://github.com/arapujo/pi_primeiro_semestre/tree/master/SPRINT%202/CODIGO/pages/carrinho).
+ - [x] Área material - Para visualizar, [clique aqui](https://github.com/arapujo/pi_primeiro_semestre/tree/master/SPRINT%202/CODIGO).
   
 
  
