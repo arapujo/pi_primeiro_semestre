@@ -100,7 +100,38 @@ Devido a complexidade do carrinho, ele foi divido em duas sprints. Na Sprint 2 -
 ### Material :closed_book:
 
 
-- [x] <b>Página - Material - </b> :white_check_mark: Completa :white_check_mark: - Para visualizar, [clique aqui](https://github.com/arapujo/pi_primeiro_semestre/tree/master/SPRINT%202/MATERIAL)
+- [x] <b>Página - Material </b> :white_check_mark: Completa :white_check_mark: -
+
+   
+    #### <b>Matemática discreta</b>
+   <img src="CODIGO/assets/img/material.gif" width="90%">
+   
+   <br>
+   
+   ####  <b>Hardware</b>
+    
+    <br>
+    
+   <img src="CODIGO/material/hardware-material.gif" width="90%">
+   
+   <br>
+   
+  ####   <b>Arquitetura e organização de computadores</b>
+   
+   <br>
+   
+    <img src="CODIGO/material/arquitetura-material.gif" width="90%">
+    
+     <br>
+   
+   ####  <b>Inglês</b>
+   
+    <br>
+   
+    <img src="CODIGO/material/ingles-material.gif" width="90%">
+   <br><br>
+   
+- [x] <b>Formatação material de texto - </b> :white_check_mark: Completa :white_check_mark: - Para visualizar, [clique aqui](https://github.com/arapujo/pi_primeiro_semestre/tree/master/SPRINT%202/MATERIAL)
 
   - [x] Português
   - [x] Matemática discreta
@@ -108,20 +139,6 @@ Devido a complexidade do carrinho, ele foi divido em duas sprints. Na Sprint 2 -
   - [x] Hardware
   - [x] Arquitetura e organização de computadores
   - [x] Inglês
-
-<br>
-
-- [x] <b>Formatação material de texto - </b> :white_check_mark: Completa :white_check_mark: -
-Para visualizar, [clique aqui](https://github.com/arapujo/pi_primeiro_semestre/tree/master/SPRINT%202/MATERIAL)
-
-   - [x] Português
-   - [x] Matemática discreta
-   - [x] Algoritmo e lógica de programação
-   - [x] Hardware
-   - [x] Arquitetura e organização de computadores
-   - [x] Inglês
-
-<p> 
 
 <br>
 
@@ -135,7 +152,7 @@ Para visualizar, [clique aqui](https://github.com/arapujo/pi_primeiro_semestre/t
  - [x] Área aluno - Para visualizar, [clique aqui](https://github.com/arapujo/pi_primeiro_semestre/tree/master/SPRINT%202/CODIGO/pages/aluno).
  - [x] Área Administrador - Para visualizar, [clique aqui](https://github.com/arapujo/pi_primeiro_semestre/tree/master/SPRINT%202/CODIGO/pages/admin).
  - [x] Carrinho - Para visualizar, [clique aqui](https://github.com/arapujo/pi_primeiro_semestre/tree/master/SPRINT%202/CODIGO/pages/carrinho).
- - [x] Área material - Para visualizar, [clique aqui](https://github.com/arapujo/pi_primeiro_semestre/tree/master/SPRINT%202/CODIGO).
+ - [x] Área material - Para visualizar, [clique aqui](https://github.com/arapujo/pi_primeiro_semestre/tree/master/SPRINT%202/CODIGO/pages/aluno).
   
 
  
