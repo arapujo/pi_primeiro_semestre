@@ -103,12 +103,12 @@ Devido a complexidade do carrinho, ele foi divido em duas sprints. Na Sprint 2 -
 - [x] <b>Página - Material </b> :white_check_mark: Completa :white_check_mark: -
 
    
-   - [x] Matemática discreta
+   * Matemática discreta
    <img src="CODIGO/assets/img/material.gif" width="90%">
    
    <br>
    
-   - [x] Hardware
+    * Hardware
    <img src="CODIGO/material/hardware-material.gif" width="90%">
    
    <br>
