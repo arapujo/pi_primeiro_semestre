@@ -127,6 +127,14 @@ Devido a complexidade do carrinho, ele foi divido em duas sprints. Na Sprint 2 -
    ####  <b>Inglês</b>
    
     <br>
+    
+     ####  <b>Algoritmos e Lógica de Programação</b>
+   
+    <br>
+    
+     ####  <b>Português</b>
+   
+    <br>
    
     <img src="CODIGO/material/ingles-material.gif" width="90%">
    <br><br>
