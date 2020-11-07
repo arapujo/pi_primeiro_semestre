@@ -103,22 +103,22 @@ Devido a complexidade do carrinho, ele foi divido em duas sprints. Na Sprint 2 -
 - [x] <b>Página - Material </b> :white_check_mark: Completa :white_check_mark: -
 
    
-   * Matemática discreta
+   * <b>Matemática discreta</b>
    <img src="CODIGO/assets/img/material.gif" width="90%">
    
    <br>
    
-    * Hardware
+    * <b>Hardware</b>
    <img src="CODIGO/material/hardware-material.gif" width="90%">
    
    <br>
    
-   - [x] Arquitetura e organização de computadores
+   *  <b>Arquitetura e organização de computadores</b>
     <img src="CODIGO/material/arquitetura-material.gif" width="90%">
     
      <br>
    
-   - [x] Inglês
+   * <b>Inglês</b>
     <img src="CODIGO/material/ingles-material.gif" width="90%">
    
    <br>
