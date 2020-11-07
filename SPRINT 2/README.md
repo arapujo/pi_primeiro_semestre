@@ -125,18 +125,29 @@ Devido a complexidade do carrinho, ele foi divido em duas sprints. Na Sprint 2 -
      <br>
    
    ####  <b>Inglês</b>
+    <br>
+    
+   <img src="CODIGO/material/ingles-material.gif" width="90%">
    
     <br>
     
      ####  <b>Algoritmos e Lógica de Programação</b>
+     
+      <br>
+      
+     <img src="CODIGO/material/logica-material.gif" width="90%">
    
-    <br>
+     <br>
     
      ####  <b>Português</b>
+     
+    <br>
+      
+     <img src="CODIGO/material/portugues-material.gif" width="90%">
    
     <br>
    
-    <img src="CODIGO/material/ingles-material.gif" width="90%">
+    <img src="CODIGO/material/material-portugues.gif" width="90%">
    <br><br>
    
 - [x] <b>Formatação material de texto - </b> :white_check_mark: Completa :white_check_mark: - Para visualizar, [clique aqui](https://github.com/arapujo/pi_primeiro_semestre/tree/master/SPRINT%202/MATERIAL)
