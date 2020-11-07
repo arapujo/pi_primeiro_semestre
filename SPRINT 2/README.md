@@ -124,28 +124,36 @@ Devido a complexidade do carrinho, ele foi divido em duas sprints. Na Sprint 2 -
     
      <br>
    
-   ####  <b>Inglês</b>
-    <br>
-    
-   <img src="CODIGO/material/ingles-material.gif" width="90%">
+    ####   <b>Inglês</b>
    
+   <br>
+   
+    <img src="CODIGO/material/ingles-material.gif" width="90%">
+    
+     <br>
+   
+
+   ####  <b>Hardware</b>
+    
     <br>
     
+   <img src="CODIGO/material/hardware-material.gif" width="90%">
+   
+   <br>
+   
      ####  <b>Algoritmos e Lógica de Programação</b>
      
-      <br>
-      
-     <img src="CODIGO/material/logica-material.gif" width="90%">
-   
-     <br>
+     <img src="CODIGO/material/ingles-material.gif" width="90%">
+     
+    <br>
+ 
+    <img src="CODIGO/material/material-portugues.gif" width="90%">
+   <br>
     
      ####  <b>Português</b>
      
     <br>
-      
-     <img src="CODIGO/material/portugues-material.gif" width="90%">
-   
-    <br>
+ 
    
     <img src="CODIGO/material/material-portugues.gif" width="90%">
    <br><br>
