@@ -100,6 +100,29 @@ Devido a complexidade do carrinho, ele foi divido em duas sprints. Na Sprint 2 -
 ### Material :closed_book:
 
 
+- [x] <b>Formatação material de texto - </b> :white_check_mark: Completa :white_check_mark: -
+
+   
+   - [x] Matemática discreta
+   <img src="CODIGO/assets/img/material.gif" width="90%">
+   
+   <br>
+   
+   - [x] Hardware
+   <img src="CODIGO/material/hardware-material.gif" width="90%">
+   
+   <br>
+   
+   - [x] Arquitetura e organização de computadores
+    <img src="CODIGO/material/arquitetura-material.gif" width="90%">
+    
+     <br>
+   
+   - [x] Inglês
+    <img src="CODIGO/material/ingles-material.gif" width="90%">
+   
+   <br>
+   
 - [x] <b>Página - Material - </b> :white_check_mark: Completa :white_check_mark: - Para visualizar, [clique aqui](https://github.com/arapujo/pi_primeiro_semestre/tree/master/SPRINT%202/MATERIAL)
 
   - [x] Português
@@ -111,15 +134,7 @@ Devido a complexidade do carrinho, ele foi divido em duas sprints. Na Sprint 2 -
 
 <br>
 
-- [x] <b>Formatação material de texto - </b> :white_check_mark: Completa :white_check_mark: -
-Para visualizar, [clique aqui](https://github.com/arapujo/pi_primeiro_semestre/tree/master/SPRINT%202/MATERIAL)
 
-   - [x] Português
-   - [x] Matemática discreta
-   - [x] Algoritmo e lógica de programação
-   - [x] Hardware
-   - [x] Arquitetura e organização de computadores
-   - [x] Inglês
 
 <p> 
 
