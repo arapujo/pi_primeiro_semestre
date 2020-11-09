@@ -21,3 +21,14 @@
 
 ### <b>-Matemática-</b> :triangular_ruler:
 <img src="matematica.gif" width="90%">
+
+<br>
+
+### <b>-Algorimos e Lógica de Programação-</b> :computer_mouse:
+<img src="logica.gif" width="90%">
+
+<br>
+
+### <b>-Português-</b> :books:
+<img src="portugues.gif" width="90%">
+
