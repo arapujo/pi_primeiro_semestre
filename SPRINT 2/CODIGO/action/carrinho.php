@@ -67,7 +67,7 @@
 
 	}
 
-		/* echo'<pre>';
+		echo'<pre>';
 		var_dump($_SESSION['dados']);
-		echo '</pre>'; */										
+		echo '</pre>';								
 	?>
