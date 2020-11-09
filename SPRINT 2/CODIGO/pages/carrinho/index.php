@@ -1,4 +1,6 @@
-
+<?php
+	session_start();
+?>
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -28,7 +30,7 @@
 			
 			<ul class="navbar-nav ml-auto">
 				<li class="nav-item">
-					<a class="nav-link" href="../../pages/login/index.html"><button class="nav-button-login" type="button">Login</button> </a>
+					<a class="nav-link" href="../../pages/login/index.php"><button class="nav-button-login" type="button">Login</button> </a>
 				</li>
 				<li class="nav-item">
 					<a class="nav-link" href="car.html"><img src="../../assets/icon/shopping-cart-icon.png" width="40px" height="40px"></a>
