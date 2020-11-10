@@ -12,9 +12,26 @@
 
 <body data-spy="scroll" data-target="#navbarResponsive">
 
-<?php
-	include ('action/header-inicial.php');
-?>
+<!-- Home -->
+<div id="home">
+	<!--- Menu --->
+	<nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
+		<a class="navbar-brand" href="#"><img src="assets/img/logo.png"></a>
+		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive">
+			<span class="navbar-toggler-icon"></span>
+		</button>
+		<div class="collapse navbar-collapse" id="navbarResponsive">
+			<ul class="navbar-nav ml-auto">
+				<li class="nav-item">
+					<a class="nav-link" href="pages/login/index.php"><button class="nav-button-login" type="button">Login</button></a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" href="pages/carrinho/index.php"><img src="assets/icon/shopping-cart-icon.png" width="40px" height="40px"></a>
+				</li>
+			</ul>
+		</div>
+	</nav>
+	<!--- Fim Menu -->
 
 	<!-- Landing Page Section -->
 	<div class="landing">
@@ -48,9 +65,8 @@
 				<div class="row text-center">
 					<div class="col-md-4">
 						<div class="feature">
-							<img src="assets/icon/chat-bubbles.png" width="90px">
-							<h3>Fórum de dúvidas</h3>
-							<p>Além do material, há uma comunidade para te apoiar e auxiliar</p>
+							<img src="assets/icon/ytb-icon.png" width="98px">
+							<p>Possuímos materiais de textos, vídeos e jogos</p>
 						</div>
 					</div>
 			
@@ -95,9 +111,9 @@
 						<div class="card-desc card1">
 							<h3>Plano Trimestral</h3>
 							<p>Acesso a todo o conteúdo do site durante o período de 3 meses.</p>
-							<p>R$ xxx, xx à vista</p> 
-							<p>3x de R$ xxx, xx</p>
-								<a href="pages/curso/index.html" class="btn-card">Assinar</a>   
+							<p>R$ 139,44 à vista</p> 
+							<p>3x de R$ 47, 06</p>
+								<a href="pages/carrinho/carrinho_3meses.php" class="btn-card">Assinar</a>   
 						</div>
 					</div>
 				</div>
@@ -108,9 +124,9 @@
 						<div class="card-desc">
 							<h3>Plano Semestral</h3>
 							<p>Acesso a todo o conteúdo do site durante o período de 6 meses.</p>
-							<p>R$ xxx, xx à vista</p> 
-							<p>6x de R$ xxx, xx</p>
-								<a href="pages/curso/index.html" class="btn-card">Assinar</a>   
+							<p>R$ 139, 44 à vista</p> 
+							<p>6x de R$ 23, 66</p>
+								<a href="pages/carrinho/carrinho_6meses.php" class="btn-card">Assinar</a>   
 						</div>
 					</div>
 				</div>
@@ -231,8 +247,8 @@
 		<div class="row justify-content-center">
 			<div class="col-md-5 text-center">
 				<img src="assets/img/logo.png">
-				<p><a href="#">Sobre nós</a></p>
-				<p><a href="#">Fale conosco</a></p>
+				<p><a href="sobre.php">Sobre nós</a></p>
+				<p><a href="contato.php">Fale conosco</a></p>
 				<a href="#" target="_blank"><img class="footer-icon" src="assets/icon/facebook-icon.png"></a>
 				<a href="#" target="_blank"><img class="footer-icon"src="assets/icon/twitter-icon.png"></a>
 				<a href="#" target="_blank"><img class="footer-icon"src="assets/icon/instagram-icon.png"></a>
