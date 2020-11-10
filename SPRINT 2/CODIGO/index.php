@@ -12,26 +12,9 @@
 
 <body data-spy="scroll" data-target="#navbarResponsive">
 
-<!-- Home -->
-<div id="home">
-	<!--- Menu --->
-	<nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
-		<a class="navbar-brand" href="#"><img src="assets/img/logo.png"></a>
-		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive">
-			<span class="navbar-toggler-icon"></span>
-		</button>
-		<div class="collapse navbar-collapse" id="navbarResponsive">
-			<ul class="navbar-nav ml-auto">
-				<li class="nav-item">
-					<a class="nav-link" href="pages/login/index.php"><button class="nav-button-login" type="button">Login</button></a>
-				</li>
-				<li class="nav-item">
-					<a class="nav-link" href="pages/carrinho/index.php"><img src="assets/icon/shopping-cart-icon.png" width="40px" height="40px"></a>
-				</li>
-			</ul>
-		</div>
-	</nav>
-	<!--- Fim Menu -->
+<?php
+	include ('action/header-inicial.php');
+?>
 
 	<!-- Landing Page Section -->
 	<div class="landing">

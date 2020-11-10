@@ -1,3 +1,11 @@
+<?php
+	session_start();
+
+	if(isset($_SESSION['usuario'])) {
+		header('Location: pagamento.php');
+		exit();
+	}
+?>
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -27,7 +35,7 @@
 			
 			<ul class="navbar-nav ml-auto">
 				<li class="nav-item">
-					<a class="nav-link" href="../../pages/login/index.html"><button class="nav-button-login" type="button">Login</button> </a>
+					<a class="nav-link" href="../../pages/login/index.php"><button class="nav-button-login" type="button">Login</button> </a>
 				</li>
 				<li class="nav-item">
 					<a class="nav-link" href="car.html"><img src="../../assets/icon/shopping-cart-icon.png" width="40px" height="40px"></a>
@@ -43,7 +51,7 @@
 			<div class="login-form">
             <h5 class="titulo-identificacao">Identificação</h5>	
             
-			<form action="" method="post">
+			<form action="../../action/login.php" method="post">
 				<h2 class="text-center">Login</h2>   
 				<div class="form-group has-error">
 					<input type="email" class="form-control" name="user_email" placeholder="Email" required="required">
@@ -52,11 +60,11 @@
 					<input type="password" class="form-control" name="password" placeholder="Senha" required="required">
 				</div>        
 				<div class="form-group">
-					<a  href="../manutencao/manutencao.html" type="submit" class="btn btn-primary btn-lg btn-block">Entrar</a></button>
+					<button type="submit" class="btn btn-primary btn-lg btn-block">Entrar</a></button>
 				</div>
-				<p><a href="../login/esqueci-senha.html">Esqueceu a senha?</a></p>
+				<p><a href="../login/esqueci-senha.php">Esqueceu a senha?</a></p>
 			</form>
-			<p class="text-center small texto-cadastro"><a href="../login/cadastro.html">Não possui uma conta?Cadastre-se</a></p>   
+			<p class="text-center small texto-cadastro"><a href="../login/cadastro.php">Não possui uma conta?Cadastre-se</a></p>   
 		</div>
     </div>
 </div>
