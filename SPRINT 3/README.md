@@ -1,4 +1,4 @@
-[![Generic badge](https://img.shields.io/badge/SPRINT_2-FINALIZADA-blue.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/SPRINT_3-EM_ANDAMENTO-blue.svg)](https://shields.io/)
 
  <br>
  
@@ -7,7 +7,7 @@
 
 <br>
 
-## Entrega Sprint 2
+## Entrega Sprint 3
 
 Os conteúdos entregue nessa sprint, foram definidos de acordo com as funcionalidades 7 até a 15 do nosso backlog, sendo desenvolvidas 9 features no total.
 
