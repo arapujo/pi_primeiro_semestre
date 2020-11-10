@@ -65,7 +65,7 @@
 				<div class="row text-center">
 					<div class="col-md-4">
 						<div class="feature">
-							<img src="assets/icon/ytb-icon.png" width="98px">
+							<img src="assets/icon/ytb-icon.png" width="80px">
 							<p>Possuímos materiais de textos, vídeos e jogos</p>
 						</div>
 					</div>
