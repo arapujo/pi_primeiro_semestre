@@ -11,7 +11,7 @@
 
 Os conteúdos entregue nessa sprint, foram definidos de acordo com as funcionalidades 7 até a 15 do nosso backlog, sendo desenvolvidas 9 features no total.
 
-<img src="CODIGO/assets/img/sprint2-backlog.png">
+<img src="../CODIGO/assets/img/sprint2-backlog.png">
 
 
 </br>
@@ -31,7 +31,7 @@ Os conteúdos entregue nessa sprint, foram definidos de acordo com as funcionali
 
 <a id="ancora1"></a>
 ## Card SPRINT 2 
-<img src="CODIGO/assets/img/card-sprint2.png">
+<img src="../CODIGO/assets/img/card-sprint2.png">
 
 No nosso cronograma (19/10/2020 à 08/11/2020) foi estabelecido a produção de:
 
@@ -55,7 +55,7 @@ No nosso cronograma (19/10/2020 à 08/11/2020) foi estabelecido a produção de:
 - [x] <b>Carrinho(confirmação de compra e pagamento) - (Layout)</b> <br>
 :grey_exclamation:
 Devido a complexidade do carrinho, ele foi divido em duas sprints. Na Sprint 2 - foram desenvolvidas o layout e parte da programação e na Sprint 3 - ele será integrado ao banco de dados e estará em pleno funcionamento. :grey_exclamation:
-<img src="CODIGO/assets/img/gif-carrinho.gif">
+<img src="../CODIGO/assets/img/gif-carrinho.gif">
 <br>
 
 <br>
@@ -63,13 +63,13 @@ Devido a complexidade do carrinho, ele foi divido em duas sprints. Na Sprint 2 -
 ### Área Administrador :man_in_tuxedo:
 
 - [x] <b>Área Administrador - Adicionar material</b> - :white_check_mark: Completa :white_check_mark:
-<img src="CODIGO/assets/img/admin-material.gif">
+<img src="../CODIGO/assets/img/admin-material.gif">
 
 <br>
 
 - [x] <b>Área Administador - Relatório de vendas(Layout)</b> <br>
 :grey_exclamation: Esta funcionalidade depende das informações do Carrinho. Na sprint 2 - foi desenvolvido o layout e na Sprint 3 - será implementado o banco de dados.:grey_exclamation: 
-<img src="CODIGO/assets/img/admin-historico.gif">
+<img src="../CODIGO/assets/img/admin-historico.gif">
 
 <br>
 
@@ -77,23 +77,23 @@ Devido a complexidade do carrinho, ele foi divido em duas sprints. Na Sprint 2 -
 
 - [x] <b>Área Aluno - lista de materiais comprado</b> <br>
 :grey_exclamation: Esta funcionalidade depende das informações do Carrinho. Na sprint 2 - foi desenvolvido o layout e na Sprint 3 - será implementado o banco de dados.:grey_exclamation:
-<img src="CODIGO/assets/img/lista-material.gif">
+<img src="../CODIGO/assets/img/lista-material.gif">
 <br>
 
 - [x] <b>Área Aluno - Histórico de compras</b>
 :grey_exclamation: Esta funcionalidade depende das informações do Carrinho. Na sprint 2 - foi desenvolvido o layout e na Sprint 3 - será implementado o banco de dados.:grey_exclamation:
-<img src="CODIGO/assets/img/histórico.gif">
+<img src="../CODIGO/assets/img/histórico.gif">
 
 <br>
 
 - [x] <b>Área Aluno - Ver perfil</b> - :white_check_mark: Completa :white_check_mark:
-<img src="CODIGO/assets/img/perfil.gif">
+<img src="../CODIGO/assets/img/perfil.gif">
 
 <br>
 
 - [x] <b>Área Aluno - Ver material</b><br>
 :grey_exclamation: Esta funcionalidade depende das informações do Carrinho. Na sprint 2 - foi desenvolvido o layout e na Sprint 3 - será implementado o banco de dados.:grey_exclamation:
-<img src="CODIGO/assets/img/material.gif">
+<img src="../CODIGO/assets/img/material.gif">
 
 <br>
 
@@ -104,7 +104,7 @@ Devido a complexidade do carrinho, ele foi divido em duas sprints. Na Sprint 2 -
 
    
     #### <b>Matemática discreta</b>
-   <img src="CODIGO/assets/img/material.gif" width="90%">
+   <img src="../CODIGO/assets/img/material.gif" width="90%">
    
    <br>
    
@@ -112,7 +112,7 @@ Devido a complexidade do carrinho, ele foi divido em duas sprints. Na Sprint 2 -
     
     <br>
     
-   <img src="CODIGO/material/hardware-material.gif" width="90%">
+   <img src="../CODIGO/material/hardware-material.gif" width="90%">
    
    <br>
    
@@ -120,7 +120,7 @@ Devido a complexidade do carrinho, ele foi divido em duas sprints. Na Sprint 2 -
    
    <br>
    
-    <img src="CODIGO/material/arquitetura-material.gif" width="90%">
+    <img src="../CODIGO/material/arquitetura-material.gif" width="90%">
     
      <br>
    
@@ -128,7 +128,7 @@ Devido a complexidade do carrinho, ele foi divido em duas sprints. Na Sprint 2 -
    
    <br>
    
-    <img src="CODIGO/material/ingles-material.gif" width="90%">
+    <img src="../CODIGO/material/ingles-material.gif" width="90%">
     
      <br>
    
@@ -137,13 +137,13 @@ Devido a complexidade do carrinho, ele foi divido em duas sprints. Na Sprint 2 -
     
     <br>
     
-   <img src="CODIGO/material/hardware-material.gif" width="90%">
+   <img src="../CODIGO/material/hardware-material.gif" width="90%">
    
    <br>
    
      ####  <b>Algoritmos e Lógica de Programação</b>
      
-     <img src="CODIGO/material/material-logica.gif" width="90%">
+     <img src="../CODIGO/material/material-logica.gif" width="90%">
      
     <br>
  
@@ -152,7 +152,7 @@ Devido a complexidade do carrinho, ele foi divido em duas sprints. Na Sprint 2 -
     <br>
  
    
-    <img src="CODIGO/material/material-portugues.gif" width="90%">
+    <img src="../CODIGO/material/material-portugues.gif" width="90%">
    <br><br>
    
 - [x] <b>Formatação material de texto - </b> :white_check_mark: Completa :white_check_mark: - Para visualizar, [clique aqui](https://github.com/arapujo/pi_primeiro_semestre/tree/master/SPRINT%202/MATERIAL)
