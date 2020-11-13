@@ -108,14 +108,6 @@ Devido a complexidade do carrinho, ele foi divido em duas sprints. Na Sprint 2 -
    
    <br>
    
-   ####  <b>Hardware</b>
-    
-    <br>
-    
-   <img src="../CODIGO/material/hardware-material.gif" width="90%">
-   
-   <br>
-   
   ####   <b>Arquitetura e organização de computadores</b>
    
    <br>
