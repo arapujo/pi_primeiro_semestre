@@ -1,3 +1,7 @@
+<?php
+	session_start();
+
+?>
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -45,7 +49,7 @@
             <p class="texto-pedido">Pedido realizado com sucesso!</p>
             <div class="dados-pedido">
             <p>Dados do pedido:</p>
-            <p>Total: </p>
+            <p>Total: <?php echo 'R$'.number_format($_SESSION['pagamento'],2,",","."); ?> </p>
             <p>Nome do produto: </p>
             <p>Tipo de pagamento: </p>
             <!-- SE A COMPRA FOR BOLETO, MOSTRAR ESSE BOTÃO<button>Imprimir boleto</button>-->
