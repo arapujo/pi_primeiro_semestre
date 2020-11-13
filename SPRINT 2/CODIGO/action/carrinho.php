@@ -1,5 +1,6 @@
 <?php 
 	session_start();
+
 	if(!isset($_SESSION['itens']))
 	{
 		$_SESSION['itens'] = array();
@@ -54,20 +55,21 @@
 	</td>
 	</tr>	
 	<?php
+
 		array_push(
 				$_SESSION['dados'],
 				array
 				(
-					'id_Produto' => $idProduto,
+					'id_produto' => $idProduto,
 					'quantidade' => $quantidade,
 					'preco' => $produto[0]['valor_produto'],
-					'total' => $subtotal
+					'total' => $total,
+					'comprador' => $_SESSION['usuario']
 				)
-			); /*array push*/				
+			); /*array push*/
+							
 
 	}
-
-		echo'<pre>';
-		var_dump($_SESSION['dados']);
-		echo '</pre>';								
+		$_SESSION['pagamento'] = $total;
+		
 	?>
