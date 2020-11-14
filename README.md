@@ -5,7 +5,7 @@
 <h2 text align="center">Fatec Profº Jessen Vidal - São José dos Campos - 1º Semestre ADS</h2>
 
 <p align="center">
-  <img  src="SPRINT 2/CODIGO/assets/img/fatec-logo.png" width="140px" height="70px">
+  <img  src="CODIGO/assets/img/fatec-logo.png" width="140px" height="70px">
  </p>
  
  <br>
@@ -134,7 +134,7 @@ O cliente solicitou que o site deverá possuir os seguintes requisitos:
 <a id="ancora6"></a>
 ## - Backlog do projeto - :bar_chart:
 
-<img  src="SPRINT 2/CODIGO/assets/img/backlog-cybermind.png">
+<img  src="CODIGO/assets/img/backlog-cybermind.png">
 
 <a id="ancora7"></a>
 
@@ -142,7 +142,7 @@ O cliente solicitou que o site deverá possuir os seguintes requisitos:
 
 ## - Cronograma - :clock1230:
 
-<img  src="SPRINT 2/CODIGO/assets/img/cronograma.png">
+<img  src="CODIGO/assets/img/cronograma.png">
 
 <a id="ancora8"></a>
 
@@ -154,6 +154,6 @@ O cliente solicitou que o site deverá possuir os seguintes requisitos:
 
 Confira a página Home do Cybermind:
 
-<img src="SPRINT 2/CODIGO/assets/img/site-cybermind.jpg">
+<img src="CODIGO/assets/img/site-cybermind.jpg">
 
 

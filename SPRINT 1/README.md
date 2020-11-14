@@ -11,7 +11,7 @@
 
 O conteúdo entregue nessa print, foram definidos de acordo com as 6 primeiras funcionalidades de alta prioridade do nosso backlog.
 
-<img src="../SPRINT 2/CODIGO/assets/img/sprint1-backlog.png">
+<img src="../CODIGO/assets/img/sprint1-backlog.png">
 
 <br>
 
@@ -37,7 +37,7 @@ O conteúdo entregue nessa print, foram definidos de acordo com as 6 primeiras f
 
 <a id="ancora1"></a>
 ## Card SPRINT 1 
-<img src="../SPRINT 2/CODIGO/assets/img/card-sprint1.png">
+<img src="../CODIGO/assets/img/card-sprint1.png">
 
 No nosso cronograma (28/09/2020 à 17/10/2020) foi estabelecido a produção de:
 
@@ -76,7 +76,7 @@ Para conferir os <b>materiais de textos</b> produzidos, [clique aqui](https://gi
 <a id="ancora3"></a>
 ## - Plano de negócios -
 Para acessar nosso <b>Plano de Negócios</b> completo, [clique aqui.](https://github.com/arapujo/pi_primeiro_semestre/blob/master/SPRINT%201/Materiais%20Did%C3%A1ticos/Plano%20de%20Neg%C3%B3cios.pdf)
-<img src="../SPRINT 2/CODIGO/assets/img/pdn-imagem.png">
+<img src="../CODIGO/assets/img/pdn-imagem.png">
  
 <br>
 
@@ -94,6 +94,6 @@ Funcionalidades em funcionamento:
 
 <p> :heavy_exclamation_mark: Durante o desenvolvimento do site, a hospedagem é gratuita. :heavy_exclamation_mark: <p>
  
- <img src="../SPRINT 2/CODIGO/assets/img/site-cybermind.jpg">
+ <img src="../CODIGO/assets/img/site-cybermind.jpg">
  
  
