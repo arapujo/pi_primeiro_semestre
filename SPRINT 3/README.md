@@ -343,5 +343,5 @@
 
 ## - Código - :computer_mouse:
 
-<p>Para visualizar o código do site,</p>[clique aqui.](https://github.com/arapujo/pi_primeiro_semestre/tree/master/CODIGO).
+<p>Para visualizar o código do site,</p> [clique aqui.](https://github.com/arapujo/pi_primeiro_semestre/tree/master/CODIGO).
 
