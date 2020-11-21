@@ -25,11 +25,15 @@
  
  [Materiais de jogos](#link3)
  
- [Funcionalidades desenvolvidas](#link4)
+ [Plano de négocios](#link4)
  
- [Plano de négocios](#link5)
+ [Demonstração do site](#link5)
  
- [Demonstração do site](#link6)
+ [Funcionalidades desenvolvidas](#link6)
+ 
+ 
+ 
+
  
 <br>
 
@@ -96,7 +100,6 @@
 <br>
 
 
-
 <a id="link3"></a>
 ## - Materiais de jogos - :video_game:
 
@@ -139,7 +142,18 @@
 <br>
 
 <a id="link4"></a>
+## - Plano de negócios - :moneybag:
+
+<br>
+
+<a id="link5"></a>
+## - Demonstração do site - :technologist:
+ 
+ <br>
+ 
+<a id="link6"></a>
 ## - Funcionalidades desenvolvidas - :computer:
+
 <a name="ancora"></a>
 
  [Home](#ancora1)
@@ -175,7 +189,6 @@
  [Área Administrador - Materiais cadastrados](#ancora16)
 
 <br />
-
 
 <a id="ancora1"></a>
 
@@ -324,12 +337,5 @@
 
 <br>
 
-<a id="link5"></a>
-## - Plano de negócios - :moneybag:
 
-<br>
-
-<a id="link6"></a>
-## - Demonstração do site - :technologist:
- 
 
