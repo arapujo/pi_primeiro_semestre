@@ -94,8 +94,33 @@
 
 <img src="gif/perfil.gif" width="80%">
 
-<p>O usário terá poderá alterar informações cadastradas como nome ou senha e fornecer informações adicionais.</p>
+<p>O usário poderá alterar informações cadastradas como nome ou senha e fornecer informações adicionais.</p>
 
+<br>
+
+
+#### Área aluno - Material de jogo
+
+<img src="gif/q-hard.gif" width="80%">
+
+<p>O usário poderá realizar quizzes relacionados as matérias  de Portugûes, Inglês, Lógica, Matemática, Hardware, Lógica de Programação e Organização de Computadores. </p>
+
+<br>
+
+
+#### Área aluno - Material de texto
+
+<img src="gif/q-hard.gif" width="80%">
+
+<p>Página dos materiais do tipo texto. </p>
+
+<br>
+
+#### Área aluno - Material de vídeo
+
+<img src="gif/q-hard.gif" width="80%">
+
+<p>Página dos materiais do tipo texto. </p>
 
 <br>
 
