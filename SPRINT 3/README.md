@@ -20,7 +20,7 @@
 
   <img src="gif/home.gif" width="80%">
   
-  <p>Por meio da Home, o usuário terá acesso ao Login e Cadastro, ao carrinho e catálogo de materiais.</p>
+  <p>Por meio da Home, o usuário terá acesso ao Login e Cadastro, ao carrinho e catálogo de materiais. O administrador possui um botão de login especial.</p>
   
   <br>
   
@@ -72,6 +72,8 @@
 
 <p>O usuário poderá optar por fazer uma assinatura mensal durante o período de 3 ou 6 meses. Durante esse tempo, o usuário terá acesso a todo material (texto e vídeo) do site.</p>
  
+ <br>
+ 
  #### Área aluno
 
 <img src="gif/aluno-home.gif" width="80%">
@@ -86,10 +88,40 @@
 
 <p>O usário terá acesso ao todos os materiais comprados por ele, por meio da página Ver Materiais.</p>
 
+<br>
+
 #### Área aluno - Visualizar perfil
 
 <img src="gif/perfil.gif" width="80%">
 
-<p>O usário terá poderá alterar informações cadastradas como nome ou senha e fornece informações adicionais.</p>
+<p>O usário terá poderá alterar informações cadastradas como nome ou senha e fornecer informações adicionais.</p>
+
+
+<br>
+
+#### Área Administrador
+
+<img src="gif/adm-cadastro.gif" width="80%">
+
+<p>Através de um login especial, o administrador terá acesso a área ADMIN. Nela, ele poderá cadastrar materiais, ver relatório de vendas e acompanhar materiais cadastrados.</p>
+
+<br>
+
+#### Área Administrador - Relatório de vendas
+
+<img src="gif/relatorio.gif" width="80%">
+
+<p>O administrador poderá acompanhar todas as vendas (mensal, anual e saldo atual) e exportar o relatório.</p>
+
+<br>
+
+#### Área Administrador - Materiais cadastrados
+
+<img src="gif/materiais.gif" width="80%">
+
+<p>O administrador poderá acompanhar todos os materiais (vídeo, texto e jogo) cadastrados no site.</p>
+
+<br>
+
  
  
