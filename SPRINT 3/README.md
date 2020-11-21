@@ -20,11 +20,47 @@
 
   <img src="gif/home.gif" width="80%">
   
-#### Fale Conosco
+  <p>Por meio da Home, o usuário terá acesso ao Login e Cadastro, ao carrinho e catálogo de materiais.</p>
+  
+  <br>
+  
+  #### Fale Conosco
 
   <img src="gif/contato.gif" width="80%">
+  
+  <p>Através desta página, o usuário poderá entrar em contato com a plataforma, para sugestões ou dúvidas, que serão enviadas para o email do Cybermind e analisadas posteriormente pela equipe de manutenção.</p>
+  
+  <br>
   
 #### Sobre nós
 
  <img src="gif/sobre.gif" width="80%">
+ 
+ <p> Breve descrição sobre o objetivo do Cybermind.</p>
+ 
+ <br>
+ 
+#### Cadastro
+
+  <img src="gif/../../CODIGO/assets/img/cadastro-gif.gif" width="80%">
+  
+  <p>O usuário poderá fazer o cadastro, que contém verificação de correspondência de senha e email cadastrado.</p>
+  
+   <br>
+   
+   #### Login
+
+  <img src="gif/../../CODIGO/assets/img/login-gif.gif" width="80%">
+  
+  <p>Após o cadastro, o usuário poderá fazer o login e acessar todos os recursos do site.</p>
+  
+   <br>
+   
+
+ 
+ #### Carrinho
+
+ <img src="gif/carrinho.gif" width="80%">
+ 
+ <p>Por meio do catálogo de materiais, o usuário poderá comprar os conteúdos, adicionando ou removendo itens. Depois o usuário é redirecionado para a identificação, pagamento e posteriormente a confirmação da compra.</p>
 
