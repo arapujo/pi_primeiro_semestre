@@ -16,6 +16,45 @@
 
 <br>
 
+## - Índice -
+<a name="ancora"></a>
+
+ [Home](#ancora1)
+ 
+ [Fale conosco](#ancora2)
+ 
+ [Sobre nós](#ancora3)
+ 
+ [Cadastro](#ancora4)
+ 
+ [Login](#ancora5)
+ 
+ [Carrinho](#ancora6)
+ 
+ [Plano de acesso](#ancora7)
+ 
+ [Área aluno](#ancora8)
+ 
+ [Área aluno - Ver materiais](#ancora9)
+ 
+ [Área aluno - Visualizar perfil](#ancora10)
+ 
+ [Área aluno - Materiais de jogos](#ancora11)
+
+ [Área aluno - Materiais de texto](#ancora12)
+ 
+ [Área aluno - Materiais de vídeo](#ancora13)
+ 
+ [Área Administrador - Cadastrar materiais](#ancora14)
+ 
+ [Área Administrador - Relatório de vendas](#ancora15)
+  
+ [Área Administrador - Materiais cadastrados](#ancora16)
+
+
+<br />
+
+<a id="ancora1"></a>
 #### Home
 
   <img src="gif/home.gif" width="80%">
@@ -24,6 +63,7 @@
   
   <br>
   
+  <a id="ancora2"></a>
   #### Fale Conosco
 
   <img src="gif/contato.gif" width="80%">
@@ -31,7 +71,8 @@
   <p>Através desta página, o usuário poderá entrar em contato com a plataforma, para sugestões ou dúvidas, que serão enviadas para o email do Cybermind e analisadas posteriormente pela equipe de manutenção.</p>
   
   <br>
-  
+
+<a id="ancora3"></a>
 #### Sobre nós
 
  <img src="gif/sobre.gif" width="80%">
@@ -40,6 +81,7 @@
  
  <br>
  
+ <a id="ancora3"></a>
 #### Cadastro
 
   <img src="gif/../../CODIGO/assets/img/cadastro-gif.gif" width="80%">
@@ -48,6 +90,7 @@
   
    <br>
    
+   <a id="ancora4"></a>
    #### Login
 
   <img src="gif/../../CODIGO/assets/img/login-gif.gif" width="80%">
@@ -56,6 +99,7 @@
   
    <br>
    
+   <a id="ancora5"></a>
  #### Carrinho
 
  <img src="gif/carrinho.gif" width="80%">
@@ -64,6 +108,7 @@
 
  <br>
  
+ <a id="ancora6"></a>
 #### Plano de acesso
 
 <img src="gif/3.gif" width="80%">
@@ -74,6 +119,7 @@
  
  <br>
  
+ <a id="ancora7"></a>
  #### Área aluno
 
 <img src="gif/aluno-home.gif" width="80%">
