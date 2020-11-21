@@ -36,12 +36,26 @@
 <a id="link0"></a>
 ## - Backlog  - Sprint 3 - :bar_chart:
 <img src="gif/backlog-sprint3.png">
+
+<p>Para a sprint final, foi definido o desenvolvimento das funcionalidades restantes do nosso backlog.</p>
+
 <br>
 
 <a id="link1"></a>
 ## - Card - Sprint 3 - :clock1230:
 <img src="gif/card-sprint3.png" width="70%">
 
+* No card da última sprint, foi definido a finalização do site, para a entrega do produto para o cliente.<br>
+
+* Foi finalizada a área Aluno (home, ver materiais e editar perfil), área Admnistrador (cadastrar materiais, ver materiais e relatório de vendas).</p>
+
+* Foram desenvolvidos também os materiais de jogos, que abrangem todas as matérias requeridas pelo cliente e os materiais de vídeo.
+
+* O design (tipografia e paleta de cores) da plataforma foi finalizado.
+
+* Foram desenvolvidas também as páginas Fale Conosco e Sobre Nós.
+
+* O Plano de Négocios (entregue na Sprint 1) foi melhorado e aperfeiçoado.
 <br>
 
 <a id="link2"></a>
