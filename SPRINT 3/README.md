@@ -128,6 +128,7 @@
 
 <br>
 
+<a id="ancora8"></a>
  #### Área aluno - Ver materiais
 
 <img src="gif/material.gif" width="80%">
@@ -136,6 +137,7 @@
 
 <br>
 
+<a id="ancora9"></a>
 #### Área aluno - Visualizar perfil
 
 <img src="gif/perfil.gif" width="80%">
@@ -144,7 +146,7 @@
 
 <br>
 
-
+<a id="ancora10"></a>
 #### Área aluno - Material de jogo
 
 <img src="gif/q-hard.gif" width="80%">
@@ -153,7 +155,7 @@
 
 <br>
 
-
+<a id="ancora11"></a>
 #### Área aluno - Material de texto
 
 <img src="gif/q-hard.gif" width="80%">
@@ -162,6 +164,7 @@
 
 <br>
 
+<a id="ancora12"></a>
 #### Área aluno - Material de vídeo
 
 <img src="gif/q-hard.gif" width="80%">
@@ -170,6 +173,7 @@
 
 <br>
 
+<a id="ancora13"></a>
 #### Área Administrador
 
 <img src="gif/adm-cadastro.gif" width="80%">
@@ -178,6 +182,7 @@
 
 <br>
 
+<a id="ancora14"></a>
 #### Área Administrador - Relatório de vendas
 
 <img src="gif/relatorio.gif" width="80%">
@@ -186,6 +191,7 @@
 
 <br>
 
+<a id="ancora15"></a>
 #### Área Administrador - Materiais cadastrados
 
 <img src="gif/materiais.gif" width="80%">
