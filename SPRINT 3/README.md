@@ -34,10 +34,9 @@
  
  [Funcionalidades desenvolvidas](#link6)
  
- 
+  [Código](#link7)
  
 
- 
 <br>
 
 <a id="link0"></a>
@@ -340,5 +339,9 @@
 
 <br>
 
+<a id="link7"></a>
 
+## - Código - :computer_mouse:
+
+<p>Para visualizar o código do site,</p>[clique aqui.](https://github.com/arapujo/pi_primeiro_semestre/tree/master/CODIGO).
 
