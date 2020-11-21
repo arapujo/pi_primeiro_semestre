@@ -80,9 +80,9 @@ O cliente solicitou que o site deverá possuir os seguintes requisitos:
 
 - [x] Login - Para visualizar, [clique aqui](https://github.com/arapujo/pi_primeiro_semestre/tree/master/SPRINT%202/CODIGO/pages/login).
 
-- [ ] Carrinho de compras 
-- [ ] Área do administrador: Relatório de vendas
-- [ ] Área do administrador: Adicionar material 
+- [x] Carrinho de compras 
+- [x] Área do administrador: Relatório de vendas
+- [x] Área do administrador: Adicionar material 
 <br />
 
 <a id="ancora3"></a>
