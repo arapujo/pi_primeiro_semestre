@@ -11,9 +11,47 @@
 
  <p>Foi definido como objetivo para a Sprint 3, a entrega final do produto para o cliente. Para isso, nossa equipe desenvolveu as funcionalidades restantes de nosso backlog.</p>
  
+ 
+<br>
+
+## - Índice -
+<a name="link"></a>
+
+ [Backlog](#link0)
+ 
+ [Card](#link1)
+
+ [Materiais de vídeo](#link2)
+ 
+ [Materiais de jogos](#link3)
+ 
+ [Funcionalidades desenvolvidas](#link4)
+ 
+ [Demonstração do site](#link5)
+ 
+<br>
+
+<a id="link0"></a>
+## - Backlog  - Sprint 3 -
 
 <br>
 
+<a id="link1"></a>
+## - Card - Sprint 3 -
+
+<br>
+
+<a id="link2"></a>
+## - Materiais de vídeo -
+
+<br>
+
+<a id="link3"></a>
+## - Materiais de jogos -
+
+<br>
+
+<a id="link4"></a>
 ## - Funcionalidades desenvolvidas -
 <a name="ancora"></a>
 
