@@ -48,6 +48,40 @@
 
 <br>
 
+### Introdução a Hardware [Visualizar vídeo completo](https://www.youtube.com/watch?v=PyBSGPmIBIM&feature=youtu.be).
+
+ <img src="gif/hard-aula.gif" width="80%">
+<br>
+
+### Introdução a Lógica de Programação e Algoritmos [Visualizar vídeo completo](https://www.youtube.com/watch?v=AGHM3e5BAao&feature=youtu.be).
+
+ <img src="gif/hard-aula.gif" width="80%">
+<br>
+
+### Introdução a Matemática Discreta [Visualizar vídeo completo](https://www.youtube.com/watch?v=ytZEdVOCn8s&feature=youtu.be).
+
+ <img src="gif/mat-aula.gif" width="80%">
+ 
+<br>
+
+### Introdução a Arquitetura e Organização de Computadores [Visualizar vídeo completo](https://www.youtube.com/watch?v=CnxcmKWcx1I&feature=youtu.be).
+
+ <img src="gif/aoc-aula.gif" width="80%">
+ 
+<br>
+
+### Introdução a Português [Visualizar vídeo completo](https://www.youtube.com/watch?v=Fdwq9L6U1Ec&feature=youtu.be).
+
+ <img src="gif/port-aula.gif" width="80%">
+<br>
+
+### Introdução a Inglês [Visualizar vídeo completo](https://www.youtube.com/watch?v=Fdwq9L6U1Ec&feature=youtu.be).
+
+ <img src="gif/ingles-aula.gif" width="80%">
+<br>
+
+
+
 <a id="link3"></a>
 ## - Materiais de jogos - :video_game:
 
