@@ -42,12 +42,12 @@
 <br>
 
 <a id="link2"></a>
-## - Materiais de vídeo -
+## - Materiais de vídeo - :film_strip:
 
 <br>
 
 <a id="link3"></a>
-## - Materiais de jogos -
+## - Materiais de jogos - :video_game:
 
 <br>
 
@@ -88,7 +88,7 @@
 <br>
 
 <a id="link4"></a>
-## - Funcionalidades desenvolvidas -
+## - Funcionalidades desenvolvidas - :computer:
 <a name="ancora"></a>
 
  [Home](#ancora1)
@@ -273,5 +273,6 @@
 
 <br>
 
+## - Demosntração do site - :technologist:
  
- 
+
