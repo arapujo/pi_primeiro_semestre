@@ -276,7 +276,7 @@
 <br>
 
 <a id="link5"></a>
-## - Plano de negócios - :technologist:
+## - Plano de negócios - :moneybag:
 
 <br>
 
