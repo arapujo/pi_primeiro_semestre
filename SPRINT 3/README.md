@@ -70,5 +70,26 @@
 
 <img src="gif/material-3.gif" width="80%">
 
-<p>O usuário poderá optar por fazer uma assinatura mensal durante o período de 3 ou 6 meses. Durante esse tempo, o usuário terá acesso a todo material (texto e vídeo) do site. 
+<p>O usuário poderá optar por fazer uma assinatura mensal durante o período de 3 ou 6 meses. Durante esse tempo, o usuário terá acesso a todo material (texto e vídeo) do site.</p>
+ 
+ #### Área aluno
+
+<img src="gif/aluno-home.gif" width="80%">
+
+<p>Após o login, o usuário terá a acesso a tela do Aluno, que possui jogos e catálogo de materiais e as opções de Visualizar perfil, materiais e Logout.</p>
+
+<br>
+
+ #### Área aluno - Ver materiais
+
+<img src="gif/material.gif" width="80%">
+
+<p>O usário terá acesso ao todos os materiais comprados por ele, por meio da página Ver Materiais.</p>
+
+#### Área aluno - Visualizar perfil
+
+<img src="gif/perfil.gif" width="80%">
+
+<p>O usário terá poderá alterar informações cadastradas como nome ou senha e fornece informações adicionais.</p>
+ 
  
