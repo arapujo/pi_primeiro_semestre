@@ -12,6 +12,11 @@
  <p>Foi definido como objetivo para a Sprint 3, a entrega final do produto para o cliente. Para isso, nossa equipe desenvolveu as funcionalidades restantes de nosso backlog.</p>
  
  
+### Funcionalidades desenvolvidas
 
 <br>
+
+#### Home
+
+  <img src="gif/home.gif" width="60%">
 
