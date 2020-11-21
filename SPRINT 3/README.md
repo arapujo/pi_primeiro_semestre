@@ -18,5 +18,13 @@
 
 #### Home
 
-  <img src="gif/home.gif" width="60%">
+  <img src="gif/home.gif" width="88%">
+  
+#### Fale Conosco
+
+  <img src="gif/contato.gif" width="88%">
+  
+#### Sobre nós
+
+ <img src="gif/sobre.gif" width="88%">
 
