@@ -14,7 +14,7 @@
  
 <br>
 
-## - Índice -
+## - Índice - :clipboard:
 <a name="link"></a>
 
  [Backlog](#link0)
