@@ -32,12 +32,12 @@
 <br>
 
 <a id="link0"></a>
-## - Backlog  - Sprint 3 -
+## - Backlog  - Sprint 3 - :bar_chart:
 
 <br>
 
 <a id="link1"></a>
-## - Card - Sprint 3 -
+## - Card - Sprint 3 - :clock1230:
 
 <br>
 
