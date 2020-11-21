@@ -9,106 +9,79 @@
 
 ## Entrega Sprint 3
 
+-<h3>Objetivo</h3>-
 
-Objetivo
 
-Entrega final do produto para o cliente. O site desenvolvido têm como 
+<p>Escrever objetivo</p>
 
-Funcionalidades desenvolvidas:
-		- Home
-			- Descrição da plataforma
-			- Catálogo de produtos
-			- Botão de login, cadastro e carrinho
-		- Fale conosco
-			  - Formulário de contato para o envio de dúvidas ou sugestões de melhorias
-		- Sobre nós
-			  - Apresentação da missão e objetivo do site CyberMind
-		- Carrinho
-			- Adicionar e remover itens
-			- Identificação de usuário
-			- Checkout de pagamento
-		- Cadastro
-			- Email (com verifição de email cadastrado)
-			- Senha (com confirmação de senha)
-			- Nome e Sobrenome
-			- Usuário
-		- Login
-			- Email
-			- Senha
-		- Aluno
-			- Tela Inicial
-				- Botão redirecionando para material comprado
-				- Vídeo de apresentação da plataforma
-				- Jogos gratuitos (quizzes)
-				- Catálogo de produtos
+<h4>Funcionalidades desenvolvidas:</h4>
+
+<b>Home</b>
+
+- [x] Descrição da plataforma
+
+- [x] Catálogo de produtos
+
+- [x] Botão de login, cadastro e carrinho
+
+<b>Fale conosco</b>
+
+- [x] Formulário de contato para o envio de dúvidas ou sugestões de melhorias
+
+- [x] Sobre nós
+
+- [x] Apresentação da missão e objetivo do site CyberMind
+
+<b>Carrinho</b>
+
+- [x]  Adicionar e remover itens
+
+- [x]  Identificação de usuário
+
+- [x]  Checkout de pagamento
+
+- [x]  Confirmação de pagamento
+
+<b>Cadastro</b>
+- [x] Email (com verifição de email cadastrado)
+
+- [x] Senha (com confirmação de senha)
+- [x] Nome e Sobrenome
+- [x] Usuário
+
+ <b>Login</b>
+ 
+- [x] Email
+
+- [x] Senha
+		
+<b> Aluno </b>
+
+ - [x] Tela Inicial
+
+- [x] Botão redirecionando para material comprado
+
+- [x] Jogos gratuitos (quizzes)
+
+- [x] Catálogo de produtos
 				
-			- Ver perfil
-				- Cadastro de informações adicionais
-				- Atualizar perfil
-				- Atualizar senha
-			- Visualizar lista de materiais comprados
-			- Acessar conteúdo do material comprado
-				- SlideShow
-				- Download do material em pdf
-				- Vídeo-aula
-		- Administrador
-				- Adicionar materiais
-				- Relatório de vendas (mensal e anual) com extração
+- [x] Ver perfil
+- [x] Cadastro de informações adicionais
+- [x] Atualizar perfil
+- [x] Atualizar senha
+- [x] Visualizar lista de materiais comprados
+- [x] Acessar conteúdo do material comprado
+- [x] SlideShow
+- [x] Vídeo-aula
 
- Demonstração do Site
-	
-	* GIF *
-	
-	- Para visualizar o vídeo completo, clique aqui.
+<b>Administrador</b>
 
+- [x] Adicionar materiais
 
-Modelo de negócios - Um plano de negócios foi produzido e apresentado ao cliente na Sprint 1, porém foi decidido a elaboração de um novo modelo de negócios
-atendendo as solicitações do nosso cliente.
+- [x] Ver materiais adicionados
 
-	* GIF *
-	
-	- Para visualizar o modelo completo, clique aqui.
-
-
-Jogos desenvolvidos - Foram produzidos quizzes sobre todas as matérias requeridas pelo cliente.
-
-	* GIF *
-	- Arquitetura e Organização de Computadores 
-	
-	* GIF *
-	- Português (Pontuação e Concordância)
-
-	* GIF *
-	- Algoritmos e Lógica de Programação	
-
-	* GIF *
-	- Matemática Discreta (Lógica e Grafos)	
-
-	* GIF *
-	- Hardware 
-
-	* GIF *
-	- Inglês 
-
-
- Materiais de vídeo produzidos - Foram produzidos materais de vídeos sobre todas as matérias requeridas pelo cliente.
-
-	* GIF *
-	- Arquitetura e Organização de Computadores - Para visualizar o vídeo completo, clique aqui.
-	
-	* GIF *
-	- Português (Pontuação e Concordância)	- Para visualizar o vídeo completo, clique aqui.
-
-	* GIF *
-	- Algoritmos e Lógica de Programação	- Para visualizar o vídeo completo, clique aqui.
-
-	* GIF *
-	- Matemática Discreta (Lógica e Grafos)	- Para visualizar o vídeo completo, clique aqui.
-
-	* GIF *
-	- Hardware - Para visualizar o vídeo completo, clique aqui.
-
-	* GIF *
-	- Inglês - Para visualizar o vídeo completo, clique aqui.
-	
+- [x] Relatório de vendas (mensal e anual) com extração		
+		
+		
+			
 	
