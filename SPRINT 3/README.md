@@ -49,10 +49,58 @@
   
  [Área Administrador - Materiais cadastrados](#ancora16)
 
-
 <br />
 
+## - Materiais de vídeo -
+
+<br>
+
+### Quiz Hardware
+
+ <img src="gif/q-hard.gif" width="80%">
+ 
+<br>
+
+### Quiz Algoritmos e Lógica de Programação
+
+ <img src="gif/q-py.gif" width="80%">
+ 
+<br>
+
+### Quiz Inglês
+
+ <img src="gif/q-ingles.gif" width="80%">
+ 
+<br>
+
+### Quiz Matemática Discreta
+
+ <img src="gif/q-mat.gif" width="80%">
+ 
+<br>
+
+### Quiz Português
+
+ <img src="gif/q-port.gif" width="80%">
+ 
+<br>
+
+### Quiz Arquitetura e Organização de Computadores
+
+ <img src="gif/q-aoc.gif" width="80%">
+ 
+<br>
+
+## - Materiais de jogos -
+
+<br>
+
+## - Demonstração do site -
+
+<br>
+
 <a id="ancora1"></a>
+
 #### Home
 
   <img src="gif/home.gif" width="80%">
