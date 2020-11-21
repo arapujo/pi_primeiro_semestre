@@ -27,7 +27,9 @@
  
  [Funcionalidades desenvolvidas](#link4)
  
- [Demonstração do site](#link5)
+ [Plano de négocios](#link5)
+ 
+ [Demonstração do site](#link6)
  
 <br>
 
@@ -273,6 +275,12 @@
 
 <br>
 
+<a id="link5"></a>
+## - Plano de negócios - :technologist:
+
+<br>
+
+<a id="link6"></a>
 ## - Demosntração do site - :technologist:
  
 
