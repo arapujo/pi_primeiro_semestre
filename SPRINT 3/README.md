@@ -56,11 +56,19 @@
   
    <br>
    
-
- 
  #### Carrinho
 
  <img src="gif/carrinho.gif" width="80%">
  
  <p>Por meio do catálogo de materiais, o usuário poderá comprar os conteúdos, adicionando ou removendo itens. Depois o usuário é redirecionado para a identificação, pagamento e posteriormente a confirmação da compra.</p>
 
+ <br>
+ 
+#### Plano de acesso
+
+<img src="gif/3.gif" width="80%">
+
+<img src="gif/material-3.gif" width="80%">
+
+<p>O usuário poderá optar por fazer uma assinatura mensal durante o período de 3 ou 6 meses. Durante esse tempo, o usuário terá acesso a todo material (texto e vídeo) do site. 
+ 
