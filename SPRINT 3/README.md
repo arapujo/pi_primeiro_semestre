@@ -9,8 +9,11 @@
 
 ## Entrega Sprint 3
 
- <p>Foi definido como objetivo da Sprint 3, a entrega final do produto para o cliente. Para isso, nossa equipe desenvolveu as funcionalidades restantes de nosso backlog. Foi proposto pelo cliente, a elaboração de um site para a venda de conteúdos didáticos voltados para a área da tecnologia, que abrangem especificadamente as matérias Matemática Discreta (Lógica e Grafos), Português (Concordância e Pontuação), Inglês, Hardware, Algoritmos e Lógica de Programação e Arquitetura e Organização de Computadores. Os funcionalidades requeridas foram: Carrinho, Materiais de vídeo, texto e jogos e Área Administrador - Relatório de Vendas.</p>
+ <p>Definimos como objetivo da Sprint 3, a entrega final do produto para o cliente. Para isso, nossa equipe desenvolveu as funcionalidades restantes de nosso backlog. Foi proposto, a elaboração de um site para a venda de conteúdos didáticos voltados para a área da tecnologia, que abrangem especificadamente as matérias Matemática Discreta (Lógica e Grafos), Português (Concordância e Pontuação), Inglês, Hardware, Algoritmos e Lógica de Programação e Arquitetura e Organização de Computadores. Os funcionalidades requeridas foram: Carrinho, Materiais de vídeo, texto e jogos e Área Administrador - Relatório de Vendas.</p>
  
+ <br>
+ 
+ <strong>O site está em total funcionamento, atendendo todos os requisitos do cliente.</strong> 
  
 <br>
 
