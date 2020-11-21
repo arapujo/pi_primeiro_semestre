@@ -35,11 +35,12 @@
 
 <a id="link0"></a>
 ## - Backlog  - Sprint 3 - :bar_chart:
-
+<img src="gif/backlog-sprint3.png">
 <br>
 
 <a id="link1"></a>
 ## - Card - Sprint 3 - :clock1230:
+<img src="gif/card-sprint3.png" width="70%">
 
 <br>
 
@@ -48,34 +49,34 @@
 
 <br>
 
-### Introdução a Hardware [Visualizar vídeo completo](https://www.youtube.com/watch?v=PyBSGPmIBIM&feature=youtu.be).
+### Introdução a Hardware - [Visualizar vídeo completo](https://www.youtube.com/watch?v=PyBSGPmIBIM&feature=youtu.be).
 
  <img src="gif/hard-aula.gif" width="80%">
 <br>
 
-### Introdução a Lógica de Programação e Algoritmos [Visualizar vídeo completo](https://www.youtube.com/watch?v=AGHM3e5BAao&feature=youtu.be).
+### Introdução a Lógica de Programação e Algoritmos - [Visualizar vídeo completo](https://www.youtube.com/watch?v=AGHM3e5BAao&feature=youtu.be).
 
  <img src="gif/hard-aula.gif" width="80%">
 <br>
 
-### Introdução a Matemática Discreta [Visualizar vídeo completo](https://www.youtube.com/watch?v=ytZEdVOCn8s&feature=youtu.be).
+### Introdução a Matemática Discreta - [Visualizar vídeo completo](https://www.youtube.com/watch?v=ytZEdVOCn8s&feature=youtu.be).
 
  <img src="gif/mat-aula.gif" width="80%">
  
 <br>
 
-### Introdução a Arquitetura e Organização de Computadores [Visualizar vídeo completo](https://www.youtube.com/watch?v=CnxcmKWcx1I&feature=youtu.be).
+### Introdução a Arquitetura e Organização de Computadores - [Visualizar vídeo completo](https://www.youtube.com/watch?v=CnxcmKWcx1I&feature=youtu.be).
 
  <img src="gif/aoc-aula.gif" width="80%">
  
 <br>
 
-### Introdução a Português [Visualizar vídeo completo](https://www.youtube.com/watch?v=Fdwq9L6U1Ec&feature=youtu.be).
+### Introdução a Português - [Visualizar vídeo completo](https://www.youtube.com/watch?v=Fdwq9L6U1Ec&feature=youtu.be).
 
  <img src="gif/port-aula.gif" width="80%">
 <br>
 
-### Introdução a Inglês [Visualizar vídeo completo](https://www.youtube.com/watch?v=Fdwq9L6U1Ec&feature=youtu.be).
+### Introdução a Inglês - [Visualizar vídeo completo](https://www.youtube.com/watch?v=Fdwq9L6U1Ec&feature=youtu.be).
 
  <img src="gif/ingles-aula.gif" width="80%">
 <br>
