@@ -344,5 +344,5 @@
 
 ## - Código - :computer_mouse:
 
-[Visualizar código](https://www.youtube.com/watch?v=Fdwq9L6U1Ec&feature=youtu.be).
+[Visualizar código](https://github.com/arapujo/pi_primeiro_semestre/tree/master/CODIGO).
 
