@@ -299,7 +299,7 @@
 <a id="ancora11"></a>
 #### Área aluno - Material de texto
 
-<img src="gif/q-hard.gif" width="80%">
+<img src="../CODIGO/assets/img/material.gif" width="80%">
 
 <p>Página dos materiais do tipo texto. </p>
 
