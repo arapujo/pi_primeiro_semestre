@@ -52,15 +52,15 @@
 <img src="gif/card-sprint3.png" width="70%">
 
 
-* Foi finalizada a área Aluno (home, ver materiais e editar perfil), área Admnistrador (cadastrar materiais, ver materiais e relatório de vendas).</p>
+* Foram finalizadas a área Aluno (home, ver materiais e editar perfil), área Admnistrador (cadastrar materiais, ver materiais e relatório de vendas).</p>
 
-* Foram desenvolvidos os materiais de jogos, que abrangem todas as matérias requeridas pelo cliente e os materiais de vídeo.
+* Foram desenvolvidos os materiais de jogos e vídeos, que abrangem todas as matérias requeridas pelo cliente.
 
 * O design (tipografia e paleta de cores) da plataforma foi finalizado.
 
 * Foram desenvolvidas também as páginas Fale Conosco e Sobre Nós.
 
-* O Plano de Négocios (entregue na Sprint 1) foi melhorado e aperfeiçoado.
+* O Plano de Négocios (entregue na Sprint 1) foi atualizado e aperfeiçoado.
 
 <br>
 
@@ -149,7 +149,7 @@
 <br>
 
 <a id="link5"></a>
-## - Demonstração do site - :technologist: [Para visualizar o vídeo completo, clique aqui.]().
+## - Demonstração do site - :technologist: [Adicionar link do youtuve.]().
  
  <img src="gif/demonstracao.gif" width="80%">
  
@@ -265,7 +265,7 @@
 
 <img src="gif/aluno-home.gif" width="80%">
 
-<p>Após o login, o usuário terá a acesso a tela do Aluno, que possui jogos e catálogo de materiais e as opções de Visualizar perfil, materiais e Logout.</p>
+<p>Após o login, o usuário terá a acesso a tela do Aluno, que possui jogos e catálogo de materiais e as opções de Visualizar perfil, Ver Materiais e Logout.</p>
 
 <br>
 
@@ -274,7 +274,7 @@
 
 <img src="gif/material.gif" width="80%">
 
-<p>O usário terá acesso ao todos os materiais comprados por ele, por meio da página Ver Materiais.</p>
+<p>O usuário terá acesso ao todos os materiais comprados por ele, por meio da página Ver Materiais.</p>
 
 <br>
 
