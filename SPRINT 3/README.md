@@ -308,7 +308,7 @@
 <a id="ancora12"></a>
 #### Área aluno - Material de vídeo
 
-<img src="gif/q-hard.gif" width="80%">
+<img src="gif/material-video.gif" width="80%">
 
 <p>Página dos materiais do tipo texto. </p>
 
