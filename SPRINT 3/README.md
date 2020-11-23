@@ -310,7 +310,7 @@
 
 <img src="gif/material-video.gif" width="80%">
 
-<p>Página dos materiais do tipo texto. </p>
+<p>Página dos materiais do tipo vídeo. </p>
 
 <br>
 
