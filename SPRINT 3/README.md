@@ -28,7 +28,7 @@
  
  [Materiais de jogos](#link3)
  
- [Plano de négocios](#link4)
+ [Plano de negócios](#link4)
  
  [Demonstração do site](#link5)
  
