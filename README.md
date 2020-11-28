@@ -1,6 +1,5 @@
+[![Generic badge](https://img.shields.io/badge/STATUS_DO_PROJETO-FINALIZADO-blue.svg)](https://shields.io/)
 
-[![Generic badge](https://img.shields.io/badge/STATUS_DO_PROJETO_FINALIZADO-blue.svg)](https://shields.io/) 
-[![Generic badge](https://img.shields.io/badge/SPRINT_ATUAL-SPRINT_3-blue.svg)](https://shields.io/)
 
 <h2 text align="center">Fatec Prof Jessen Vidal - São José dos Campos - 1º Semestre ADS</h2>
 
