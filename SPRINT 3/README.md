@@ -1,4 +1,4 @@
-[![Generic badge](https://img.shields.io/badge/SPRINT_3-EM_ANDAMENTO-blue.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/SPRINT_3-FINALIZADA-blue.svg)](https://shields.io/)
 
  <br>
  
