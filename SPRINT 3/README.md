@@ -9,7 +9,7 @@
 
 ## - Entrega Sprint 3 - :white_check_mark:
 
- <p>Definimos como objetivo da Sprint 3, a entrega final do produto para o cliente. Para isso, nossa equipe desenvolveu as funcionalidades restantes de nosso backlog. Foi proposto, a elaboração de um site para a venda de conteúdos didáticos voltados para a área da tecnologia, que abrangem especificadamente as matérias Matemática Discreta (Lógica e Grafos), Português (Concordância e Pontuação), Inglês, Hardware, Algoritmos e Lógica de Programação e Arquitetura e Organização de Computadores. Os funcionalidades requeridas foram: Carrinho, Materiais de vídeo, texto e jogos e Área Administrador - Relatório de Vendas.</p>
+ <p>Definimos como objetivo da Sprint 3, a entrega final do produto para o cliente. Para isso, nossa equipe desenvolveu as funcionalidades restantes de nosso backlog. Foi proposto, a elaboração de um site para a venda de conteúdos didáticos voltados para a área da tecnologia, que abrangem especificadamente as matérias Matemática Discreta (Lógica e Grafos), Português (Concordância e Pontuação), Inglês, Hardware, Algoritmos e Lógica de Programação e Arquitetura e Organização de Computadores. As funcionalidades requeridas foram: Carrinho, Materiais de vídeo, texto e jogos e Área Administrador - Relatório de Vendas.</p>
  
  <br>
  
@@ -28,7 +28,7 @@
  
  [Materiais de jogos](#link3)
  
- [Plano de négocios](#link4)
+ [Plano de negócios](#link4)
  
  [Demonstração do site](#link5)
  
@@ -149,7 +149,7 @@
 <br>
 
 <a id="link5"></a>
-## - Demonstração do site - :technologist: [Adicionar link do youtube.]()
+## - Demonstração do site - :technologist: [Visualizar demonstração](https://www.youtube.com/watch?v=E-nPT0zZivk&feature=youtu.be)
  
  <img src="gif/demonstracao.gif" width="80%">
  
@@ -310,7 +310,7 @@
 
 <img src="gif/material-video.gif" width="80%">
 
-<p>Página dos materiais do tipo texto. </p>
+<p>Página dos materiais do tipo vídeo. </p>
 
 <br>
 
