@@ -144,12 +144,15 @@
 <br>
 
 <a id="link4"></a>
-## - Plano de negócios - :moneybag:
+## - Plano de negócios - :moneybag: [Visualizar Plano de Negócios completo](https://github.com/arapujo/pi_primeiro_semestre/blob/master/SPRINT%203/gif/PlanoDeNeg%C3%B3cios-CyberMind.pdf).
+
+ 
+ <img src="gif/plano.gif" width="80%"> 
 
 <br>
 
 <a id="link5"></a>
-## - Demonstração do site - :technologist: [Visualizar demonstração](https://www.youtube.com/watch?v=E-nPT0zZivk&feature=youtu.be)
+## - Demonstração do site - :technologist: [Visualizar demonstração](https://www.youtube.com/watch?v=E-nPT0zZivk&feature=youtu.be).
  
  <img src="gif/demonstracao.gif" width="80%">
  
