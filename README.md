@@ -1,5 +1,5 @@
 
-[![Generic badge](https://img.shields.io/badge/STATUS_DO_PROJETO-EM_ANDAMENTO-blue.svg)](https://shields.io/) 
+[![Generic badge](https://img.shields.io/badge/STATUS_DO_PROJETO_FINALIZADO-blue.svg)](https://shields.io/) 
 [![Generic badge](https://img.shields.io/badge/SPRINT_ATUAL-SPRINT_3-blue.svg)](https://shields.io/)
 
 <h2 text align="center">Fatec Prof Jessen Vidal - São José dos Campos - 1º Semestre ADS</h2>
@@ -150,7 +150,7 @@ O cliente solicitou que o site deverá possuir os seguintes requisitos:
 
 * [Jean Gomes dos Santos (Scrum Master)](https://github.com/jeangomes3)
 
-* [Ana Lívia Pascoal da Silva Araújo (Development Team)](https://github.com/arapujo/)
+* [Ana Lívia Pascoal da Silva Araújo (Development Team)](https://www.linkedin.com/in/ana-ara%C3%BAjo-920ba11b4/)
 
 * [André Luís da Silva e Silva (Development Team)](https://github.com/AndreSilva358)
 
@@ -162,7 +162,7 @@ O cliente solicitou que o site deverá possuir os seguintes requisitos:
 
 * [Sarah da Boa Viagem Santana (Development Team)](https://github.com/Sarah781)
 
-* [Stephani Soares Junqueira (Development Team)](https://github.com/stessada)
+* [Stephani Soares Junqueira (Development Team)](https://linkedin.com/in/stephani-soares-3744a3179)
 
 * [Vitor Luiz Rodrigues de Lima (Development Team)](https://github.com/VilRL)
 
@@ -187,7 +187,7 @@ O cliente solicitou que o site deverá possuir os seguintes requisitos:
 
 - [x] Entrega 2 - 28/09/2020 à 17/10/2020 - Para visualizar a entrega, [clique aqui](https://github.com/arapujo/pi_primeiro_semestre/tree/master/SPRINT%201).
 - [X] Entrega 3 - 19/10/2020 à 08/11/2020 - Para visualizar a entrega, [clique aqui](https://github.com/arapujo/pi_primeiro_semestre/tree/master/SPRINT%202).
-- [ ] Entrega 4 - 09/11/2020 à 29/11/2020 - Em desenvolvimento...
+- [x] Entrega 4 - 09/11/2020 à 29/11/2020 - Para visualizar a entrega, [clique aqui](https://github.com/arapujo/pi_primeiro_semestre/tree/master/SPRINT%203).
 
 <br />
 
