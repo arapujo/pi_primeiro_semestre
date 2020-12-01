@@ -147,19 +147,19 @@ O cliente solicitou que o site deverá possuir os seguintes requisitos:
 <a id="ancora3"></a>
 ## - Equipe - :busts_in_silhouette:
 
-* [Jean Gomes dos Santos (Scrum Master)](https://github.com/jeangomes3)
+* [Jean Gomes dos Santos (Scrum Master)](https://www.linkedin.com/mwlite/in/jean-santos-562b74200)
 
 * [Ana Lívia Pascoal da Silva Araújo (Development Team)](https://www.linkedin.com/in/ana-ara%C3%BAjo-920ba11b4/)
 
-* [André Luís da Silva e Silva (Development Team)](https://github.com/AndreSilva358)
+* [André Luís da Silva e Silva (Development Team)](https://www.linkedin.com/in/andr%C3%A9-silva-63a4621ba/)
 
 * [Diogo Luiz Troyli Pedrozo de Souza (Development Team)](https://github.com/diogotroyli)
 
-* [Gabriele Gonçalves Vieira (Development Team)](https://github.com/GabrieleGVieira)
+* [Gabriele Gonçalves Vieira (Development Team)](https://www.linkedin.com/in/gabrielevieira)
 
 * [Renato Hidalgo Santos (Development Team)](https://github.com/renatohidalgo23)
 
-* [Sarah da Boa Viagem Santana (Development Team)](https://github.com/Sarah781)
+* [Sarah da Boa Viagem Santana (Development Team)](https://www.linkedin.com/in/sarah-santana-843394200)
 
 * [Stephani Soares Junqueira (Development Team)](https://linkedin.com/in/stephani-soares-3744a3179)
 
